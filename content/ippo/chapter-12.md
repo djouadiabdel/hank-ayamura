@@ -6,9 +6,9 @@ title: "Chapter 12"
 
 The date. The date the date the date.
 
-It has been a while since I have felt like I did everything right like that. The conversation, the way I handled that tough question — I deserve a pat on the back for it. I am not sure why Kumi said what she said but I remember her face the moment she said it.
+It has been a while since I have felt like I did everything right like that. The conversation, the way I handled that tough question, I deserve a pat on the back for it. I am not sure why Kumi said what she said but I remember her face the moment she said it.
 
-Not a grin. Not anger. Something else. A mood change so complete it happened in a second, like a door closing in a room you thought was open. One moment she was focused on me, completely focused, listening to what I was saying as if she was testing me. I was probably on a test and I passed it. But the seriousness on her face after — that was a thing I do not really understand. Why was she looking like there was a truck that landed on top of her. As if the weight of the mountains had shifted to be on her shoulders as a duty. Something she had decided to carry and was already carrying it before she told me she was carrying it.
+Not a grin. Not anger. Something else. A mood change so complete it happened in a second, like a door closing in a room you thought was open. One moment she was focused on me, completely focused, listening to what I was saying as if she was testing me. I was probably on a test and I passed it. But the seriousness on her face after, that was a thing I do not really understand. Why was she looking like there was a truck that landed on top of her. As if the weight of the mountains had shifted to be on her shoulders as a duty. Something she had decided to carry and was already carrying it before she told me she was carrying it.
 
 I have seen that look before. On the coach. On my mother. On Ryo when he walks to the ring. The look of someone who has chosen something heavy and is no longer deciding whether to hold it.
 
@@ -18,7 +18,7 @@ I do not know what that means. I turned it over in my head three times on the wa
 
 Because regardless of what it was, the truth is that in the end the most important thing I did was answering my question correctly. I know what strength is. And my strength right now is in the little things. This date was part of it. The relaxation. The conversation. The walking in the city not doing anything specifically. All of it is part of my journey to get back to 100% just like how I used to be. Just like how I always was.
 
-I noticed that my hands are not acting like how they used to in the morning. Not bad. Just — different in a way I cannot point to. But right now, walking, I feel like I am walking on a red carpet with everyone praising me. Everyone looking at me and just nodding with a sign of respect for what I did and what I am doing. Step by step forward I am walking toward — home? The gym?
+I noticed that my hands are not acting like how they used to in the morning. Not bad. Just, different in a way I cannot point to. But right now, walking, I feel like I am walking on a red carpet with everyone praising me. Everyone looking at me and just nodding with a sign of respect for what I did and what I am doing. Step by step forward I am walking toward, home? The gym?
 
 Well coach will probably scream and get angry if I come to the gym. But just walking. The same route I used to always take makes me at ease.
 
@@ -30,7 +30,7 @@ The water under the bridge always running clean. Always moving in the same direc
 
 I stopped walking.
 
-I always stop at this bridge. I do not decide to stop. My feet just know. The way my hands know things my mind has not said yet. They stop here because here is where it started — or where I understood that it had started — and even now, years later, the bridge does not feel like a place I pass through. It feels like a place that holds something of mine. Some version of me that is still standing here with Takamura's words ringing in the air like a bell that never fully stops.
+I always stop at this bridge. I do not decide to stop. My feet just know. The way my hands know things my mind has not said yet. They stop here because here is where it started, or where I understood that it had started, and even now, years later, the bridge does not feel like a place I pass through. It feels like a place that holds something of mine. Some version of me that is still standing here with Takamura's words ringing in the air like a bell that never fully stops.
 
 Someone who is hit but stands up again. Someone who can have a world of people against him but he will not stop moving forward. From all corners of the ring there were voices. From all corners of the ring there was hope and despair. That bridge helped me understand that lesson and know that I am made to fight and move forward. Made to be hit but never give up. Made to endure. And coach is helping me with his philosophy to become the best version of myself.
 
@@ -70,19 +70,19 @@ Coach: Don't ask too many questions, kid. When we meet we will talk about it all
 
 Ippo: Alright coach. Should I come to the gym tomorrow?
 
-Coach: Yes, tomorrow. So then — goodnight.
+Coach: Yes, tomorrow. So then, goodnight.
 
 Ippo: Goodnight.
 
 ---
 
-I bet this is nothing. The coach said don't worry. And I feel like everything is colourful — yes it is the night, yes everything is dark, but you understand what I mean. Everything feels right. I am doing everything right. My grip feels like I can wear a glove on it and have a fist strong and steady like the one I always had. Full of confidence. And that tingling in my hands has stopped worrying me altogether. Everything is moving forward according to the plan.
+I bet this is nothing. The coach said don't worry. And I feel like everything is colourful, yes it is the night, yes everything is dark, but you understand what I mean. Everything feels right. I am doing everything right. My grip feels like I can wear a glove on it and have a fist strong and steady like the one I always had. Full of confidence. And that tingling in my hands has stopped worrying me altogether. Everything is moving forward according to the plan.
 
-A man whose hands are strong and whose body is healing and whose next fight will be the step toward the world. Everything is moving forward correctly according to the plan coach has set up for me. And I think I am not enjoying the lack of training but this is training too. Sensei Tomoko said that to me — resting is as important as training. Sometimes even more important.
+A man whose hands are strong and whose body is healing and whose next fight will be the step toward the world. Everything is moving forward correctly according to the plan coach has set up for me. And I think I am not enjoying the lack of training but this is training too. Sensei Tomoko said that to me, resting is as important as training. Sometimes even more important.
 
 So everything is right. I will probably hear about the next fight that I will be having tomorrow from the coach. He will update me on my next plans.
 
-He spends so much time on me. On everyone. I want to live up to his hopes and I don't want the time he spent on me to be a waste. I will live up to them — his hopes, everyone's hopes. I have to see it through and I have to show it to the coach. My determination. My will to move forward. My will to suffer and endure. My will to do as he says and work hard, rest hard. I will do whatever it takes. I have to do it and it has to happen.
+He spends so much time on me. On everyone. I want to live up to his hopes and I don't want the time he spent on me to be a waste. I will live up to them, his hopes, everyone's hopes. I have to see it through and I have to show it to the coach. My determination. My will to move forward. My will to suffer and endure. My will to do as he says and work hard, rest hard. I will do whatever it takes. I have to do it and it has to happen.
 
 The world said I am the champion. The champion. But I do not feel like it. I just feel exactly the same. Not necessarily bad but I felt like things would be different. That I would feel a certain different kind of joy. Maybe the fight had affected me and it was too emotional. That it was not just about the fight itself or the title itself or anything of that sort. It was about something more important than all of it and I am thankful for that.
 
@@ -90,7 +90,7 @@ The world said I am the champion. The champion. But I do not feel like it. I jus
 
 I am close to home now. The sea is there.
 
-I remember that I am not the son of the sea. My father was. I have to find my tool just like my dad had his. He had the ship. He had the water. He had the net and the rope and the cold mornings and the weight of the catch and the way the current told him where the fish would be before the fish knew it themselves. He had all of that and it was his. It belonged to him the way boxing belongs to —
+I remember that I am not the son of the sea. My father was. I have to find my tool just like my dad had his. He had the ship. He had the water. He had the net and the rope and the cold mornings and the weight of the catch and the way the current told him where the fish would be before the fish knew it themselves. He had all of that and it was his. It belonged to him the way boxing belongs to.
 
 I stop.
 
@@ -98,9 +98,9 @@ The wind moves the dark water in all directions. I watch it and I find that it f
 
 My dad had his tool. I will have mine. These hands will find their thing and I will move forward.
 
-The fresh wind hits me and a leaf from a tree gets stuck in my hair. I don't understand how it got stuck — maybe I was standing still for so long that it just settled, the way leaves settle on still things. While I was going to remove it I feel the bruise on my face. I had tried to put a patch on it so that it would heal but I think I lost that patch somewhere on the walk. It feels like it got better on its own. So this is what it feels like to heal. This bruise is a testament to my strength and it shows.
+The fresh wind hits me and a leaf from a tree gets stuck in my hair. I don't understand how it got stuck, maybe I was standing still for so long that it just settled, the way leaves settle on still things. While I was going to remove it I feel the bruise on my face. I had tried to put a patch on it so that it would heal but I think I lost that patch somewhere on the walk. It feels like it got better on its own. So this is what it feels like to heal. This bruise is a testament to my strength and it shows.
 
-I am excited about tomorrow and what coach will tell me. More plans on my next training. Maybe news of the others. Takamura's title. Takamura — a man who hit me once and showed me what power looked like. He is the one who made that bridge meaningful. The leaf test that he conducted on me. I wonder — if I had failed that test, what would I have been? Without Takamura? I am not sure. The philosophy of the ring arrived through coach Kamogawa. Following his path to be the pure fighter. The man who absorbs everything. The one who stands when everyone else falls.
+I am excited about tomorrow and what coach will tell me. More plans on my next training. Maybe news of the others. Takamura's title. Takamura, a man who hit me once and showed me what power looked like. He is the one who made that bridge meaningful. The leaf test that he conducted on me. I wonder, if I had failed that test, what would I have been? Without Takamura? I am not sure. The philosophy of the ring arrived through coach Kamogawa. Following his path to be the pure fighter. The man who absorbs everything. The one who stands when everyone else falls.
 
 Without him who would I be?
 
@@ -114,7 +114,7 @@ I know that I will make everyone proud. And I will show it to them that their he
 
 The leaf is still in my hand.
 
-I look at it. Small. Green. The wind brought it to me and I caught it without trying. The way Takamura made me catch leaves on the riverbank that first time — except now there is no test. There is no one watching. There is no reason for the leaf to be here except that I was standing still long enough for the wind to decide I was part of the landscape.
+I look at it. Small. Green. The wind brought it to me and I caught it without trying. The way Takamura made me catch leaves on the riverbank that first time, except now there is no test. There is no one watching. There is no reason for the leaf to be here except that I was standing still long enough for the wind to decide I was part of the landscape.
 
 I close my hand around it.
 
@@ -122,7 +122,7 @@ My grip is strong. My grip has always been strong. I can feel every vein in my f
 
 I open my hand.
 
-The leaf is crushed. Not torn — crushed. Pressed flat by the weight of a grip that does not know how to hold light things lightly. The edges are bent. The stem is broken. The shape of it is still there but the thing that made it a leaf — the openness, the give, the way it moved with the wind — is gone.
+The leaf is crushed. Not torn, crushed. Pressed flat by the weight of a grip that does not know how to hold light things lightly. The edges are bent. The stem is broken. The shape of it is still there but the thing that made it a leaf, the openness, the give, the way it moved with the wind, is gone.
 
 I look at it for a moment.
 

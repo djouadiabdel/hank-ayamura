@@ -26,7 +26,7 @@ Aoki whispered: Can you see him? Did he go in?
 
 Takamura: Of course he went in you moron, we watched him walk through the door thirty seconds ago.
 
-Aoki: I'm just making sure —
+Aoki: I'm just making sure.
 
 Takamura hit him on the back of the head. Not hard. Well. Hard enough.
 
@@ -62,25 +62,25 @@ Yamaguchi: Let me be straightforward with you. Your muscle fibres have healed. T
 
 I didn't say anything.
 
-Yamaguchi: The torn fibres from your last fight — that wasn't random. That was the result of accumulated stress on your lower kinetic chain, the kind that builds over years in athletes who generate rotational force under fatigue. Your body gave you a warning. Most athletes don't get a warning. They get the full thing.
+Yamaguchi: The torn fibres from your last fight, that wasn't random. That was the result of accumulated stress on your lower kinetic chain, the kind that builds over years in athletes who generate rotational force under fatigue. Your body gave you a warning. Most athletes don't get a warning. They get the full thing.
 
 She paused and clicked her pen and the click sounded louder than it should have in that small room.
 
-Yamaguchi: You are carrying a ticking bomb. Not just you — every athlete who competes at your level carries one. They all hope it never goes off. Some of them are lucky. Some of them are not. The difference is not talent or heart — it is how you manage the load.
+Yamaguchi: You are carrying a ticking bomb. Not just you, every athlete who competes at your level carries one. They all hope it never goes off. Some of them are lucky. Some of them are not. The difference is not talent or heart, it is how you manage the load.
 
 A ticking bomb. I thought of every match. Every Dempsey Roll. Every time I twisted my hips and drove upward and felt the force travel from my feet through my knees through my back and into my fist. Every time I did that I was tightening the timer.
 
-Yamaguchi: If you don't take care of yourself — and I mean structurally, consistently, not just resting when it hurts — you will face retirement. That is not a threat. That is the mechanical reality of what your body is telling us.
+Yamaguchi: If you don't take care of yourself, and I mean structurally, consistently, not just resting when it hurts, you will face retirement. That is not a threat. That is the mechanical reality of what your body is telling us.
 
 The word sat in the room. Retirement. It didn't sound like a word. It sounded like a door closing somewhere far away that I could already hear.
 
-Yamaguchi: Specifically — you need to limit your use of the Dempsey Roll.
+Yamaguchi: Specifically, you need to limit your use of the Dempsey Roll.
 
 I looked at her.
 
 Yamaguchi: I know you have the strength to succeed without relying on it. Your fundamentals are exceptional. But every time you use it under fatigue, you are accelerating the timeline on something that will not give you another warning.
 
-I wanted to argue. I wanted to say that the Dempsey Roll is not just a technique — it is the thing coach built me around, it is the weapon he helped me forge, it is the reason I survived fights I had no business surviving. Limiting it felt like someone telling me to breathe but only halfway.
+I wanted to argue. I wanted to say that the Dempsey Roll is not just a technique, it is the thing coach built me around, it is the weapon he helped me forge, it is the reason I survived fights I had no business surviving. Limiting it felt like someone telling me to breathe but only halfway.
 
 But I didn't say that.
 
@@ -136,7 +136,7 @@ Kimura: NONE OF YOUR BUSINESS WHAT WE WORRY ABOUT!
 
 They were screaming at him and Takamura wasn't listening, he was already walking in the direction Ippo had gone, hands in his pockets, chin up, the posture of someone who refuses to look concerned even when his feet are following the person he's concerned about.
 
-They followed him. All of them. Arguing the whole way. And underneath the noise, underneath Aoki's shouting and Kimura's frustration and Takamura's arrogance, there was something none of them would name — the specific fear of watching someone you admire walk out of a building looking like the building won.
+They followed him. All of them. Arguing the whole way. And underneath the noise, underneath Aoki's shouting and Kimura's frustration and Takamura's arrogance, there was something none of them would name, the specific fear of watching someone you admire walk out of a building looking like the building won.
 
 They went to the gym. They didn't talk about it again.
 
@@ -144,4 +144,4 @@ The Doctor thought of Kumi.
 
 The girl who had sat in this same chair hours ago with the same worry wearing a different face. Two people circling the same person from different directions, one with a textbook and one with a title, both arriving at the same fear.
 
-She wondered — genuinely wondered — what Ippo meant by try.
+She wondered, genuinely wondered, what Ippo meant by try.

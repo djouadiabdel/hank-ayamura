@@ -8,7 +8,7 @@ Two bodies of work, both circling the same question.
 
 ## [Short Stories](her/)
 
-Nineteen confessional pieces. A relationship, what it asked for, and what neither person had to give.
+Fifteen confessional pieces. A relationship, what it asked for, and what neither person had to give.
 
 ## [What These Hands Are For](ippo/)
 

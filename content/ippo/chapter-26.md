@@ -2,37 +2,37 @@
 title: "Chapter 26"
 ---
 
-A fabric is felt slowly moving down from his forehead, ruining his hair. His nose-breathing makes him self-conscious of its existence. The fabric itches. His ears are blocked—or at least his slow, calm sigh says otherwise. On his eyes it rests, and he leaves it there for a moment, even though it is uncomfortable to breathe.
+A fabric is felt slowly moving down from his forehead, ruining his hair. His nose-breathing makes him self-conscious of its existence. The fabric itches. His ears are blocked, or at least his slow, calm sigh says otherwise. On his eyes it rests, and he leaves it there for a moment, even though it is uncomfortable to breathe.
 
 His hand is shivering. He tilts his head down to try to look at the floor even though he is unable to because of the band. He knows what just happened. His legs cannot hold him anymore yet he feels a boulder on his back, but still this is not the source of his shaking, nor the source of his legs' pain.
 
-As if there are two liquids in his lungs, two opposites that compete for the same spot—the spot that is his heart. With his hand shivering he tries to lift the right one, and he succeeds, but the left one is unable to move at all. He grips it hard as if it were a conscious being trying to escape, but all of that is done so he can lift it up on his own with the aid of the right hand.
+As if there are two liquids in his lungs, two opposites that compete for the same spot, the spot that is his heart. With his hand shivering he tries to lift the right one, and he succeeds, but the left one is unable to move at all. He grips it hard as if it were a conscious being trying to escape, but all of that is done so he can lift it up on his own with the aid of the right hand.
 
-No one is looking at him as he acts like his joints have lost the scent of oil. Slowly he is able to fix the headband—or at least lift it up—with his left hand shaking, to see what is going on.
+No one is looking at him as he acts like his joints have lost the scent of oil. Slowly he is able to fix the headband, or at least lift it up, with his left hand shaking, to see what is going on.
 
 ---
 
 At first sight he finds himself closer to the ring. He cannot comprehend why he is this close to it, but Aoki is on the ropes, clinging to them with an open mouth and a half-cut word trying to come out as his legs take a southpaw stance.
 
-Kimura follows on Aoki's path, moving slowly forward. Swiftly, you can see it—the same swiftness you observe when he tries to dodge a shot in the ring, for he too is someone who fights with his legs before his fists.
+Kimura follows on Aoki's path, moving slowly forward. Swiftly, you can see it, the same swiftness you observe when he tries to dodge a shot in the ring, for he too is someone who fights with his legs before his fists.
 
 Towels are thrown on the floor. I am not sure why they are wet, but spotting Fujii I am sure this would make a good piece for him to write about.
 
-Takamura hasn't moved at all from that spot. Arms crossed, serious face. But the funny thing is that next to him stands a kid who hasn't acted surprised at all. Not that he expected Imai to win—but he has such a face, empty of color. His eyes are neutral, and his mouth lifted only on one side as he looks at the ring while writing in his notebook at the same time. He is next to Fujii too.
+Takamura hasn't moved at all from that spot. Arms crossed, serious face. But the funny thing is that next to him stands a kid who hasn't acted surprised at all. Not that he expected Imai to win, but he has such a face, empty of color. His eyes are neutral, and his mouth lifted only on one side as he looks at the ring while writing in his notebook at the same time. He is next to Fujii too.
 
-Everyone in the gym is slowly getting closer to the ring. People who were in the shower are standing in front of it butt naked as they look at that light spinning inside the ring. Behind Coach, they stand—Coach who is too busy looking at Ippo with a mindless stare, a serious one, but he hasn't moved an inch in any direction.
+Everyone in the gym is slowly getting closer to the ring. People who were in the shower are standing in front of it butt naked as they look at that light spinning inside the ring. Behind Coach, they stand, Coach who is too busy looking at Ippo with a mindless stare, a serious one, but he hasn't moved an inch in any direction.
 
-Even when Coach gets distracted—which reminds me of my hands, which I have to put in my pockets—he doesn't scream, doesn't look at them for more than five seconds. He turns his head, holds a serious face, then turns it back again to look at the light of the ring as every other spot is taken down by the darkness.
+Even when Coach gets distracted, which reminds me of my hands, which I have to put in my pockets, he doesn't scream, doesn't look at them for more than five seconds. He turns his head, holds a serious face, then turns it back again to look at the light of the ring as every other spot is taken down by the darkness.
 
 ---
 
-But that thing in my lungs—it is splashing across both sides. The feeling where you know there is something inside trying to punch its way out of you. The farther I look into the darkness away from the ring, the more one side wins. But the moment I look inside the ring, I look at the blood dropped in the middle and on the side, I look at the people in there with their head protection, gloves, and I see one fallen while the other is standing.
+But that thing in my lungs, it is splashing across both sides. The feeling where you know there is something inside trying to punch its way out of you. The farther I look into the darkness away from the ring, the more one side wins. But the moment I look inside the ring, I look at the blood dropped in the middle and on the side, I look at the people in there with their head protection, gloves, and I see one fallen while the other is standing.
 
-But to look at the fallen—I feel a hot boil inside of me that I can't help but look away, and my eyes fall onto Takamura, who still has the same posture. Same wall standing behind him, same fold of arms that act calm, not moving a single finger, not even a single tap on the forearm. Same position he held before the spar even began. Maybe this is what it feels like to be a world champion like Takamura.
+But to look at the fallen, I feel a hot boil inside of me that I can't help but look away, and my eyes fall onto Takamura, who still has the same posture. Same wall standing behind him, same fold of arms that act calm, not moving a single finger, not even a single tap on the forearm. Same position he held before the spar even began. Maybe this is what it feels like to be a world champion like Takamura.
 
 His legs are crossed in a strange way while he takes the wall as a base for his balance. After all, he had sparred with Ippo, and since then he hadn't talked to him again. All he did was gaze and gaze and gaze, like a man trying to watch paint dry.
 
-I try to sneak a peek into the ring. My gaze slides off Takamura like water off something that was never going to move, and I feel a cold punch on my face—the one that felt boiling a moment ago—and my legs act as if I was just knocked out cold in the ring, as if I were the one who took a punch and now my body is giving up, waiting for the ten-count to start. That was the moment I saw the fallen.
+I try to sneak a peek into the ring. My gaze slides off Takamura like water off something that was never going to move, and I feel a cold punch on my face, the one that felt boiling a moment ago, and my legs act as if I was just knocked out cold in the ring, as if I were the one who took a punch and now my body is giving up, waiting for the ten-count to start. That was the moment I saw the fallen.
 
 I couldn't hold that view much longer, and I couldn't handle the cold, so I looked at the fire.
 

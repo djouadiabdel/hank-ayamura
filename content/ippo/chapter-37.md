@@ -28,7 +28,7 @@ I go downstairs without looking back into the room.
 
 At the gym Coach is talking and I am listening the way I listen when I need to show him I'm listening.
 
-Footwork. More footwork. He's moving his hand in the air to show me something about the angle of a step and his eyes are on me the way his eyes are on me when he needs me here, and I am here, I am watching his hand, I am watching his mouth, I am —
+Footwork. More footwork. He's moving his hand in the air to show me something about the angle of a step and his eyes are on me the way his eyes are on me when he needs me here, and I am here, I am watching his hand, I am watching his mouth, I am.
 
 A bag goes off behind me. Heavy bag. The dull heavy sound of a fist going deep.
 

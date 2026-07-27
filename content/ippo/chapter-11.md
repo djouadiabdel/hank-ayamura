@@ -4,13 +4,13 @@ title: "Chapter 11"
 
 "Yes," I said. "It's about Ippo."
 
-His name in my mouth at midnight on a phone call to a woman I had never spoken to. His name out loud in the context of damage, of mechanism, of a body that was running out of the time it did not know it was spending. I said his name and it sounded different than it had ever sounded — heavier, older, like a word that had been carrying weight it was never designed to hold.
+His name in my mouth at midnight on a phone call to a woman I had never spoken to. His name out loud in the context of damage, of mechanism, of a body that was running out of the time it did not know it was spending. I said his name and it sounded different than it had ever sounded, heavier, older, like a word that had been carrying weight it was never designed to hold.
 
 "I thought so," she said. Quietly. Not with satisfaction. With the particular fatigue of someone who has been waiting for a call like this without knowing she was waiting for it.
 
 Another pause. Shorter. Then:
 
-"His movement profile — the rotational loading pattern, the repeated eccentric stress on the lead leg, the cumulative microtrauma to the knee and ankle complex under high-velocity directional changes — I have thought about this before. Not in the context of a consultation. In the way that you think about something when you see it and recognise what it is and have no professional reason to intervene."
+"His movement profile, the rotational loading pattern, the repeated eccentric stress on the lead leg, the cumulative microtrauma to the knee and ankle complex under high-velocity directional changes, I have thought about this before. Not in the context of a consultation. In the way that you think about something when you see it and recognise what it is and have no professional reason to intervene."
 
 I held the phone tighter.
 
@@ -18,7 +18,7 @@ I held the phone tighter.
 
 "I have seen enough fighters to recognise a body that is producing forces its connective tissue will eventually fail to manage. But I have never examined him. I have never been asked to examine him. His coaching staff has their own medical support and their own protocols and I have no standing to insert myself into a relationship I am not part of."
 
-She said this carefully. Not defensively. The way someone states a boundary they have thought about before — a line they have stood at and looked across and decided not to step over, not because they did not want to but because they understood what stepping over it without permission would mean.
+She said this carefully. Not defensively. The way someone states a boundary they have thought about before, a line they have stood at and looked across and decided not to step over, not because they did not want to but because they understood what stepping over it without permission would mean.
 
 "But you called me," she said. "And you described what you saw. And what you saw is consistent with a pattern I have observed in athletes with similar loading profiles, and the mechanism your textbook described is not speculative. It is well-documented. It is well-understood. And it is progressive."
 
@@ -36,7 +36,7 @@ She paused.
 
 "But observation is not intervention. And intervention requires access I don't currently have and you don't currently have either. His coach would need to be involved. His medical team. And ultimately, he would need to agree to be examined."
 
-"He would agree," I said. Quickly. Too quickly. "Ippo would — he would agree to anything if —"
+"He would agree," I said. Quickly. Too quickly. "Ippo would, he would agree to anything if."
 
 "If what?"
 
@@ -46,37 +46,37 @@ If someone told him he was breaking. If someone explained the mechanism in words
 
 "And who does he trust?"
 
-The answer was immediate. It arrived in my chest before it arrived in my mouth and it sat there the way stones sit — heavy, specific, immovable.
+The answer was immediate. It arrived in my chest before it arrived in my mouth and it sat there the way stones sit, heavy, specific, immovable.
 
 "His coach. Kamogawa-sensei."
 
 She was quiet again. But it was a different quiet. The quiet of someone who knows a name and what that name means and is deciding how to say what she is about to say.
 
-"Kamogawa is a man who has trained fighters for most of his life," she said. "He understands the body the way craftsmen understand materials. But understanding and accepting are different things. And what you are describing — the implication of it, the trajectory — is not something a coach can easily hear about a fighter he has built from the beginning. It is not a flaw in the fighter. It is a consequence of the design."
+"Kamogawa is a man who has trained fighters for most of his life," she said. "He understands the body the way craftsmen understand materials. But understanding and accepting are different things. And what you are describing, the implication of it, the trajectory, is not something a coach can easily hear about a fighter he has built from the beginning. It is not a flaw in the fighter. It is a consequence of the design."
 
 A consequence of the design.
 
 I closed my eyes.
 
-The Dempsey Roll. The low stance. The weight transfer. The rotation that generates impossible power from a body too small and too short for the division it competes in. The thing that makes Ippo extraordinary is the thing that is breaking him. And Kamogawa designed it. Kamogawa built it. Kamogawa watched it become the weapon that made a champion and the mechanism that would eventually unmake him and he — he must know. On some level. In the way that builders know. He told Ippo not to use it too often. He said those words. He placed the warning without placing the explanation and I do not know if that was caution or love or both or if there is even a difference when you are a man who has spent his life turning boys into fighters and watching what the fighting does to them afterward.
+The Dempsey Roll. The low stance. The weight transfer. The rotation that generates impossible power from a body too small and too short for the division it competes in. The thing that makes Ippo extraordinary is the thing that is breaking him. And Kamogawa designed it. Kamogawa built it. Kamogawa watched it become the weapon that made a champion and the mechanism that would eventually unmake him and he, he must know. On some level. In the way that builders know. He told Ippo not to use it too often. He said those words. He placed the warning without placing the explanation and I do not know if that was caution or love or both or if there is even a difference when you are a man who has spent his life turning boys into fighters and watching what the fighting does to them afterward.
 
 "Mashiba-san."
 
 I opened my eyes.
 
-"I cannot diagnose from a phone call. I cannot assess joint integrity from a description of a single observed episode. What I can tell you is that the pattern you described — the sudden involuntary cessation of muscular support during high-load rotational movement — is consistent with early-stage inhibitory reflex destabilisation. And if that is what occurred, then your textbook is correct. It is progressive. It will recur. And the conditions under which it recurs will become less extreme over time."
+"I cannot diagnose from a phone call. I cannot assess joint integrity from a description of a single observed episode. What I can tell you is that the pattern you described, the sudden involuntary cessation of muscular support during high-load rotational movement, is consistent with early-stage inhibitory reflex destabilisation. And if that is what occurred, then your textbook is correct. It is progressive. It will recur. And the conditions under which it recurs will become less extreme over time."
 
 Less extreme over time. Meaning: it will take less fatigue. Less load. Less fight. The threshold drops and the body fires the reflex earlier and earlier until the thing that was supposed to protect him becomes the thing that ends him and the ending does not look like a loss. It looks like a leg that simply stops being a leg in the middle of a round when the only thing between Ippo and the canvas is the joint that just decided it was finished.
 
 "What should I do," I said. Not a question this time. A sound. The sound of someone who has run out of the distance between knowing and doing and is standing at the edge of it in the dark.
 
-She was quiet for a long moment. I could hear her breathing. Measured. Even. The breathing of someone who has given difficult answers before and knows that the answer is not the hardest part — the hardest part is what the person on the other end of the phone does with it afterward.
+She was quiet for a long moment. I could hear her breathing. Measured. Even. The breathing of someone who has given difficult answers before and knows that the answer is not the hardest part, the hardest part is what the person on the other end of the phone does with it afterward.
 
-"Come to the clinic," she said. "Not with him. Not yet. Come alone. Bring what you have — the textbook, your observations, the specific fights where you noticed irregularities. I want to see what you've seen through the lens you've built. You are not a sports medicine physician, Mashiba-san, but you are a clinician, and you are observant, and you have something I do not have."
+"Come to the clinic," she said. "Not with him. Not yet. Come alone. Bring what you have, the textbook, your observations, the specific fights where you noticed irregularities. I want to see what you've seen through the lens you've built. You are not a sports medicine physician, Mashiba-san, but you are a clinician, and you are observant, and you have something I do not have."
 
 "What?"
 
-"You have been watching him for years. Not as a doctor. Not from across a ring with a towel and a stool. You have been watching him the way family watches — continuously, involuntarily, with the kind of attention that notices when something changes before the person themselves notices it has changed."
+"You have been watching him for years. Not as a doctor. Not from across a ring with a towel and a stool. You have been watching him the way family watches, continuously, involuntarily, with the kind of attention that notices when something changes before the person themselves notices it has changed."
 
 My throat tightened. I pressed my hand harder against my knee.
 
@@ -96,9 +96,9 @@ I nodded. She could not see me nod. I did it anyway.
 
 "You did the right thing by calling."
 
-She said it simply. No weight added. No reassurance layered on top. Just the sentence, clean, the way a surgeon places a stitch — one motion, precise, the thread pulled through and tied and done.
+She said it simply. No weight added. No reassurance layered on top. Just the sentence, clean, the way a surgeon places a stitch, one motion, precise, the thread pulled through and tied and done.
 
-"I — thank you," I said.
+"I, thank you," I said.
 
 "Have a great evening"
 
@@ -112,7 +112,7 @@ The room was quiet. But the quiet was different now. Not the hollow kind from th
 
 I picked up the book. Closed it. Properly this time. Not pressed shut like a hand over a wound. Just closed, the way you close a book when you are finished with the chapter and know you will open it again tomorrow.
 
-I stood up. My feet hurt. My back hurt from the floor. The shelf was in front of me — the books, the spines, the dust I had wiped from one cover and left on all the others. I looked at them and they looked different than they had three hours ago. Not like decoration. Not like promises I had failed to keep. Like tools. Like the first things I would reach for in the morning before I called the clinic and before I sat down and began to organise everything I had seen — every fight, every flinch, every moment where something in Ippo's body had done something his mind did not notice — into the shape of something a doctor could use.
+I stood up. My feet hurt. My back hurt from the floor. The shelf was in front of me, the books, the spines, the dust I had wiped from one cover and left on all the others. I looked at them and they looked different than they had three hours ago. Not like decoration. Not like promises I had failed to keep. Like tools. Like the first things I would reach for in the morning before I called the clinic and before I sat down and began to organise everything I had seen, every fight, every flinch, every moment where something in Ippo's body had done something his mind did not notice, into the shape of something a doctor could use.
 
 I turned off the light by the shelf.
 
@@ -122,7 +122,7 @@ Not a diagnosis. Not yet. Not a cure. Not a promise.
 
 But a direction.
 
-And for the first time since I sat down on this floor tonight, the stone under my ribs — the one that had been there since the dream, since the morning, since the café, since the book — shifted. Not gone. Not dissolved. Just shifted. The way a stone shifts when the current beneath it changes and the water begins to move and the stone does not disappear but it is no longer still.
+And for the first time since I sat down on this floor tonight, the stone under my ribs, the one that had been there since the dream, since the morning, since the café, since the book, shifted. Not gone. Not dissolved. Just shifted. The way a stone shifts when the current beneath it changes and the water begins to move and the stone does not disappear but it is no longer still.
 
 I went to bed.
 

@@ -14,13 +14,13 @@ I get a book to read. I cannot focus at all on the words in front of me. I re-re
 
 ---
 
-Those thoughts I try to keep away — they were like strangers to me. Far away from the hold of my hands. Unfamiliar I am with their sight.
+Those thoughts I try to keep away, they were like strangers to me. Far away from the hold of my hands. Unfamiliar I am with their sight.
 
 But the colors seep through. An orange, a red, velvety, mixing together. They make a ball. It is beautiful. It is flying and rotating in its spot and I cannot move even if I tried.
 
 It pulls me toward it. My legs want to stand up and be there for it. Just like how you think someone is a stranger and then you are surprised to know that you of all people looked up to that stranger for warmth.
 
-I try to stare away from it. The warmth that is being sent down at me is too strong to not feel. It captures all of my skin. I can feel it moving on top of me — not like ants, no feet — like water. Wrapping me all over with its warmth. Now they are truly a part of me.
+I try to stare away from it. The warmth that is being sent down at me is too strong to not feel. It captures all of my skin. I can feel it moving on top of me, not like ants, no feet, like water. Wrapping me all over with its warmth. Now they are truly a part of me.
 
 If I took a chance, maybe I can exchange a glance from it. The way I always felt when I entered a stadium in my professional life.
 
@@ -38,7 +38,7 @@ I can as a professional athlete know when a fellow member is one too. You look a
 
 Or maybe I should go for another run. Although this means I would mess up my sleep, my calorie intake, the whole cycle of my habit.
 
-Now all of a sudden my hand is shaking. Trembling. Wait — am I sure there is no vibrator in my hand? Why would there be. But the way it is trembling like that out of nowhere makes me remember every time I would have a big game. It would turn out to be this way. The hand going first. The hand always knew before I did.
+Now all of a sudden my hand is shaking. Trembling. Wait, am I sure there is no vibrator in my hand? Why would there be. But the way it is trembling like that out of nowhere makes me remember every time I would have a big game. It would turn out to be this way. The hand going first. The hand always knew before I did.
 
 Not like I have a match tomorrow or something.
 
@@ -64,7 +64,7 @@ It is weightless now. A bit cracky from how old it is. But I am reminded of that
 
 I am searching for what I am now, after I have experienced what I did for the first time in five years. I will find you. If it is urgent or if I am hurting more than I am now.
 
-This feeling — I had seen my teammates feel it over and over again. Looked at myself in the mirror with this exact same heart beating more than once too. I will come back here some day and laugh about it. Memories never fade.
+This feeling, I had seen my teammates feel it over and over again. Looked at myself in the mirror with this exact same heart beating more than once too. I will come back here some day and laugh about it. Memories never fade.
 
 _How it felt like I was burning while you were not._
 

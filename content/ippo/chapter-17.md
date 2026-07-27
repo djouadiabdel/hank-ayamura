@@ -6,23 +6,23 @@ In this chapter, the reader learns that Kamogawa saw the warning and chose to lo
 
 Ippo's face got intense as he looked at both of his coaches. He hummed softly, a low sound caught between gratitude and something heavier, and clenched both fists at his sides before bowing. Then he left.
 
-As Ippo walked toward the door, Kamogawa opened his mouth. No word came. His hand lifted from the desk — half a gesture, half an instinct — and then it stopped, suspended in the air like it had forgotten what it was reaching for. Yagi saw it. He said nothing. Kamogawa set his hand back down on the wood.
+As Ippo walked toward the door, Kamogawa opened his mouth. No word came. His hand lifted from the desk, half a gesture, half an instinct, and then it stopped, suspended in the air like it had forgotten what it was reaching for. Yagi saw it. He said nothing. Kamogawa set his hand back down on the wood.
 
 Then he stood.
 
 Not to follow. Not to call out. Just to look.
 
-To a man who has coached many, backs tell more than faces. Faces perform. Backs carry. Kamogawa watched Ippo's back the way a sculptor watches a piece that has been out in weather — searching for what's still there.
+To a man who has coached many, backs tell more than faces. Faces perform. Backs carry. Kamogawa watched Ippo's back the way a sculptor watches a piece that has been out in weather, searching for what's still there.
 
-The traps were muscular but they sat differently. They hadn't been under a heavy stretch in a while and they showed it, resting instead of rising, present but not popping the way they did when Ippo was in camp. His V-taper was still visible even now. It had always been absurd on him — the width of his back tapering into a waist that made his head look like a turtle retreating into its shell. The frame was still there. The frame had always been the gift.
+The traps were muscular but they sat differently. They hadn't been under a heavy stretch in a while and they showed it, resting instead of rising, present but not popping the way they did when Ippo was in camp. His V-taper was still visible even now. It had always been absurd on him, the width of his back tapering into a waist that made his head look like a turtle retreating into its shell. The frame was still there. The frame had always been the gift.
 
 But the frame without the tension inside it was just geometry.
 
-Kamogawa moved toward a punching bag while still facing the door. The bag was at his side and he placed his palm flat against it without looking at it, the leather cool and familiar under his hand. He gave the body that had been his art one last look before it passed through the doorway. Not forever. Just for a few hours. And then the gym swallowed the silence — fists landing on bags, shoes squeaking against canvas, breathing that would be considered obnoxious anywhere else — and that chorus was his sign that Ippo had gone.
+Kamogawa moved toward a punching bag while still facing the door. The bag was at his side and he placed his palm flat against it without looking at it, the leather cool and familiar under his hand. He gave the body that had been his art one last look before it passed through the doorway. Not forever. Just for a few hours. And then the gym swallowed the silence, fists landing on bags, shoes squeaking against canvas, breathing that would be considered obnoxious anywhere else, and that chorus was his sign that Ippo had gone.
 
 His hand stayed on the bag.
 
-He turned to the floor. The other trainees were working their combinations and shuffling in their corners, and Kamogawa tried to look at them the way he had looked at Ippo. He searched their traps for the spark. Their lats for that spreading heaviness. Their V-tapers for the kind of structure that made you believe something dangerous lived inside. The feeling he was looking for — he had felt it only a handful of times in his career. The feeling of taking a clumsy, impure handful of sand and extracting from it a vein of gold. Molding it. Shaping it into something with an edge. A ring you could claim for yourself.
+He turned to the floor. The other trainees were working their combinations and shuffling in their corners, and Kamogawa tried to look at them the way he had looked at Ippo. He searched their traps for the spark. Their lats for that spreading heaviness. Their V-tapers for the kind of structure that made you believe something dangerous lived inside. The feeling he was looking for, he had felt it only a handful of times in his career. The feeling of taking a clumsy, impure handful of sand and extracting from it a vein of gold. Molding it. Shaping it into something with an edge. A ring you could claim for yourself.
 
 None of them gave it to him.
 
@@ -30,23 +30,23 @@ None of that was in the gym for Coach.
 
 His hand let go of the bag. The leather swayed once and was still. He walked slowly to the office where Yagi was waiting with the papers, with all the reports.
 
-Yagi saw the coach's face. The way he was trying to look firmer than usual, jaw set, fists clenched at his sides like Ippo's — as if the boy's habit had followed him back down the hall. He walked stiff as a wooden pipe, the kind of stiffness that wasn't strength but the effort of holding something down. Yagi chose to ignore it. He reached into the pile and pulled one sheet from the middle.
+Yagi saw the coach's face. The way he was trying to look firmer than usual, jaw set, fists clenched at his sides like Ippo's, as if the boy's habit had followed him back down the hall. He walked stiff as a wooden pipe, the kind of stiffness that wasn't strength but the effort of holding something down. Yagi chose to ignore it. He reached into the pile and pulled one sheet from the middle.
 
 The page was titled _Report By Dr. Yamaguchi Tomoko._
 
 Kamogawa didn't read it. He turned his head sideways, as if the title alone had a smell, and let the paper fall from Yagi's hand to the floor.
 
-Yagi did nothing. Said nothing. His jaw tightened but then it loosened and before the air in the room could settle Kamogawa erupted —
+Yagi did nothing. Said nothing. His jaw tightened but then it loosened and before the air in the room could settle Kamogawa erupted.
 
 "This is nonsense. This can't be the truth."
 
-Across the gym — not inside the office, not part of the event — Takamura noticed the door was still open. He could see Yagi and Kamogawa facing each other, could see the tension in the old man's shoulders, but he couldn't hear the words. He kept his hands on his wraps and his eyes on the doorway. Observing. Nothing more.
+Across the gym, not inside the office, not part of the event. Takamura noticed the door was still open. He could see Yagi and Kamogawa facing each other, could see the tension in the old man's shoulders, but he couldn't hear the words. He kept his hands on his wraps and his eyes on the doorway. Observing. Nothing more.
 
 Inside the office, Yagi placed the pile of reports on the desk. He removed his glasses. Wiped them slowly with the cloth he always kept in his breast pocket. Put them back on. The lenses caught the overhead light for a moment, two small flares that hid his eyes.
 
 "It's the truth," Yagi said. "The kid suffered a lot."
 
-Kamogawa's fist moved. It cut through the air toward the wall beside him — a fast, straight motion, the kind his body still remembered even when his joints did not — but it stopped. Mid-air. His knuckles a centimeter from the plaster. Because the door was open. Because the door could leak.
+Kamogawa's fist moved. It cut through the air toward the wall beside him, a fast, straight motion, the kind his body still remembered even when his joints did not, but it stopped. Mid-air. His knuckles a centimeter from the plaster. Because the door was open. Because the door could leak.
 
 He lowered his fist. Leaned slightly away from the wall. Then walked to the door with a shrouded look on his face, the kind that sat behind the eyes and darkened everything in front of them. He closed the door slowly. It clicked.
 
@@ -58,13 +58,13 @@ Inside, Kamogawa bent down. Picked the paper up from the floor. Placed it back i
 
 Yagi agreed. No more words. He excused himself and walked out.
 
-And again Kamogawa watched a back leaving. Yagi's this time — narrower, older, carrying nothing that Coach was searching for but still he searched. He didn't know what he was looking for. He looked anyway.
+And again Kamogawa watched a back leaving. Yagi's this time, narrower, older, carrying nothing that Coach was searching for but still he searched. He didn't know what he was looking for. He looked anyway.
 
 He sat down and waited.
 
 He waited for the sounds to thin. For the bags to go quiet one by one, for the shoes to stop, for the last locker to close and the last voice to say goodbye to no one in particular on its way out. He waited because he did not want to walk out there while anyone could see him. Not tonight.
 
-The gym emptied the way it always did — in layers. First the casual ones. Then the serious ones. Then the last one, whoever it was tonight, whose footsteps faded past the front door and left behind a silence that settled over the equipment like dust.
+The gym emptied the way it always did, in layers. First the casual ones. Then the serious ones. Then the last one, whoever it was tonight, whose footsteps faded past the front door and left behind a silence that settled over the equipment like dust.
 
 What is a gym without boxers in it?
 
@@ -72,7 +72,7 @@ Coach had heard that silence a thousand times. It usually meant the day was done
 
 Tonight it didn't mean rest.
 
-He sat in the office chair and the silence pressed on him differently. It wasn't empty — it was full of the thing he had been pushing down since Ippo walked through the door with that crutch still in his hand. The practical thoughts were there. The plan for the boys, the training adjustments, the schedule. He could think about those. He tried to think about those. But the real thing — the thing he ought to think about — was buried further inside, and Coach knew that's what was happening.
+He sat in the office chair and the silence pressed on him differently. It wasn't empty, it was full of the thing he had been pushing down since Ippo walked through the door with that crutch still in his hand. The practical thoughts were there. The plan for the boys, the training adjustments, the schedule. He could think about those. He tried to think about those. But the real thing, the thing he ought to think about, was buried further inside, and Coach knew that's what was happening.
 
 He didn't acknowledge it.
 
@@ -84,27 +84,27 @@ He stopped in front of the main ring.
 
 His heartbeat found him before his hand found the rope. It got louder the closer he stood, the way it used to when this place was something other than what it was now. He couldn't name when it had changed. He just knew the ring felt different tonight than it had felt for years.
 
-He touched the top rope. His fingers pressed down and the elastic resisted — pushed back harder than he remembered, or maybe his hands had gotten weaker without telling him. He gripped the top and middle ropes and pulled them apart to make a gap for his body. The ropes shook. The whole ring shivered from just that, the cables bouncing the way they do when a body has slammed into them from the inside — the way they did under Takamura, under Ippo, under every fighter who had bent them with something Kamogawa put inside them.
+He touched the top rope. His fingers pressed down and the elastic resisted, pushed back harder than he remembered, or maybe his hands had gotten weaker without telling him. He gripped the top and middle ropes and pulled them apart to make a gap for his body. The ropes shook. The whole ring shivered from just that, the cables bouncing the way they do when a body has slammed into them from the inside, the way they did under Takamura, under Ippo, under every fighter who had bent them with something Kamogawa put inside them.
 
 He had a small smile when he stepped through.
 
-He walked slowly to the center of the ring. The canvas gave differently under street shoes. Softer. Less alive. He lowered himself to sit and the motion was heavier than it should have been — his knees announced themselves, his hips followed, and the exhale that came out of him was not the exhale of a man resting. It was the exhale of a man who had been holding his ribs in place.
+He walked slowly to the center of the ring. The canvas gave differently under street shoes. Softer. Less alive. He lowered himself to sit and the motion was heavier than it should have been, his knees announced themselves, his hips followed, and the exhale that came out of him was not the exhale of a man resting. It was the exhale of a man who had been holding his ribs in place.
 
 Nobody could watch now. Finally, nobody could watch.
 
-The lights above were on but they weren't heavy. They weren't blinding. They weren't the lights from the night Takamura lifted the belt above his head and the gym shook with noise and the dream — _his_ dream — was no longer a dream but a thing that had happened in the world. That night the lights had been so bright they had turned Takamura's skin white and the belt into a mirror and Kamogawa's eyes into something that couldn't stop leaking no matter how hard his jaw clenched.
+The lights above were on but they weren't heavy. They weren't blinding. They weren't the lights from the night Takamura lifted the belt above his head and the gym shook with noise and the dream, _his_ dream, was no longer a dream but a thing that had happened in the world. That night the lights had been so bright they had turned Takamura's skin white and the belt into a mirror and Kamogawa's eyes into something that couldn't stop leaking no matter how hard his jaw clenched.
 
 Tonight the lights were just lights. Fluorescent. Buzzing faintly. Ordinary.
 
-From the center of the ring he could see into his office. The photograph was there — himself, Takamura, and the belt. He always looked at it. Every day he looked at it, the way you look at proof of something you still can't believe you were part of. But tonight the photograph asked him a question he didn't usually let it ask.
+From the center of the ring he could see into his office. The photograph was there, himself, Takamura, and the belt. He always looked at it. Every day he looked at it, the way you look at proof of something you still can't believe you were part of. But tonight the photograph asked him a question he didn't usually let it ask.
 
 _Why does it not feel like enough?_
 
 _Why does he keep thinking about the boy?_
 
-He sat with it. He didn't answer it. He told himself he was an old man who had remembered a piece of the past — a time when his own hands could have thrown what he now only taught. He told himself that's all this was. A bit of nostalgia shaken loose by a long day. Nothing more. It didn't matter.
+He sat with it. He didn't answer it. He told himself he was an old man who had remembered a piece of the past, a time when his own hands could have thrown what he now only taught. He told himself that's all this was. A bit of nostalgia shaken loose by a long day. Nothing more. It didn't matter.
 
-He stood. His knees told him again. He stepped through the ropes and this time they barely moved — no shiver, no bounce, just the quiet parting of cables for a body that wasn't going to hit anything tonight.
+He stood. His knees told him again. He stepped through the ropes and this time they barely moved, no shiver, no bounce, just the quiet parting of cables for a body that wasn't going to hit anything tonight.
 
 He put on his jacket. Turned off the lights. Locked the door.
 
@@ -128,7 +128,7 @@ And that he has to make them proud
 
 He looks at them while smilling
 
-They stop fighting and t hey look at him and Takamura thinks he lost his mind agan,  ippo loses his mind like that more often did the last fight of him make him dumb?
+They stop fighting and t hey look at him and Takamura thinks he lost his mind agan, ippo loses his mind like that more often did the last fight of him make him dumb?
 
 Coach is angry
 

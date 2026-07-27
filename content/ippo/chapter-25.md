@@ -4,19 +4,19 @@ title: "Chapter 25"
 
 Ippo stepped forward and Itagaki's chest unlocked.
 
-_There it is._ The weight. The way Ippo's front foot pressed the canvas as if testing whether the floor could hold what was coming. Itagaki had seen this before — not in the gym, not in sparring, but under the lights, in the real fights, the ones where the crowd noise hit your ribs from the outside and Ippo's punches hit the opponent's ribs from the inside and the two sounds met somewhere in the middle and became one thing. He had seen Ippo take a shot that would have dropped any sane man and then stand there with blood in his teeth and his guard up and his feet still moving, still pressing forward, still finding the floor with the kind of faith that made the floor feel lucky to be underneath him.
+_There it is._ The weight. The way Ippo's front foot pressed the canvas as if testing whether the floor could hold what was coming. Itagaki had seen this before, not in the gym, not in sparring, but under the lights, in the real fights, the ones where the crowd noise hit your ribs from the outside and Ippo's punches hit the opponent's ribs from the inside and the two sounds met somewhere in the middle and became one thing. He had seen Ippo take a shot that would have dropped any sane man and then stand there with blood in his teeth and his guard up and his feet still moving, still pressing forward, still finding the floor with the kind of faith that made the floor feel lucky to be underneath him.
 
 He'd seen Ippo lose a round. He'd never seen Ippo lose a fight in his own mind.
 
-_That jab was a lucky hit. It was one jab. One. Senpai hasn't sparred in a while and the timing was off and that's all it was. The body remembers. It always remembers. Give it ten seconds and you'll see the rhythm come back, the peekaboo tighten, the weight find its home again — give it ten seconds._
+_That jab was a lucky hit. It was one jab. One. Senpai hasn't sparred in a while and the timing was off and that's all it was. The body remembers. It always remembers. Give it ten seconds and you'll see the rhythm come back, the peekaboo tighten, the weight find its home again, give it ten seconds._
 
 He was counting.
 
-Not consciously. His body was doing it — the balls of his feet pressing the floor in rhythm, the same tremor from earlier except now it had a purpose, now it was a clock, each tap a second closer to the moment Ippo would become Ippo again. His thumb was still bleeding. He didn't put it back in his mouth. The blood dripped onto the wood of the bench and he watched Ippo's feet and waited for the thing he believed in to prove itself true.
+Not consciously. His body was doing it, the balls of his feet pressing the floor in rhythm, the same tremor from earlier except now it had a purpose, now it was a clock, each tap a second closer to the moment Ippo would become Ippo again. His thumb was still bleeding. He didn't put it back in his mouth. The blood dripped onto the wood of the bench and he watched Ippo's feet and waited for the thing he believed in to prove itself true.
 
 _Five. Six. Seven._
 
-Ippo's guard tightened. His hands rose. The peekaboo closed around his face like a door shutting, and Itagaki's counting stopped because the count had done its job — the body had remembered, the rhythm was coming back, and whatever that jab had been was already behind them both.
+Ippo's guard tightened. His hands rose. The peekaboo closed around his face like a door shutting, and Itagaki's counting stopped because the count had done its job, the body had remembered, the rhythm was coming back, and whatever that jab had been was already behind them both.
 
 _See? See?_
 
@@ -24,19 +24,19 @@ _See? See?_
 
 Then Ippo's eyes moved.
 
-It was small. A flicker — not a turn, not a glance, just the slightest shift in the direction of his gaze, as if something at the edge of his vision had called his name and he'd answered before he could stop himself. Itagaki caught it the way he caught everything that moved fast — not through understanding but through reflex, the speed-trained part of his brain registering the deviation in Ippo's rhythm before the rest of him could build a reason for it.
+It was small. A flicker, not a turn, not a glance, just the slightest shift in the direction of his gaze, as if something at the edge of his vision had called his name and he'd answered before he could stop himself. Itagaki caught it the way he caught everything that moved fast, not through understanding but through reflex, the speed-trained part of his brain registering the deviation in Ippo's rhythm before the rest of him could build a reason for it.
 
 _Senpai. Where are you looking._
 
-Ippo's guard was still up. His feet were still planted. Nothing in his stance had changed. But his eyes — his eyes were pointing somewhere else. Somewhere past Imai's shoulder, past the ropes on the far side, toward —
+Ippo's guard was still up. His feet were still planted. Nothing in his stance had changed. But his eyes, his eyes were pointing somewhere else. Somewhere past Imai's shoulder, past the ropes on the far side, toward.
 
 Itagaki followed the direction.
 
-Not with his mind. With his body. The way his body had followed Ippo's gaze in Chapter 23, the same involuntary tracking, except now the destination wasn't a surprise — now his senses were filling in the path before his eyes could finish traveling it.
+Not with his mind. With his body. The way his body had followed Ippo's gaze in Chapter 23, the same involuntary tracking, except now the destination wasn't a surprise, now his senses were filling in the path before his eyes could finish traveling it.
 
-That side of the ring. The side where Imai had entered from, ducking under the ropes with the calm of a man stepping through his own front door. The sky was visible through the windows on that wall, and the late afternoon light came through them at a low angle, cutting across the gym floor in pale rectangles that stopped just short of the ring's edge. Wind pressed against those windows — Itagaki could hear it, faintly, under the noise of the gym, the way you hear rain under a conversation. The glass shivered.
+That side of the ring. The side where Imai had entered from, ducking under the ropes with the calm of a man stepping through his own front door. The sky was visible through the windows on that wall, and the late afternoon light came through them at a low angle, cutting across the gym floor in pale rectangles that stopped just short of the ring's edge. Wind pressed against those windows. Itagaki could hear it, faintly, under the noise of the gym, the way you hear rain under a conversation. The glass shivered.
 
-And below the glass — people. The press. Fujii. The young man with the notebook. And standing beside them, between them and the window, in the space where the outside light touched the inside air —
+And below the glass, people. The press. Fujii. The young man with the notebook. And standing beside them, between them and the window, in the space where the outside light touched the inside air.
 
 The window. He remembered the window.
 
@@ -44,69 +44,69 @@ He remembered Takamura talking to someone through it. Remembered Kimura tilting 
 
 Ippo was looking at the window.
 
-Ippo was in the ring with Imai and his eyes were pointed at the place where the window had held a face that wasn't there anymore — because the face had come inside, because the face was standing in the gym now, watching from the shadows with a frown that hadn't moved since it arrived.
+Ippo was in the ring with Imai and his eyes were pointed at the place where the window had held a face that wasn't there anymore, because the face had come inside, because the face was standing in the gym now, watching from the shadows with a frown that hadn't moved since it arrived.
 
-Itagaki's stomach dropped. Not a feeling — a physical event. The weight inside his abdomen fell as if someone had cut the string holding it, and the rest of his body went cold from the center outward.
+Itagaki's stomach dropped. Not a feeling, a physical event. The weight inside his abdomen fell as if someone had cut the string holding it, and the rest of his body went cold from the center outward.
 
 _Again._
 
-_Again you're looking there. Again your eyes leave the ring. Again the thing that changes you is not the fight, not the opponent, not me — it's that. It's always that._
+_Again you're looking there. Again your eyes leave the ring. Again the thing that changes you is not the fight, not the opponent, not me, it's that. It's always that._
 
-He opened his mouth. To say what, he didn't know. A name, a warning, a sound — anything that would reach the ring and pull Ippo's eyes back to where they belonged. But the air in his throat was thick and his tongue was dry and before the sound could form —
+He opened his mouth. To say what, he didn't know. A name, a warning, a sound, anything that would reach the ring and pull Ippo's eyes back to where they belonged. But the air in his throat was thick and his tongue was dry and before the sound could form.
 
 ---
 
 Imai moved.
 
-Not walked. Not stepped. _Moved_ — the way a fist moves, the way a thing that has been still becomes a thing that is not still and the space between the two states is so small your eyes cannot find it. One moment Imai was at distance, his flat mechanical rhythm holding him in place like an anchor in mud. The next moment he was inside Ippo's guard, his shoulder driving forward, his weight committed, and the distance between them was nothing.
+Not walked. Not stepped. _Moved_, the way a fist moves, the way a thing that has been still becomes a thing that is not still and the space between the two states is so small your eyes cannot find it. One moment Imai was at distance, his flat mechanical rhythm holding him in place like an anchor in mud. The next moment he was inside Ippo's guard, his shoulder driving forward, his weight committed, and the distance between them was nothing.
 
-Itagaki's thoughts scattered. The window, the light, the direction of Ippo's gaze — Imai's movement cut through all of it the way a hand swipes papers off a desk. Every observation Itagaki had been building was pushed aside by the simple violent fact of Imai's presence inside the pocket, and the only thought left was _no no no no._
+Itagaki's thoughts scattered. The window, the light, the direction of Ippo's gaze. Imai's movement cut through all of it the way a hand swipes papers off a desk. Every observation Itagaki had been building was pushed aside by the simple violent fact of Imai's presence inside the pocket, and the only thought left was _no no no no._
 
 Ippo threw first.
 
-He threw because he had to — because a man whose guard has been breached does not have the luxury of waiting, because the only answer to an opponent inside your range is to make them pay for being there. His right hand came up fast and heavy, aimed at Imai's body, the kind of counter that says _you want to be close? Then feel what close costs._
+He threw because he had to, because a man whose guard has been breached does not have the luxury of waiting, because the only answer to an opponent inside your range is to make them pay for being there. His right hand came up fast and heavy, aimed at Imai's body, the kind of counter that says _you want to be close? Then feel what close costs._
 
 Imai caught it.
 
-Not blocked — caught. His left arm absorbed the punch against his guard and the impact moved through his body and came out the other side as forward motion, his own right hand already traveling before Ippo's fist had finished pressing against his glove. The exchange had started and Ippo was already behind, already reacting instead of acting, and Itagaki could see it in the way their feet moved — Ippo's stepping back, resetting, searching for distance that wasn't there anymore, and Imai's pressing forward, filling every inch Ippo gave up.
+Not blocked, caught. His left arm absorbed the punch against his guard and the impact moved through his body and came out the other side as forward motion, his own right hand already traveling before Ippo's fist had finished pressing against his glove. The exchange had started and Ippo was already behind, already reacting instead of acting, and Itagaki could see it in the way their feet moved. Ippo's stepping back, resetting, searching for distance that wasn't there anymore, and Imai's pressing forward, filling every inch Ippo gave up.
 
 Coach Kamogawa's face changed.
 
-Itagaki didn't look at it directly — he caught it the way you catch movement at the edge of a photograph, the way a shape in your periphery makes your skin tighten before your head turns. The old man's jaw shifted. His eyes narrowed in a way Itagaki had never seen on that face before — not the focused calm of a coach watching his fighter work, not the tight concentration of a corner between rounds. Something else. Something that looked like recognition of a thing he had hoped wouldn't happen.
+Itagaki didn't look at it directly, he caught it the way you catch movement at the edge of a photograph, the way a shape in your periphery makes your skin tighten before your head turns. The old man's jaw shifted. His eyes narrowed in a way Itagaki had never seen on that face before, not the focused calm of a coach watching his fighter work, not the tight concentration of a corner between rounds. Something else. Something that looked like recognition of a thing he had hoped wouldn't happen.
 
-Imai drove forward. Another exchange — hands flying, Ippo's guard absorbing what it could and leaking what it couldn't, the sound of leather on leather filling the ring with the flat rhythm of a drum being beaten without music. Ippo's head snapped left. Imai was pushing him into the ropes and Ippo's feet were scrambling to find purchase on canvas that had become ice, his legs working against themselves, his shoulders turning to shield his chin.
+Imai drove forward. Another exchange, hands flying, Ippo's guard absorbing what it could and leaking what it couldn't, the sound of leather on leather filling the ring with the flat rhythm of a drum being beaten without music. Ippo's head snapped left. Imai was pushing him into the ropes and Ippo's feet were scrambling to find purchase on canvas that had become ice, his legs working against themselves, his shoulders turning to shield his chin.
 
 Then Imai stopped.
 
-He stopped in front of Ippo the way a man stops at a threshold he's already decided to cross. His fists at his sides. His chest barely moving. And he looked down at Ippo — not across, _down_ — because Ippo's crouch had dropped him below Imai's chin, and from that angle Imai's face was a ceiling, and the expression on it was not hatred and not anger and not the competitive fire of a man who has found a worthy fight.
+He stopped in front of Ippo the way a man stops at a threshold he's already decided to cross. His fists at his sides. His chest barely moving. And he looked down at Ippo, not across, _down_, because Ippo's crouch had dropped him below Imai's chin, and from that angle Imai's face was a ceiling, and the expression on it was not hatred and not anger and not the competitive fire of a man who has found a worthy fight.
 
 It was patience. The patience of someone waiting for an obstacle to realize it is not a wall.
 
-Ippo was wide open. His guard had drifted — the left hand low, the right hand out of position, his body leaning at an angle that gave Imai a clean line to the jaw, to the temple, to everything that ends a fight in one shot.
+Ippo was wide open. His guard had drifted, the left hand low, the right hand out of position, his body leaning at an angle that gave Imai a clean line to the jaw, to the temple, to everything that ends a fight in one shot.
 
 Imai's left hook came from a place Itagaki couldn't see.
 
-The sound was different from the jab. The jab had been a crack — sharp, quick, the sound of a thing touching a surface. The hook was a _thud._ The sound of a thing passing _through_ a surface. Ippo's head turned and his body followed it, the whole frame rotating on an axis it wasn't designed to rotate on, and his legs — the legs that had pressed the canvas like the floor was asking him to dance — went somewhere far away from his hips.
+The sound was different from the jab. The jab had been a crack, sharp, quick, the sound of a thing touching a surface. The hook was a _thud._ The sound of a thing passing _through_ a surface. Ippo's head turned and his body followed it, the whole frame rotating on an axis it wasn't designed to rotate on, and his legs, the legs that had pressed the canvas like the floor was asking him to dance, went somewhere far away from his hips.
 
 Ippo's face changed.
 
-His shoulders changed. His back, his arms. Everything about his body rearranged itself in the way a body rearranges when it is looking for any position that doesn't hurt, any angle that lets it breathe, any configuration that might — by luck, by accident, by the mercy of whatever keeps a man standing when his legs have stopped listening — hold him up for one more second. His hands did things his brain hadn't asked for. His guard came back in pieces, partial, wrong, the gloves covering parts of his face that didn't need covering while the parts that did were left open like windows in a storm.
+His shoulders changed. His back, his arms. Everything about his body rearranged itself in the way a body rearranges when it is looking for any position that doesn't hurt, any angle that lets it breathe, any configuration that might, by luck, by accident, by the mercy of whatever keeps a man standing when his legs have stopped listening, hold him up for one more second. His hands did things his brain hadn't asked for. His guard came back in pieces, partial, wrong, the gloves covering parts of his face that didn't need covering while the parts that did were left open like windows in a storm.
 
 But he was standing. His feet were under him and they were shaking and the canvas was shaking with them and he was standing.
 
 Then something happened to Ippo's face.
 
-A shift. Subtle and fast — the eyes focusing on something, the jaw setting, the expression becoming something that wasn't fear and wasn't determination but lived in the space between the two where the body has stopped calculating and the thing underneath the body has taken over. He had noticed something. Seen something. And whatever it was had reached into the mess of his body and pulled a wire taut.
+A shift. Subtle and fast, the eyes focusing on something, the jaw setting, the expression becoming something that wasn't fear and wasn't determination but lived in the space between the two where the body has stopped calculating and the thing underneath the body has taken over. He had noticed something. Seen something. And whatever it was had reached into the mess of his body and pulled a wire taut.
 
 The light from the window fell across the ring.
 
-It moved the way light moves when a cloud passes — not suddenly but continuously, the angle shifting as the afternoon outside the gym changed the position of its gifts. The light reached Ippo's side of the canvas and touched him, and for one instant the shadow that had been eating his corner pulled back and the ring was bright around him and Itagaki could see every detail of Ippo's face — the sweat, the redness where the hook had landed, the eyes that were looking at something with a fire in them that had no name.
+It moved the way light moves when a cloud passes, not suddenly but continuously, the angle shifting as the afternoon outside the gym changed the position of its gifts. The light reached Ippo's side of the canvas and touched him, and for one instant the shadow that had been eating his corner pulled back and the ring was bright around him and Itagaki could see every detail of Ippo's face, the sweat, the redness where the hook had landed, the eyes that were looking at something with a fire in them that had no name.
 
-Itagaki leaned forward. His hands left the bench. His weight moved toward the ring as if the light had called him too, as if whatever Ippo had seen was something Itagaki could reach if he just —
+Itagaki leaned forward. His hands left the bench. His weight moved toward the ring as if the light had called him too, as if whatever Ippo had seen was something Itagaki could reach if he just.
 
 The light moved on.
 
-The cloud passed. The angle changed. The pale rectangle slid off Ippo's body and onto the canvas beside him and then off the canvas onto the floor and then it was gone, and the shadow came back, and the ring was what it had been before — half-lit, uneven, the brightness centered on Imai's side where it had always been centered.
+The cloud passed. The angle changed. The pale rectangle slid off Ippo's body and onto the canvas beside him and then off the canvas onto the floor and then it was gone, and the shadow came back, and the ring was what it had been before, half-lit, uneven, the brightness centered on Imai's side where it had always been centered.
 
 Imai threw the second left hook.
 
@@ -122,8 +122,8 @@ Itagaki's hands clenched. His knuckles went white around the edge of the bench, 
 
 His headband slipped.
 
-He didn't feel it move. The elastic had been loosening all day — stretched by the fall, by his hand fixing it, by the sweat that had built along his hairline — and now it gave up. It slid down his forehead. Passed over his eyebrows. Settled across his eyes like a hand placed there by someone who didn't want him to see what came next.
+He didn't feel it move. The elastic had been loosening all day, stretched by the fall, by his hand fixing it, by the sweat that had built along his hairline, and now it gave up. It slid down his forehead. Passed over his eyebrows. Settled across his eyes like a hand placed there by someone who didn't want him to see what came next.
 
 He didn't push it back up.
 
-The gym was silent. The bags had stopped. The breathing had stopped. The world behind the cloth of his headband was dark and warm and the only thing he could hear was his own blood moving through his ears, and somewhere far away — far enough that it could have been a memory instead of a sound — the canvas settling under a weight it hadn't asked to hold.
+The gym was silent. The bags had stopped. The breathing had stopped. The world behind the cloth of his headband was dark and warm and the only thing he could hear was his own blood moving through his ears, and somewhere far away, far enough that it could have been a memory instead of a sound, the canvas settling under a weight it hadn't asked to hold.

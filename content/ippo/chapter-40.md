@@ -2,35 +2,35 @@
 title: "Chapter 40"
 ---
 
-I push off the wall and walk. The ER is louder than the waiting room but the loudness is different — it's movement, not stillness. People being wheeled, curtains scraping on their rails, a monitor beeping somewhere I can't see. The headache is still behind my eyes but now it has somewhere to go. I let the noise pull me in. I need a patient. I need a chart. I need my hands on something that isn't my own hair.
+I push off the wall and walk. The ER is louder than the waiting room but the loudness is different, it's movement, not stillness. People being wheeled, curtains scraping on their rails, a monitor beeping somewhere I can't see. The headache is still behind my eyes but now it has somewhere to go. I let the noise pull me in. I need a patient. I need a chart. I need my hands on something that isn't my own hair.
 
 There's a shortage of doctors at this hour. I know it before I look. The attending's station is empty except for a half-drunk cup of tea going cold on a stack of paper. I scan the beds. And there he is.
 
-An old man, older than the couple by a lot. Older than anyone else in the room. His skin is wrinkled in a way that looks like it would hurt you if you touched it — a surface, not a face — but something about him is compelling, too. He takes care of himself. You can see it in the way his shirt is buttoned, even if the buttons aren't all in the right holes. It's the nature of the job he used to do, I think. A job that made him careful.
+An old man, older than the couple by a lot. Older than anyone else in the room. His skin is wrinkled in a way that looks like it would hurt you if you touched it, a surface, not a face, but something about him is compelling, too. He takes care of himself. You can see it in the way his shirt is buttoned, even if the buttons aren't all in the right holes. It's the nature of the job he used to do, I think. A job that made him careful.
 
 I pull his file. Retired for a while. Complaint: tremor in the hands. They shake when he holds a coffee cup. He keeps mentioning the coffee cup in the intake notes, over and over, like the cup is the patient and not him.
 
-Now I want coffee. That's probably why the headache started — I haven't had any in hours. I look around the ER for a cup I could steal from someone, a pot in a break room, anything. Nothing. I am stuck here with no solution, so I walk over to his bed. **The same pull I used to feel every time I needed something to steady my own hands after a bad round.** **My feet moved on their own toward his bed.**
+Now I want coffee. That's probably why the headache started, I haven't had any in hours. I look around the ER for a cup I could steal from someone, a pot in a break room, anything. Nothing. I am stuck here with no solution, so I walk over to his bed. **The same pull I used to feel every time I needed something to steady my own hands after a bad round.** **My feet moved on their own toward his bed.**
 
 He looks up at me and smiles. I was not ready for the smile.
 
-He is cheerful about his injury. I have never seen someone complain about something being wrong with their body and at the same time radiate like this — trying to make the nurses laugh, talking to me gently, like I am his daughter. I am far younger than any daughter of his. Probably the age of his granddaughter. He doesn't seem to mind. He seems happy to have someone sit down.
+He is cheerful about his injury. I have never seen someone complain about something being wrong with their body and at the same time radiate like this, trying to make the nurses laugh, talking to me gently, like I am his daughter. I am far younger than any daughter of his. Probably the age of his granddaughter. He doesn't seem to mind. He seems happy to have someone sit down.
 
 I start to take his vitals and my eyes drift to his hands resting on his thighs. The shaking doesn't feel like a twitch. It feels like an echo. Like a tuning fork someone struck thirty years ago and forgot to silence. **The same echo I used to feel when I watched my own hands after too many hard sparring sessions.** **My eyes moved on their own back to the chart.**
 
-He notices me looking. He looks down at his own hand and I can see him thinking — if I just press down hard enough, I can ground the circuit. He leans his weight into his palm. Pins his hand against his leg. The shaking doesn't stop. It travels. His knee begins to bounce in sympathy. The chair starts a low rhythmic rattle against the linoleum. He hasn't stopped the shaking. He's given it more territory to conquer.
+He notices me looking. He looks down at his own hand and I can see him thinking, if I just press down hard enough, I can ground the circuit. He leans his weight into his palm. Pins his hand against his leg. The shaking doesn't stop. It travels. His knee begins to bounce in sympathy. The chair starts a low rhythmic rattle against the linoleum. He hasn't stopped the shaking. He's given it more territory to conquer.
 
 He laughs at himself. A small, private laugh, like it's a trick his body plays that he has already forgiven.
 
-I write down the vitals. My hand is steady. His is not. And somewhere under my ribs, a shock travels through me the way the tremor traveled through him — like his body is teaching mine a lesson I didn't ask for.
+I write down the vitals. My hand is steady. His is not. And somewhere under my ribs, a shock travels through me the way the tremor traveled through him, like his body is teaching mine a lesson I didn't ask for.
 
-He reaches for the coffee cup on his tray. He doesn't just grab the handle. I watch him study the shaking first, like a man watching weather. He knows the tremor moves in a rhythm without a beat. So he tries to time his reach — waits for his hand to swing left, tries to snatch the handle when it swings back right. He misses. His fingernails clack against the ceramic — a sharp, brittle sound. The coffee ripples in the cup, a miniature stormy sea.
+He reaches for the coffee cup on his tray. He doesn't just grab the handle. I watch him study the shaking first, like a man watching weather. He knows the tremor moves in a rhythm without a beat. So he tries to time his reach, waits for his hand to swing left, tries to snatch the handle when it swings back right. He misses. His fingernails clack against the ceramic, a sharp, brittle sound. The coffee ripples in the cup, a miniature stormy sea.
 
-He has to use both hands. A simple drink turns into a heavy, mechanical operation. He looks down at his own hands and I can hear him thinking — two strangers fighting over a prize. He doesn't say it out loud. He doesn't need to. The thought is written across his face. **The same mechanical fight I used to borrow from my own hands when I tried to keep going after they started to fail.** **My hand moved on its own back to the clipboard.**
+He has to use both hands. A simple drink turns into a heavy, mechanical operation. He looks down at his own hands and I can hear him thinking, two strangers fighting over a prize. He doesn't say it out loud. He doesn't need to. The thought is written across his face. **The same mechanical fight I used to borrow from my own hands when I tried to keep going after they started to fail.** **My hand moved on its own back to the clipboard.**
 
 My hand on the clipboard starts to feel wrong. Too still. Like I'm holding it still on purpose so he won't see it next to his.
 
-I should call for a real doctor. I look around again. Still nothing. Still just me. So I do what the attendings do — I stand in the spot where attendings stand, and I ask him about his history.
+I should call for a real doctor. I look around again. Still nothing. Still just me. So I do what the attendings do, I stand in the spot where attendings stand, and I ask him about his history.
 
 Thirty years of jackhammers, he says. Thirty years of daily vibration running up his arms, into his shoulders, into his neck, into his skull. He's buttoning his shirt while he talks, the buttons sliding out of his fingers, going back in on the second try.
 
@@ -38,7 +38,7 @@ Thirty years of jackhammers, he says. Thirty years of daily vibration running up
 
 I write that in the chart. I don't know why. It's not a vital sign. It's not a symptom code. I write it anyway.
 
-My throat is doing something. I clear it. I ask him, because I need to ask him, because I can't hold the question in anymore — does he miss the work? Does he hate it? For what it did to him?
+My throat is doing something. I clear it. I ask him, because I need to ask him, because I can't hold the question in anymore, does he miss the work? Does he hate it? For what it did to him?
 
 He thinks about it. He doesn't answer fast. He thinks about it the way a man thinks about a wife he's been married to for forty years.
 
@@ -50,7 +50,7 @@ All I can think of is Ippo. All I can think of is the doctor's face when he told
 
 I look at the old man's hand, still resting on his thigh, still humming its thirty-year hum. I try to put Ippo's face on his face. I try to put Ippo's hands on his hands. It works too easily. The image slides into place like it has been waiting for me to find it.
 
-Is this what Ippo will look like when he is old? Broken in the hands and smiling about it? Explaining it to some stranger the way this old man is explaining it to me — the love and the cost, same thing — with a laugh that isn't bitter, that isn't angry, that's just the laugh of a man who already made his peace years ago and now has to watch young people arrive at the grief he already finished having?
+Is this what Ippo will look like when he is old? Broken in the hands and smiling about it? Explaining it to some stranger the way this old man is explaining it to me, the love and the cost, same thing, with a laugh that isn't bitter, that isn't angry, that's just the laugh of a man who already made his peace years ago and now has to watch young people arrive at the grief he already finished having?
 
 And me next to him. Me, watching his tremor vibrate up and down. Me with my steady hands and my chart and my questions. Me feeling my heart climb into my throat and stay there.
 

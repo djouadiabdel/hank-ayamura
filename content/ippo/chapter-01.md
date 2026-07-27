@@ -2,19 +2,19 @@
 title: "Chapter 1"
 ---
 
-In the middle of it all, I feel happy. I feel like I have a place I belong to — with all of them, on the boat, the sea wide and indifferent around us. Look at them. They are doing the silliest things. Someone watching from shore might think they are children, competing over something that means nothing.
+In the middle of it all, I feel happy. I feel like I have a place I belong to, with all of them, on the boat, the sea wide and indifferent around us. Look at them. They are doing the silliest things. Someone watching from shore might think they are children, competing over something that means nothing.
 
 Maybe that is what meaning is.
 
-Am I acting like that? I'm not doing that — but do I feel like a man? Do I feel strong enough?
+Am I acting like that? I'm not doing that, but do I feel like a man? Do I feel strong enough?
 
-Takamura is strong. Coach is strong. Everyone here is strong. My father was strong. And all of them had things they were meant for — and in doing those things, in being exactly what they were built to be, they became strong. But what am I doing? Am I even meant to box? Is this what I am supposed to be doing?
+Takamura is strong. Coach is strong. Everyone here is strong. My father was strong. And all of them had things they were meant for, and in doing those things, in being exactly what they were built to be, they became strong. But what am I doing? Am I even meant to box? Is this what I am supposed to be doing?
 
-My father considered the sea his home. Actually — the sea was his home. He is forever part of that water now, the salt water that my mother and I rely on to survive. He did his job. He absorbed and endured and was a good man. That is why he was strong.
+My father considered the sea his home. Actually, the sea was his home. He is forever part of that water now, the salt water that my mother and I rely on to survive. He did his job. He absorbed and endured and was a good man. That is why he was strong.
 
 Or is it?
 
-Why do I even want to be strong? I think it is because this is what it means to be a man — to be like my father. But I am holding the fishing rod and I don't know how to use it the way he did. **The rod feels wrong in my hands. Too light. Like I am pretending.** He was good at what he did. People looked up to him. He had a tool — the rod, the boat, the sea.
+Why do I even want to be strong? I think it is because this is what it means to be a man, to be like my father. But I am holding the fishing rod and I don't know how to use it the way he did. **The rod feels wrong in my hands. Too light. Like I am pretending.** He was good at what he did. People looked up to him. He had a tool, the rod, the boat, the sea.
 
 My father had the sea. He was a man because of the sea.
 
@@ -32,7 +32,7 @@ He squinted at me the way he does when he doesn't believe a word coming out of m
 
 I can't tell him. It's not like I can talk about this with anyone. All I know how to talk about is boxing. I love talking about boxing. In one way or another, there has never been a need to talk about anything else.
 
-**Something tightened in my chest. Not pain — more like a door closing. I opened my mouth. I almost said: Coach, what am I outside of this? But the words didn't come. They never come. So instead —**
+**Something tightened in my chest. Not pain, more like a door closing. I opened my mouth. I almost said: Coach, what am I outside of this? But the words didn't come. They never come. So instead.**
 
 I hit myself in the face and screamed.
 
@@ -48,7 +48,7 @@ Silence. Everyone turned.
 
 "Are you hurt?" Shinoda asked. "Because you're losing?"
 
-"No," I said quickly. "I was just — excited. That we're all here together."
+"No," I said quickly. "I was just, excited. That we're all here together."
 
 Aoki looked at Takamura. "Okay. You might be right. He's losing it."
 
@@ -56,19 +56,19 @@ Aoki looked at Takamura. "Okay. You might be right. He's losing it."
 
 "Nothing," I said. "Nothing."
 
-Well — I enjoy this. Regardless of everything. Regardless of whether I have a tool or not, whether I know what I am or not — they are here. And I think they will help me find it. I just have to work hard. Be the one who makes everyone proud.
+Well, I enjoy this. Regardless of everything. Regardless of whether I have a tool or not, whether I know what I am or not, they are here. And I think they will help me find it. I just have to work hard. Be the one who makes everyone proud.
 
 "Okay," I said to everyone. "Let's head back. My mother cooked."
 
 ---
 
-We assembled everything correctly, tied everything down. And when I tied the knot on the boat — the one my father taught me — I stopped for a moment.
+We assembled everything correctly, tied everything down. And when I tied the knot on the boat, the one my father taught me, I stopped for a moment.
 
 **My fingers remembered it before I did. Loop, cross, pull. I must have been seven or eight when he showed me. His hands were bigger than mine and they moved without looking, the way hands move when something has been done ten thousand times. I watched them and tried to copy. He didn't correct me when I got it wrong. He just undid it gently and let me try again.**
 
 He promised he would come back. I learned that knot so I would know how to wait for him. A real man does what he says.
 
-I looked at my fist. Then at the sunset. The sea catching the last light. **My chest felt full of something I couldn't name — not grief, not pride, something older than both.** I raised my fist toward the sun, slow and serious, and held it there.
+I looked at my fist. Then at the sunset. The sea catching the last light. **My chest felt full of something I couldn't name, not grief, not pride, something older than both.** I raised my fist toward the sun, slow and serious, and held it there.
 
 "IPPO LOST IT." Takamura and Aoki said it at exactly the same time.
 
@@ -76,7 +76,7 @@ Coach grabbed the fishing rod and went after both of them across the deck, screa
 
 ---
 
-My mother's cooking filled the house. Everyone was laughing — Takamura making a scene again, Coach red in the face and embarrassed by him as always.
+My mother's cooking filled the house. Everyone was laughing. Takamura making a scene again, Coach red in the face and embarrassed by him as always.
 
 I sat at the table and ate.
 

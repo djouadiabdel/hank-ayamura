@@ -6,27 +6,27 @@ title: "Chapter 22"
 
 The bench held the warmth of his legs like it was keeping something for him, something he'd left behind without noticing.
 
-His legs moved up and down. Not a bounce — a tremor. The balls of his feet hitting the floor in a rhythm that had no music, no count, no purpose. Just the body doing what the mind couldn't say. He drifted deeper into the motion, the contact of rubber sole against concrete becoming a pulse he could follow down into the dark, and for a moment he was not in the gym at all. He was somewhere behind his own eyes, watching the memory of Ippo's back in the ring — the big ring, the one with the lights and the crowd and the noise that hit you in the sternum like a second heartbeat — Ippo's back bloodied and still moving forward, always forward, and Itagaki was in the crowd watching it the way you watch a fire, not because it's safe but because your eyes refuse to close.
+His legs moved up and down. Not a bounce, a tremor. The balls of his feet hitting the floor in a rhythm that had no music, no count, no purpose. Just the body doing what the mind couldn't say. He drifted deeper into the motion, the contact of rubber sole against concrete becoming a pulse he could follow down into the dark, and for a moment he was not in the gym at all. He was somewhere behind his own eyes, watching the memory of Ippo's back in the ring, the big ring, the one with the lights and the crowd and the noise that hit you in the sternum like a second heartbeat. Ippo's back bloodied and still moving forward, always forward, and Itagaki was in the crowd watching it the way you watch a fire, not because it's safe but because your eyes refuse to close.
 
 The memory played again. Looped. Ippo's back. The blood. The roar. The way Ippo's feet kept pressing forward as if the floor was asking him to dance.
 
 His legs were too loud. He could hear them against the floor, the rubber slapping concrete, and the sound embarrassed him the way your own breathing embarrasses you in a quiet room. But nobody turned. Nobody noticed. The gym was busy with the coming spar, and Itagaki's noise was just part of the weather.
 
-A voice came toward him. He ignored it. There were twenty people in this gym and voices moved through the air like loose change — falling, bouncing, rolling toward whoever was closest. It wasn't for him. Couldn't be for him. He was on the bench. You don't talk to the bench.
+A voice came toward him. He ignored it. There were twenty people in this gym and voices moved through the air like loose change, falling, bouncing, rolling toward whoever was closest. It wasn't for him. Couldn't be for him. He was on the bench. You don't talk to the bench.
 
-He stopped his legs from shaking. Gripped his pants. Watched the fabric bunch and fold around his knuckles, the cloth wrapping his hand the way tape wraps a fist before the glove goes on — that same pressure, that same tightness that means _something is about to happen._ His face softened. His chest got heavy with the kind of weight that sits on you when you want to let everything out but there's no door to open and no one standing on the other side waiting to hear it.
+He stopped his legs from shaking. Gripped his pants. Watched the fabric bunch and fold around his knuckles, the cloth wrapping his hand the way tape wraps a fist before the glove goes on, that same pressure, that same tightness that means _something is about to happen._ His face softened. His chest got heavy with the kind of weight that sits on you when you want to let everything out but there's no door to open and no one standing on the other side waiting to hear it.
 
 The footsteps got louder.
 
-Not the gym's general shuffle. A specific pair of heels, moving toward him, and the sound of them was louder than everything else the way a single voice is louder than a crowd when the voice belongs to someone your body recognizes before your ears do. The ambient noise — the bags, the ropes, the breathing — it all pulled back like a curtain being drawn to the side, and the footsteps filled the space the curtain left.
+Not the gym's general shuffle. A specific pair of heels, moving toward him, and the sound of them was louder than everything else the way a single voice is louder than a crowd when the voice belongs to someone your body recognizes before your ears do. The ambient noise, the bags, the ropes, the breathing, it all pulled back like a curtain being drawn to the side, and the footsteps filled the space the curtain left.
 
 He tried to lift his head sideways, not even all the way up, just enough to see who was walking, and before he could turn something landed on his shoulder.
 
-A head. Someone's head on his shoulder. He froze with the shock of its existence, his eyes dropping to the arm attached to the head — the forearm, the veins running along the surface like rivers on a map he'd memorized, the muscle toned and dense. The arm made him think of Takamura's arms on a cut — the dried-shrimp-and-plain-rice look, the skin vacuum-sealed over the muscle, the tendons visible like cables. But this arm wasn't that. This arm was fuller. Softer at the edges. And the hand at the end of it had no fingers, because the fingers were hidden inside a glove.
+A head. Someone's head on his shoulder. He froze with the shock of its existence, his eyes dropping to the arm attached to the head, the forearm, the veins running along the surface like rivers on a map he'd memorized, the muscle toned and dense. The arm made him think of Takamura's arms on a cut, the dried-shrimp-and-plain-rice look, the skin vacuum-sealed over the muscle, the tendons visible like cables. But this arm wasn't that. This arm was fuller. Softer at the edges. And the hand at the end of it had no fingers, because the fingers were hidden inside a glove.
 
 _Don't tell me._
 
-_Don't tell me it's him. Don't tell me he walked over here and put his head on my shoulder and I was sitting here gripping my pants like a child and he saw it. Don't tell me —_
+_Don't tell me it's him. Don't tell me he walked over here and put his head on my shoulder and I was sitting here gripping my pants like a child and he saw it. Don't tell me._
 
 The heat rose into his face. He couldn't look up. He sat there with Ippo's head on his shoulder and his own face burning and his throat so dry that the air going in felt like sand, and then a voice he knew said:
 
@@ -34,28 +34,28 @@ The heat rose into his face. He couldn't look up. He sat there with Ippo's head 
 
 His eyes went up.
 
-This was the first time he had met Ippo's eyes the whole day. The whole day — since the gym door opened and Imai walked through it and the room rearranged itself and Itagaki had been told to sit. The first time. And Ippo's face was closer than he expected, and his eyes were steady, and the look in them was not pity and not instruction and not the distant warmth of a senpai being kind.
+This was the first time he had met Ippo's eyes the whole day. The whole day, since the gym door opened and Imai walked through it and the room rearranged itself and Itagaki had been told to sit. The first time. And Ippo's face was closer than he expected, and his eyes were steady, and the look in them was not pity and not instruction and not the distant warmth of a senpai being kind.
 
 He tried to gather enough moisture in his mouth to speak. His throat was a desert. When the words came they scraped on the way out.
 
 "For me? You don't have to do that."
 
-Ippo moved his head. A small shake. Not dismissal — refusal. Refusal to let Itagaki talk him out of it.
+Ippo moved his head. A small shake. Not dismissal, refusal. Refusal to let Itagaki talk him out of it.
 
 "What he said about you was very disrespectful."
 
-Something changed in Itagaki's chest. A different kind of heat. Not the heavy sinking warmth of sitting alone — something rising, something with a color to it, and before he could stop it his face broke into a grin so wide it made noise, the kind of smile that isn't quiet, that fills the space around it and pushes everything else aside. He was looking at Imai when it happened, and the smile was aimed at Imai even though Imai wasn't looking, even though Imai was standing across the gym calm as concrete.
+Something changed in Itagaki's chest. A different kind of heat. Not the heavy sinking warmth of sitting alone, something rising, something with a color to it, and before he could stop it his face broke into a grin so wide it made noise, the kind of smile that isn't quiet, that fills the space around it and pushes everything else aside. He was looking at Imai when it happened, and the smile was aimed at Imai even though Imai wasn't looking, even though Imai was standing across the gym calm as concrete.
 
-He killed it immediately. Wiped it off his face the way you wipe steam from a mirror — fast, one motion, before anyone sees what's behind it. He told himself he didn't understand what Ippo just said. Told himself it wasn't what it sounded like. His face settled into something else — a smaller smile, a serious one, the kind you wear when you're proud but the pride is still too new to show all of it.
-
-_Is senpai actually angry? This is rare._
-
-The thought sat in his chest like a warm stone.
+He killed it immediately. Wiped it off his face the way you wipe steam from a mirror, fast, one motion, before anyone sees what's behind it. He told himself he didn't understand what Ippo just said. Told himself it wasn't what it sounded like. His face settled into something else, a smaller smile, a serious one, the kind you wear when you're proud but the pride is still too new to show all of it.
 
 _Is senpai actually angry? This is rare._
 
 The thought sat in his chest like a warm stone.
 
-Ippo stood up from the bench. The weight of his head left Itagaki's shoulder and the shoulder didn't know what to do with the space. Ippo walked toward the ring without looking back — not cruelly, not carelessly, but the way a man walks toward the thing his body was built for. One direction. No hesitation.
+_Is senpai actually angry? This is rare._
 
-Itagaki watched him go. The warm stone was still there, still pressing against the inside of his ribs, and he held it the way you hold a gift you haven't opened yet — with both hands, carefully, certain that whatever was inside was meant for you.
+The thought sat in his chest like a warm stone.
+
+Ippo stood up from the bench. The weight of his head left Itagaki's shoulder and the shoulder didn't know what to do with the space. Ippo walked toward the ring without looking back, not cruelly, not carelessly, but the way a man walks toward the thing his body was built for. One direction. No hesitation.
+
+Itagaki watched him go. The warm stone was still there, still pressing against the inside of his ribs, and he held it the way you hold a gift you haven't opened yet, with both hands, carefully, certain that whatever was inside was meant for you.
