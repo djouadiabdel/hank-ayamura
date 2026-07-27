@@ -1,0 +1,146 @@
+---
+title: "Familiar"
+---
+
+I ruined the exam, and when it was over my arms fell with all their weight straight down at my sides. I walked out into people who would not meet my eyes. I passed close to them and no one greeted me. Whatever had been rushing in my head all morning faded the second I crossed the exam door, faded the way a fever does, leaving the body cold and emptied and standing in a hallway it does not recognize.
+
+The sun touched the black shirt I was wearing and the warmth crept in until I sweat. I tried to face it, eyes open straight into it, and the burn I always feel was gone — when you stare directly into the thing that should hurt you, it stops hurting and only blinds. So I looked away, at some other spot in the realm of mortals walking beside me. I love cold weather, the kind that makes the skin shiver under thick clothes. I do not love being warmed against my will.
+
+I walked slow to leave, because my brother was on the way and I wanted the peace of the road home. The whole university fills my head with a headache the longer I stand near it. So I put music in my ears, the only thing I could do, and wished I did not have to keep sitting in the place where the moments that melted my heart had happened, and the moments that almost broke it, both from the same place, both from her.
+
+Then the song.
+
+I cannot tell you the words. I can tell you what it did. It came in and a voice inside it asked me to sing back, to make it alive, to give it my life so it could go on living — and the asking was so sweet that I felt my soul start to lift out of the top of my head and pour toward it. My consciousness came apart in pieces, each piece fading as the voice kept asking, _sing, make me alive, give me your life._ My heart began to pound the way it pounds before a festival you have been waiting weeks to reach. I did not fight it. The day could not get worse. I surrendered, and there was nothing, and then there was the moon.
+
+The moon was on top of me, looking down, crowning me with its light. I was not in a place I knew and I was not in control of my body — it walked on its own, toward someone. A face I could not make out. A dark face, but warm, soft; I could feel the warmth of it before I reached it. My cheeks wanted to be ripped from me the closer I came, and the more I stared the steadier my heartbeat grew, the calmer my head, until I could not do anything but surrender to what already felt written. As if I had no say. As if my coming here had been decided somewhere I was not invited.
+
+It was a kiss under the moon. I knew it was love, affection, trust — the kind only a few people are given in a whole life, and here it was mine, with a face I could not recognize and somehow knew. She was familiar the way my own reflection is familiar. But not a perfect mirror. Close enough to be me, wrong enough not to be. I closed my eyes to keep the kiss, and when I opened them I was blind, and there was dirt in my mouth.
+
+Not dirt. Sand. I know a desert when I am dropped into one. A storm was creeping in and I thought it had taken my sight, and the moment I had the thought the storm calmed, but my lips had gone crusty, like a crunched locust. I do not know why locust. Anything would have been good out there as long as it held water. There was nothing. If I kept moving I would lose what strength I had, and if I stayed I was open to everything, and I could not move anyway — again I could not make myself choose, as if every step were already scriptured and I was only reading it after the fact.
+
+A voice. A woman, walking in the wilderness, greeting me. I greeted her back. I tried to think of what to say next and my mouth was muted; I could not consciously decide a single word. She asked if I was blind. My mouth said yes without me. She asked if I wanted to be healed. I said yes, though I had doubts, and I could not get the doubts up into my throat, could not lay my worry down in front of her even to warn her what she was healing.
+
+She put water to my mouth. She told me what she was doing as she did it — taking the sand, a little of the water, and her own spit, mixing them in her hand. She laid the mud over my eyes and told me to wash in the bucket beside me. I washed. I saw the sand under my own hands first. Then the tears came up so fast that everything blurred again, and I threw myself forward and held her.
+
+I could see her shadow where the sun threw it on the ground — the hands, the shoulders, the hair. The smell of her, the small sounds she made, all of it familiar, all of it close. But when I pushed back from the hug to take her by the shoulders and finally look at her face, the push did not move her. It moved me. The same gentle motion I made to put her at arm's length threw me backward off the earth entirely, and the desert was gone, and I was in the open sea.
+
+I cannot swim. I went under and came up screaming with everything I had, and a ship was passing, and I was pulled out of the water. I did not suffer, except the fear — the fear had me completely. On the deck I could speak again, on my own this time, no script moving my mouth. I kept asking who had pulled me out. A woman, they said. She knew who I was and who I had been. She did not know who I would become. I shrugged that off and asked where she was. No one would tell me. No one even knew her name.
+
+I looked for her until the sun was gone. In the evening I saw a woman standing at the rail in the moonlight, and my heart started pounding at the sight of her shape, so maybe it was her. Her back, her height, the way she held herself standing still — I almost knew all of it. The closer I came the more the world around me cracked, like ice over a pond, and when I reached out my hand to touch her she was not there.
+
+A hand was on my shoulder. _Come on, let's go._ My brother.
+
+A dream, then. A hallucination on a sidewalk. The song was still playing in my ears, the same song, the voice still asking me to sing it alive. I cannot sing. But I could go home and sleep, and on the way I thought I should buy magnesium, I needed more.
+
+I went into the pharmacy with my brother beside me and the whole place had changed — the sunny afternoon was gone and the light had gone moonlit and faint and somehow beautiful, and a shadow was walking beside me. I paid it no attention. Everything in the pharmacy was beautiful. I took the box to the counter, and there at the counter was the shadow from before, the one I had not looked at, and now the shadow had a back.
+
+I knew the back.
+
+I looked at her. I stepped forward. She looked at me.
+
+Cold. As if I were nobody. As if I were not a person at all. As if we had never known each other, as if our souls had departed from each other and there was nothing left between them to recognize.
+
+And I felt nothing. I turned away, paid the fee, walked out into the cold I love.
+
+My heart was troubled. But it was victorious, because I had survived the portal. The face I was thrown out of the world for trying to see I never saw it, not once, not in the desert and not on the ship and not at the counter. I only ever knew her back. You cannot look an idol in the face. You reach for it and it throws you into the sea. The only one who touched me and did not take anything was the one with the mud and the spit, who gave me back my eyes and asked nothing, and even her I could not hold.
+
+It was all real. I am not a crazy person. I am not.
+
+----
+- The exam — walking slow, waiting for the brother. Ground floor, real.
+I ruined my chances of acing the exam. My arms fell with all their weight straight down at my sides. I look at the people around me and they do not look me in the eyes, i pass by and no one is there to greet me. The rush that was in my mind faded as I entered the exam door although it was all over me yet uttering few words let it all fade away.
+
+The sun is touching the black shirt i am wearing, the warmth creeps inside of me to the point that it makes me sweat. I try to face the sun with my eyes on it, the sensation of the burn that i always feel is gone now as i am staring face to face with the sun so I just try to look at another spot in the realm of the mortals walking next to me.
+
+ I love cold weather when my skin is shivering under the thick layers of the cloths i may wear.
+
+ I walk slowly to leave the uni as I know my brother is on the way so that we may find peace on the way home. This whole university fills my head with a headache the more i think of what's surrounding it.
+
+All i can do is listen to music and wish that i would not have to sit here for more time experiencing the moments that melt my heart were from it and the ones that almost broke my heart were from it too
+
+----
+The song goes : I saw you there, in the dream.
+Then came a flash of colors pretty clear...
+I see you drive...me...Down.
+And no one helps...mee, I am alone
+
+As the song starts to keep going i feel like my soul is being sucked up into a portal. My whole consciousness gets fragmented into pieces that fade as the song plays in my mind with a voice telling me: sing to me baby, make me alive. Sing to me baby, that's on your life. Sweater than candy, I'll take a bite. To then it all ends with nothingness.
+
+The voice shook my ears that my heart started pumping heavily, the voice entering my ears was like a festival i was driving toward or one that i was planning to go to for a while. I just surrendered for that this day could not have gone any worst than that.
+
+----
+The moon is in the sky, on top of me looking at me crowning me with it's light. I was not in a familiar place nor was I capable of controlling my body for that it did walk on it's own toward someone, a face I could not recognize. A dark face yet warm and soft I can feel it.
+
+My cheeks wanted to be ripped as i was starring into that face, the warmth across them melted my heart into a steady beat. My head was getting calmer and calmer the more i was starring at that face. As it gets close to me, I can not control myself but to surrunder to what i thought as of already predestined actions.
+
+It was a kiss under the moon.
+
+I know it was a kiss of love, affection and trust. One that only few can experience in a lifetime and here i had it with a face I could not recognize yet I knew was familiar. Someone who was deeply relatable as if I am looking at my own reflection but it was not a perfect mirror to me.
+
+It was familiar.
+
+She was familiar as i close my eyes to enjoy it everything is turned off and now I am blinded by dirt.
+
+----
+It was not dirt so to speak but sand for that i know what a desert is, but there is a whole storm creeping in onto me that i thought i was blind.
+
+and the moment I had that thought it calmed but my lips were crusty like a crunchy pieces of locust. Who knows why Locust but anything would of been good in this desert as long as there was water.
+
+Nothing seems to be here and if i keep on moving i might lose all my strength, yet if i stay here i am exposed to everything. But I can't walk, I can't do anything on my own as if this is again is scriptured.
+
+And despite the clearence of the storm i am still unable to see....
+
+I hear a voice of someone walking in the wilderness, a voice of a woman greeting me as i greet her back. I try to think of something to say but my mouth is muted, i can't consciously make any decision. She asks if I am blind, my mouth speaks on it's own saying yes.
+
+She asks if I want to be healed, i say yes even when i have doubts but again i can't talk about any, nor can i unleash my worry onto her.
+
+She puts water on my mouth then she tis telling me that she is taking sand a little bit of water then she spits on them. Afterward she puts all of that on my eyes and tells me to wash with the water bucket next to me.
+
+I can see the sand under me tears gather unto my eyes to the point that everything is blurriy now as i launch onto her hugging her.
+
+I am able to see her shadow as the sun is reflecting it on the ground, the hands, the shoulders and the hair. The smell and all of her deminure sounds and looks famliar to me and as i try to push her aware to look at her face i am pushed and thrown into the sea but not by her.
+
+----
+
+I don't know how to swim and i paniced so hard being thrown in the deep ocean and i try to scream with all my might as a ship is passing by... I am rescued.
+
+I didn't suffer at all beside the fear tghat had captured me and now i can speak on my own without feeling like am inside a script.
+
+All i think of is a familiar hand that grabed me. i ask about whom saved me and they say a woman, she knew who I am and was but doesn't know whom I will be.
+
+I shrug that off and ask where she is, no one talks to me beside saying that they don't know her name.
+
+I try to find her all day long till the sun is no more and slowly on the ship i see a woman who's standing there, i don't know her name maybe she is the one who rescued me because my heart is pumping to the sight of her shadows by the moonlight.
+
+Her back, hight and even the way she is standing, i almost know it all.
+
+The closer i get the more life around me cracks and as I stretch my hand to touch her she is gone.
+
+-----
+My brother's hand is on me, 'come on let's go' he said.
+
+It was all a dream? A moment of hallucination? the song is still playing, the same song i was listening to.
+
+The same one. My pure desire, it leaves me cold. I am sure today, I might see blue. And i am waiting for you, I die again, taking your voice, and break the void....
+
+Yes the same song, sing to me baby....
+
+I wish i can sing but hey I can go home know and sleep but as i pass by the pharmacy i think i might need to buy a magnesium since i need some more.
+
+as I walk into the pharmacy with my brother next to me it's like the whole atmosphere shifted from a sunny day to a moonlit room everything around me is fainter and pretty and there is a shadow awalking by next to me but i pay no attention to it for that all is beautiful in this pharmacy.
+
+I take the magnesium to go to the checking site and here there is the same shadow of earlier that i didn't pay attention to, but knew as it felt familiar at least to my subconscious but now that shadow has a back i know...
+
+I look at the back, it's a woman.
+
+I look at her, and walk a little bit forward and she looks at me too.
+
+Cold, as if I am nobody, as if I am not a person, as if we never knew each others, as if we departed from each others and our souls is no more.
+
+I felt nothing and turned away, payed the fee, walked away.
+
+My heart is troubled, but victorious for that i survived the portal.
+
+It was all real.
+
+I am not a crazy person. I am not.

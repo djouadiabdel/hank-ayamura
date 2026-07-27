@@ -1,0 +1,85 @@
+---
+title: "Chapter 14"
+---
+
+She visits Yamaguchi's clinic.
+
+The walk heading to the clinic was long. I felt like I was creating a trap for myself, like I was building an unsolvable puzzle with my choices in terms of direction. I knew where the clinic was, but I kept avoiding that route, deviating from the track, searching for a nameless thing — a thought that kept making me feel like I was a rat in a big screenplay, trying to find the cheese. But somewhere in the process I stopped being the rat chasing the cheese. I became someone who builds the maze.
+
+It felt long, longer than it should have been, not because of the distance, but because every step I took, every time my shoes hit the ground, the impact came back up through me carrying the weight of what I was committing to by reaching that clinic. Every breath got heavier, as if I were lying on the ground with a boulder pressing down on my chest. And that weight — I could not yet fathom it. I was just going to visit a clinic. Have a chat. I wasn't injured. But that part, the question I had been pondering for so long — would it be answered? Or was I building another maze, this time for both myself and Ippo?
+
+There is a difference between being a nurse, a medical professional, entering a hospital or a clinic as the healer — and entering as the patient. It felt like my legs were about to give out at every moment, like my medical experience had gone up in smoke, like all those years I spent learning to handle this kind of pressure just went — poof — without the ability to trace it back. But this reminded me of the day I first entered the hospital as a nurse. The lights were all on me. In my head they were too bright and I could not handle it. Every step I took felt like I was under a microscope. Every look I received cut bluntly, too directly, into the depth of my soul.
+
+And again, maybe this time I am going to the clinic for the first time. Maybe this is what it feels like to be Ippo. But I am not sure why I feel this way — after all, I am not injured like him. Or is it because it is about him?
+
+The street started talking to me as I approached. I picked the right route this time. I made the decision to ignore all that noise in my mind, to stop building the maze and say hello to my fears. I could hear the clinic before I saw it. I could smell it before I was inside. I knew the rhythm. I knew the place. I know a hospital, and I was sure that the fear I carried, that faint pulse of a headache, would fade the moment I stepped into somewhere familiar.
+
+Underneath all of the emotion, the place was calm. Not the calm of rest. The calm of absence — like a pulse that had never started.
+
+I stopped at the entrance.
+
+----
+
+Somehow, standing there, the nostalgia hit me harder than any punch I had ever taken. Not a sharp pain but a flooding one, warm and wide, filling the spaces between my ribs. The noise of the gym, the punches, the screams, the smell of sweat soaked into wood and leather — it was all so familiar that it ached. These sounds were not just sounds. They were the architecture of my identity. They were the walls of the only home I had ever chosen for myself.
+
+I belong here.
+
+The thought arrived without permission. It settled into me with a certainty that felt almost dangerous, because certainty is the thing that makes you careless, and I could not afford to be careless. Not now. Coach had asked me to come for a reason, and whatever emotion this place stirred in me would have to wait until I knew what that reason was.
+
+Will it be about the next fight? Will it be about extending my rest? Will it be about the plan going forward — the plan that builds on everything before it, layer upon layer, each one designed to bring me closer to the fighter Coach believes I can become?
+
+I did not know. And I hated not knowing. In the ring, I always knew. Not because I was clever — Coach would be the first to tell me I was not — but because I had trained the knowing into my body. Muscle memory. Ten thousand repetitions of the same movement until the movement stops being a decision and becomes a reflex, until the gap between thought and action collapses to nothing. I could remember Coach with his mitts, calling out combinations, his voice sharp and constant like a metronome, instilling the habit into me until the habit became instinct.
+
+----
+
+She stopped there. The sun hit her straight in the face, not an overwhelming summer heat but a soft one, the kind that sits on your skin like it's asking permission. She kept staring at the entrance. No voice came from inside. She clenched her eyes shut, as if trying to focus all of her senses into that one step forward, and despite the pressure pressing against her chest she opened the door and entered the clinic.
+
+Inside, she walked with a strange ease. The scent of cleanness took over — antiseptic, floor polish, the faint sharpness of latex — and her habits kicked in. This reminded her of all the years she spent in the hospital, not as a sick person unable to move, but as someone who moved for others. Slowly, she was gaining her sight back. Colour bloomed into the building and what had been grey turned into something she recognised.
+
+She moved toward the receptionist, her thoughts colliding between confidence and insecurity, but then she noticed on the receptionist's desk a bottle of yogurt. The kind that tastes like sweet and savoury peaches, the smooth white texture she could almost feel on her tongue. She hadn't eaten anything for hours because she had been too busy building her maze and moving through it. But that yogurt gave her the impression that she was not in a strange place. This was just another familiar room. She had spent her years in hospitals. She could not be scared of them now.
+
+She asked the receptionist about the doctor, mentioned she had a meeting, and suddenly Dr. Tomoko was there. Already expecting her. Kumi thought doctors were always busy, important people who didn't have the luxury of waiting for someone like her, yet here Yamaguchi stood as if Kumi's arrival was the next thing on a list she had already prepared for.
+
+Kumi walked behind her. The air displaced by the doctor's movement brushed her face and sharpened her focus. They entered the office and sat, Yamaguchi assuming a position — pen out, notebook flat, posture open — that made Kumi feel like she was the patient.
+
+Kumi leaned back in her seat. A loud mechanical click shot through the room. Her eyes widened. Her fists clenched on the armrests, bracing for the fall — but the chair had only reclined, the way it was designed to. She hadn't fallen. She had barely moved.
+
+But in her mind she was already spiralling into what this must have looked like, how the doctor must have seen her — a grown woman flinching at a chair. The edges of the room felt wider. She gripped the armrest and anchored herself to the ground.
+
+Yamaguchi broke the tension. She held a notebook in one hand, clicked her pen against the paper, and began writing something. The small sound of the pen pressing into the page pulled Kumi back, as if the sharpness of it had punctured whatever had been inflating inside her.
+
+"Did you bring the book you found the information in?"
+
+Kumi's mind stopped racing forward into a world that didn't exist and came back to this one. She said, "Yes," and pulled the book from her purse, already opened to the correct page.
+
+Doing something familiar reminded her again — this was not a judgment of her sanity. Her opinion mattered enough that Ippo's own doctor was taking it seriously. That thought settled in her ears like a whisper, and the room became a little smaller, a little closer to something she could handle.
+
+Yamaguchi placed her hand on the book and began reading. Her eyes shifted — from soft and unreadable to sharp and locked — in an instant. Kumi watched the transformation and felt the ground between them tilt, as if the doctor had been lifted beyond her reach.
+
+Yamaguchi began tapping the table with her fingers. The rhythm was absent-minded, habitual, but to Kumi it landed like a command — stay here, don't drift. Then the doctor bit her lip and made a small sound, not quite dissatisfaction, more like something expected finally confirming itself.
+
+They exchanged notes. Observations. Two women in a room, one clinical, one scared, both precise.
+
+"Do you watch all of Ippo's fights?"
+
+Kumi put her hands on her legs. "Yes."
+
+Yamaguchi looked at her firmly. "And what do you think is the movement that causes him to experience the problem we're discussing?"
+
+Kumi held her own hands together. "Every time he gets pushed to the edge. Fatigued from the fight. And when he uses the Dempsey Roll — especially in the last fight — it felt different."
+
+Yamaguchi raised an eyebrow. "Different?"
+
+A specific image flashed — her brother's face, the confusion on it. She said firmly, "Yes. Different. As if he stops instantly. As if something forces him to break mid-movement."
+
+Yamaguchi took notes. "I see. I'll speak with Ippo further and examine him myself. He's visiting me soon."
+
+Kumi's voice jumped before she could stop it. "He's — what?"
+
+Yamaguchi looked up, surprised for a half-second, and then smiled. A small, knowing smile.
+
+Kumi didn't know where to put her face. She turned sideways, and her eyes landed on Yamaguchi's bookshelf — dense, organised, the spines cracked from use. Not decoration. Not forgotten. Every book on that shelf had been opened all the way through.
+
+"He'll come later," Yamaguchi said. "Not now. Do you have any other questions?"
+
+Kumi shook her head. She picked up her bag and stood, and as she reached the door she paused — not because she had forgotten something, but because for the first time in days the weight on her chest had shifted. It was still there. But it had split into two things: the fear that none of this would be enough, and something quieter underneath it, something she didn't yet have a word for, that felt like the beginning of the opposite.

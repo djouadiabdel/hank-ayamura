@@ -1,0 +1,147 @@
+---
+title: "Chapter 15"
+---
+
+**The Clinic.**
+
+Ippo
+
+The walk to the clinic was quieter than I expected. No crowd, no corner man, no bell. Just me and the street and the sound of my own footsteps which for some reason felt heavier than usual, not because of pain, I don't feel pain anymore, the muscle has healed I think, but because I was walking toward an answer I wasn't sure I wanted to hear.
+
+Coach told me to go. So I go. That is how it works. That is how it has always worked. He says move and I move and somewhere between his voice and my legs I find the reason later.
+
+The clinic smelled the way all clinics smell, like something between clean and cold, the kind of cold that doesn't come from temperature but from the lights and the white walls and the way everyone inside moves like they already know something you don't. I signed in at the front and sat down and the chair was too soft for me, I am used to hard surfaces, the gym floor, the ring canvas, the bench where I wrap my hands. Softness makes me feel like I'm sinking.
+
+---
+
+Outside. Across the street.
+
+Takamura
+
+I am not here because I care. I want to make that clear. I am here because these idiots are here and someone has to make sure they don't do something stupid.
+
+Aoki is crouching behind a vending machine like he's in a war movie, his head poking out sideways, and Kimura is standing next to him pretending to read a sign that is clearly an advertisement for dental insurance.
+
+Aoki whispered: Can you see him? Did he go in?
+
+Takamura: Of course he went in you moron, we watched him walk through the door thirty seconds ago.
+
+Aoki: I'm just making sure —
+
+Takamura hit him on the back of the head. Not hard. Well. Hard enough.
+
+Aoki: What was that for!
+
+Takamura: For crouching. You look like a frog. Stand up.
+
+Kimura sighed and said: Can you two stop? We're supposed to be watching quietly.
+
+Takamura: I am quiet. He's the one making noise.
+
+Aoki, rubbing his head: You hit me!
+
+Takamura: And you deserved it.
+
+Itagaki stood a little further back, arms crossed, watching the clinic door the way you watch a pot of water that you know is going to boil but you don't know when. He didn't say anything. He didn't need to. His face said it.
+
+---
+
+Ippo
+
+Dr. Yamaguchi came in and sat across from me and opened a file and I noticed her hands were steady the way a surgeon's hands are steady, not still from relaxation but still from practice, from doing the same motion so many times that the body stops trembling because trembling would be inefficient.
+
+She looked at me the way coach looks at me when he already knows the answer but wants to hear what I'll say first.
+
+Yamaguchi: How has the recovery been?
+
+Ippo: Good. I feel strong actually. The leg doesn't hurt anymore.
+
+She nodded but she wrote something down and the pen moved longer than the word "good" would require.
+
+Yamaguchi: Let me be straightforward with you. Your muscle fibres have healed. That's not the concern. The concern is the pattern.
+
+I didn't say anything.
+
+Yamaguchi: The torn fibres from your last fight — that wasn't random. That was the result of accumulated stress on your lower kinetic chain, the kind that builds over years in athletes who generate rotational force under fatigue. Your body gave you a warning. Most athletes don't get a warning. They get the full thing.
+
+She paused and clicked her pen and the click sounded louder than it should have in that small room.
+
+Yamaguchi: You are carrying a ticking bomb. Not just you — every athlete who competes at your level carries one. They all hope it never goes off. Some of them are lucky. Some of them are not. The difference is not talent or heart — it is how you manage the load.
+
+A ticking bomb. I thought of every match. Every Dempsey Roll. Every time I twisted my hips and drove upward and felt the force travel from my feet through my knees through my back and into my fist. Every time I did that I was tightening the timer.
+
+Yamaguchi: If you don't take care of yourself — and I mean structurally, consistently, not just resting when it hurts — you will face retirement. That is not a threat. That is the mechanical reality of what your body is telling us.
+
+The word sat in the room. Retirement. It didn't sound like a word. It sounded like a door closing somewhere far away that I could already hear.
+
+Yamaguchi: Specifically — you need to limit your use of the Dempsey Roll.
+
+I looked at her.
+
+Yamaguchi: I know you have the strength to succeed without relying on it. Your fundamentals are exceptional. But every time you use it under fatigue, you are accelerating the timeline on something that will not give you another warning.
+
+I wanted to argue. I wanted to say that the Dempsey Roll is not just a technique — it is the thing coach built me around, it is the weapon he helped me forge, it is the reason I survived fights I had no business surviving. Limiting it felt like someone telling me to breathe but only halfway.
+
+But I didn't say that.
+
+Ippo: I'll try my very best to do what you've said. Thank you so much for all the help.
+
+The words came out the way they always come out, polite, grateful, small. And I meant them. I always mean them. But even as I said them I could feel something sitting in my chest that the words didn't reach, a heaviness that had nothing to do with the muscle or the bone or the tendon, but with the image of myself standing in the ring without the one thing that made me feel like I belonged there.
+
+---
+
+Outside.
+
+Takamura
+
+The door opened and Ippo came out and I could see it from across the street before he even lifted his head. The shoulders. The way he was walking. Slower than when he went in, not from pain but from something else, like the ground had gotten heavier under him.
+
+Aoki: Oh no.
+
+Kimura: What? What happened?
+
+Aoki: Look at his face.
+
+Kimura: I can't see his face from here.
+
+Aoki: Exactly! He's looking down! That's bad!
+
+Itagaki stepped forward and said nothing and his silence was worse than Aoki's panic.
+
+Takamura crossed his arms. He watched Ippo walk down the steps of the clinic and turn left toward the gym, and for a moment nobody said anything because nobody knew what the right thing to say was.
+
+Kimura looked at Aoki sideways and said: How about you, are you in any pain?
+
+Aoki made a face, the kind of face that looks like someone stepped on something wet. He said: Hell no. No way. I'm not quitting anything.
+
+Kimura: No one asked you to quit.
+
+Aoki: I'm just saying! In case anyone was wondering!
+
+Takamura didn't look at them. He was still watching Ippo's back getting smaller down the street.
+
+Takamura: If he wants to complain about how it hurts. If he wants to say it's tough. Then he should go ahead and quit. Right then and there.
+
+Aoki and Kimura both turned to him.
+
+Aoki: That's cold even for you.
+
+Takamura: Common folk don't need to worry about this kind of pain. You wouldn't understand it.
+
+Kimura: Common folk?
+
+Aoki: WHO ARE YOU CALLING COMMON?
+
+Kimura: NONE OF YOUR BUSINESS WHAT WE WORRY ABOUT!
+
+They were screaming at him and Takamura wasn't listening, he was already walking in the direction Ippo had gone, hands in his pockets, chin up, the posture of someone who refuses to look concerned even when his feet are following the person he's concerned about.
+
+They followed him. All of them. Arguing the whole way. And underneath the noise, underneath Aoki's shouting and Kimura's frustration and Takamura's arrogance, there was something none of them would name — the specific fear of watching someone you admire walk out of a building looking like the building won.
+
+They went to the gym. They didn't talk about it again.
+
+The Doctor thought of Kumi.
+
+The girl who had sat in this same chair hours ago with the same worry wearing a different face. Two people circling the same person from different directions, one with a textbook and one with a title, both arriving at the same fear.
+
+She wondered — genuinely wondered — what Ippo meant by try.
