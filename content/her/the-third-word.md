@@ -128,7 +128,7 @@ I asked her which ones. I meant the question.
 
 You understand what you have just heard. I have never been fine with anything. Not one time in my life, not about a name at a table, not about a photograph in a house I could not find, and I have been fine with this since the second she said it and I did not have to work at it and I have not gone back to check.
 
-That is my whole case and I know it is thin, and it is the only clean thing I own. A man guarding a possession gets jealous, that is what it looks like from outside and that is what it looked like when it was me, and I am not guarding anything. I want her, and I do not need her to stop being a person while I do it.
+That is my whole case and I know it is thin, and it is the only clean thing I own. A man guarding a possession gets jealous. That is what it looks like from outside, and that is what it looked like when it was me. I am not guarding anything. I want her, and I do not need her to stop being a person while I do it.
 
 You will say I have nothing to be jealous over. No claim, and a man with no claim has nothing to lose.
 
