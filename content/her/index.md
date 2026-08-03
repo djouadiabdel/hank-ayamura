@@ -2,7 +2,7 @@
 title: Short Stories
 ---
 
-Fifteen pieces about one relationship, written after it ended.
+Eighteen pieces. The first fifteen are about one relationship, written after it ended.
 
 ## The sequence
 
@@ -24,3 +24,9 @@ Fifteen pieces about one relationship, written after it ended.
 - [What Is Wrong With Me](what-is-wrong-with-me)
 - [Can I Be Seen](can-i-be-seen)
 - [A Psychologist of Mine](a-psychologist-of-mine)
+
+## Since
+
+- [The Third Word](the-third-word)
+- [The Eighth Chapter](the-eighth-chapter)
+- [As Tolerated](as-tolerated)
