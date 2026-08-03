@@ -6,9 +6,11 @@ I have been walking this room for an hour. Bed, door, window, bed. I do not sit 
 
 She said goodnight at half past twelve.
 
-That is not late. That is the hour people with lives go to sleep, and she has one, and she went. She has been gone five minutes and I have thought of her for more, never was she out of my sight.
+That is not late. That is the hour people with lives go to sleep, and she has one, and she went. She has been gone five minutes and I have thought of her for longer.
 
-Yes, there are others awake, there is a whole list and I could give it to you in order and you would recognise most of it, and they are not people tonight, they were the exposure, you take a thing in small doses so that it cannot take you later and every one of them was a dose, and what I have instead of a history is a clean chart. And I will not swear I did not go back for it. Nobody enjoys the fever. I enjoyed the fever, there were nights I wanted the temperature more than I wanted the girl, and you know which nights, you were standing in the corner of those rooms too.
+Never was she out of my sight.
+
+Yes, there are others awake, there is a whole list and I could give it to you in order and you would recognise most of them, and they are not people tonight, they were the exposure, you take a thing in small doses so that it cannot take you later and every one of them was a dose, and what I have instead of a history is a clean chart. And I will not swear I did not go back for it. Nobody enjoys the fever. I enjoyed the fever, there were nights I wanted the temperature more than I wanted the girl, and you know which nights, you were standing in the corner of those rooms too.
 
 None of them took.
 
@@ -44,7 +46,7 @@ No, she did not say that, you say.
 
 Of course she did not. Twenty years in that corner and the first time you open your mouth it is to correct my hearing. She meant it. I have no proof and she meant it, and you will notice I never claimed proof, I said I know, and there is a difference between those.
 
-Then she sang about the Holy Mary. At a time where I was throbbing in my own waters. To a man holding a phone with both hands resisting the urge to go down a notch. A level a batch. One batch two batch penny and a dime, then that same man is telling her he would take an hour and do nothing but wait.
+Then she sang about the Holy Mary. At a time when I was throbbing in my own waters. To a man holding a phone with both hands resisting the urge to go down a notch. A level a batch. One batch two batch penny and a dime, then that same man is telling her he would take an hour and do nothing but wait.
 
 You want the board now. I can feel you wanting the board, so take it.
 
@@ -68,9 +70,9 @@ That one was twenty seconds. I told her I have been walking in circles. I did no
 
 Where was I.
 
-She said she enjoys my company. She said she enjoys my summers, for now.
+She said she enjoys my company, for now.
 
-Okay okay she did not exactly mention summers but I know it for a fact, it is mentioned in the scripture, that her song of songs will match the mood of my winters and render them into the time of the year worth living for.
+My summers, I heard. She did not say summers, she said company, and you know what I heard, and I know it for a fact anyway, it is mentioned in the scripture, that her song of songs will match the mood of my winters.
 
 For now.
 
@@ -88,11 +90,11 @@ You will call that cowardice. I call it patience, and patience is a theological 
 
 She told me she was going to eat with her family. She told me before she went. More than once she told me before she went, and I have been turning it over all night. There is no version of this where a woman does that and means nothing by it. There is no version of me that has earned it. Both are true and I cannot put them together, so I keep them in my pocket and take them out.
 
-Dante saw her once. He was nine years old. He writes down what went through him and he writes it in Latin because Italian would not carry it. Ecce deus fortior me, qui veniens dominabitur mihi. Behold a god stronger than I, who comes and will rule me.
+Dante first saw her when he was nine years old. He writes down what went through him and he writes it in Latin because Italian would not carry it. Ecce deus fortior me, qui veniens dominabitur mihi. Behold a god stronger than I, who comes and will rule me.
 
 Nine. He got one look and filed the paperwork.
 
-Then he never had her. She married a banker. She died at twenty four and he got six hundred years of readers instead, and everyone agrees he got the better end of it, and he does not say so anywhere, not in one line of it, and you have read the same book I have.
+Then he never had her. She married a banker. She died at twenty four and he got seven hundred years of readers instead, and everyone agrees he got the better end of it, and he does not say so anywhere, not in one line of it, and you have read the same book I have.
 
 I am not claiming the position is new. I am claiming it is right, and I know what it has cost every man who has held it.
 
@@ -126,11 +128,11 @@ I asked her which ones. I meant the question.
 
 You understand what you have just heard. I have never been fine with anything. Not one time in my life, not about a name at a table, not about a photograph in a house I could not find, and I have been fine with this since the second she said it and I did not have to work at it and I have not gone back to check.
 
-That is my whole case and I know it is thin, and it is the only clean thing I own. A man guarding a possession gets jealous. That is what it looks like from outside, that is what it looked like when it was me. I am not guarding anything. I want her, and I do not need her to stop being a person while I do it.
+That is my whole case and I know it is thin, and it is the only clean thing I own. A man guarding a possession gets jealous, that is what it looks like from outside and that is what it looked like when it was me, and I am not guarding anything. I want her, and I do not need her to stop being a person while I do it.
 
-You will say I am not jealous because I have nothing to be jealous over. That I hold no claim, and a man with no claim has nothing to lose.
+You will say I have nothing to be jealous over. No claim, and a man with no claim has nothing to lose.
 
-That is clever and it is wrong. Whatever that was, it was already happening in the first week. Before anything. Over a photograph I am not certain existed.
+That is clever and it is wrong. Whatever that was, it was already happening in the first week, before anything, over a photograph I am not certain existed.
 
 Ask me what I would do if she told me tomorrow that there was someone.
 
@@ -140,7 +142,7 @@ You are not asking.
 
 Fine. I will move on.
 
-It is not the other thing. I know exactly what the other thing looks like. I have watched it done and I have done it, and it is a man stacking gifts against a door so it cannot open. Mine is not aimed at a door. Mine is aimed up. Mine is prior to the creation of thought, mine was formed in the womb before she was conceived, and if that is heresy then it was heresy in Jeremiah first.
+It is not the other thing. I know exactly what the other thing looks like. I have watched it done and I have done it, and it is a man stacking gifts against a door so it cannot open. Mine is not aimed at a door. Mine is aimed up. Mine was formed in the womb before she was conceived, and if that is heresy then it was heresy in Jeremiah first.
 
 And if there is a word for what I am doing there are three, and I know all three. Latria, which is God alone. Dulia, which is the saints. Hyperdulia, which is one woman, one time, and the Church calls it lawful.
 
@@ -192,7 +194,7 @@ None of that happened.
 
 Write that one down properly, you have a way of writing things down. I imagined it. I have been awake since yesterday morning and I have been on that floor for most of the night, and a man who spends four hours on a floor is going to end up with the floor on him. That is not a mystery. That is carpentry.
 
-My eyes are going and it is the hours. It happens to anybody at four in the morning and it has been happening to me on and off since I was small and it is not what you think it is.
+My eyes are going and it is the hours. It happens to anybody at four in the morning. It has happened to me since I was small. It is not what you think.
 
 Give me a minute.
 
@@ -205,6 +207,8 @@ He is looking at my knees.
 He has not looked at anything else since I opened my eyes.
 
 Do not say it. I have asked you for one thing all night and I am asking you for the opposite of it now.
+
+I know which word you have got.
 
 Do not say it.
 
