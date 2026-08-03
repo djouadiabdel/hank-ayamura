@@ -2,52 +2,69 @@
 title: "The Eighth Chapter"
 ---
 
+I got here at ten past six and there were four people ahead of me and I nearly left twice.
 
-She calls me a good boy.
+I have not slept right in about three weeks. I am telling you that first so you know why this is going to come out badly. I had it in order in the car.
 
-That is the whole of it. Two words in a voice note, thrown away, forty seconds into something that was about nothing else, and I have been sitting with them since.
+Here it is. She calls me a good boy.
 
-You want to know what it does. It puts her above me and it puts me under her and I go quiet in a way I have never once gone quiet for you.
+That is the whole of it. Two words in a voice note, thrown away, forty seconds into something that was about nothing else. I have been carrying them around since Tuesday.
 
-Dante had a word for this and it was not a kink. Il saluto. Her greeting. Beatrice passes him in a street and inclines her head, and he goes home blessed, and he writes that in that moment every enemy was forgiven him and he would have pardoned anyone who had ever wounded him. When she withholds it, one time, he goes to his room and weeps like a beaten child. His account, not mine.
+You are going to ask me what the sin is and I do not have an answer, which is why I nearly left.
+
+I will tell you what it does. It puts her above me. It puts me under her. And I go quiet in a way I have never once gone quiet in this box.
+
+Dante had a word for it and it was not a kink. Il saluto. Her greeting. Beatrice passes him in a street and inclines her head and he goes home blessed, and he writes that in that moment every enemy was forgiven him, that he would have pardoned anyone who had ever wounded him. And when she withholds it, one time, he goes to his room and weeps like a beaten child.
+
+His account. Not mine.
 
 A nod in a street. He built a book on it.
 
 So do not tell me it is small.
 
-And she hands it down like a verdict. Good boy. That is a court, and the sentence is always the same and it is always in my favour.
+You said Tuesday. It is Saturday.
 
-She likes it done to me. She said so lightly, the way she says everything, and I will tell you what I want and you can put it in the file.
+Yes. Four days. I have listened to it more times than that.
 
-I want to be told what to do in a voice that is not asking. I want to be kept waiting. I want her pleased with me and I want her to say so, and I want to have earned it, and I want the standard to be hers, because I have set every standard in my life and passed every one of them and I am still on this floor at one in the morning talking to a wall.
+I will tell you what I want and you can do what you like with it. I want to be told what to do in a voice that is not asking. I want to be kept waiting. I want her pleased with me and I want her to say so, and I want to have earned it, and I want the standard to be hers. I have set every standard in my life and passed every one of them and it has never once felt like this.
 
-Except.
+There is a chapter aimed at me by name. I have read it enough to quote it properly and I am too tired to, so you get it badly.
 
-Girard says the masochist is not chasing the humiliation. Nobody has ever wanted humiliation, he says, and he is right about that, and then he says what they want is the divinity of the mediator, and the humiliation is only the proof there is one. You choose the one who looks down at you, not because you want to be looked down on, but because being looked down on means there is a height, and a height is the only thing that could ever lift you.
+Girard says nobody has ever wanted humiliation. He says what the masochist wants is the divinity of the one he picked, and the shame is only the receipt. You choose someone who looks down at you because being looked down on proves there is a height. And a height is the only thing that could ever lift you.
 
-Eighth chapter. I have read it. It is aimed at me by name.
+Eighth chapter. He is not guessing.
 
-Here is my answer.
+Here is my defence, and I want it written down before I lose the thread.
 
 His masochist turns away from anyone warm to him. He goes hunting for contempt. He cannot bear tenderness, because tenderness comes from an equal, and an equal is no use to him.
 
-She stayed when she was tired. She told me before she went to eat. She is warm to me all day long and I have not gone anywhere.
+She stayed on the phone when she was tired. She told me before she went to eat. She sends me things at two in the afternoon that are not funny and I laugh at them anyway, and then I laugh again later at my desk.
 
-So it does not fit, and I want that written down.
+So it does not fit.
 
-And there is a lowering that is not that one. Philippians. He was in the form of God and did not count it a thing to be grasped, and he emptied himself and took the form of a slave. Nobody says he was proving something about the Father's height. He already knew the height. He went down because of who was down there.
+And there is a going down that is not that one. He was in the form of God and did not count it a thing to be grasped, and he emptied himself and took the form of a slave. Nobody says he was proving something about the Father's height. He already knew the height. He went down because of who was down there.
 
 That is what I say mine is.
 
 Ask me the test.
 
-The test is who the kneeling is for. If I go down and what comes back up is a woman more certainly divine than she was before, then Girard has me and the eighth chapter can be shut. If I go down and what comes back up is her, delighted, and nothing about me settled either way, then it is the other thing.
+The test is who the kneeling is for. If I go down and what comes back up is a woman more certainly divine than she was before, then Girard has me and you can shut the chapter. If I go down and what comes back up is her, delighted, and nothing about me settled either way, then it is the other thing.
 
 I know which one comes back up.
 
-She is playing.
+She is playing. I have known she is playing since the first day and it has never once helped.
 
-I am praying.
+You have not confessed anything. You brought me an argument you had already lost, and you wanted to lose it in front of somebody.
+
+I know.
+
+Say one prayer for her tonight. Not about her. For her. Ask for nothing that comes back to you.
+
+That is the whole penance. He did not give me a number of anything.
+
+I said it in the car park. It took a long time and I had to start again twice, and by the end of it I meant it, and I want that on the record too.
+
+Then I got in the car and I checked my phone.
 
 And I am going to ask her for it again tomorrow.
 

@@ -2,20 +2,17 @@
 title: "The Third Word"
 ---
 
-
 I have been walking this room for an hour. Bed, door, window, bed. I do not sit down when I talk to her.
 
-She said goodnight at half past twelve. That is not late. That is the hour people with lives go to sleep, and she has one, and she went.
+She said goodnight at half past twelve.
 
-She has been gone five minutes and I have thought of her for more, never was she out of my sight.
+That is not late. That is the hour people with lives go to sleep, and she has one, and she went. She has been gone five minutes and I have thought of her for more, never was she out of my sight.
 
-Yes, there are others awake. There is a whole list and I could give it to you in order.
+Yes, there are others awake, there is a whole list and I could give it to you in order and you would recognise most of it, and they are not people tonight, they were the exposure, you take a thing in small doses so that it cannot take you later and every one of them was a dose, and what I have instead of a history is a clean chart. And I will not swear I did not go back for it. Nobody enjoys the fever. I enjoyed the fever, there were nights I wanted the temperature more than I wanted the girl, and you know which nights, you were standing in the corner of those rooms too.
 
-They are not people tonight. They were the exposure. You take a thing in small doses so that it cannot take you later, and every one of them was a dose, and what I have instead of a history is a clean chart.
+None of them took.
 
-And I will not swear I did not go back for it. Nobody enjoys the fever. I enjoyed the fever. There were nights I wanted the temperature more than I wanted the girl, and you know which nights, you were standing in the corner of those rooms too.
-
-None of them took. Not one of them took.
+Not one of them took.
 
 She is the one that got through.
 
@@ -25,27 +22,37 @@ I listened to it back. I said the same thing again, worse, and I sat down on my 
 
 A minute ten.
 
-You have been standing in that corner the whole time and you have not said anything, and I have decided to take that as permission.
+You have been standing in that corner the whole time and you have not said anything.
 
-File this one. At past eleven I was listening to her voice where she says she feels something. Four times I listened to it. As repetitive as it might seem, I never get bored, looking for a movement forward. Always never of her. I posed in the middle of the room with the sensual declaration on my tolerance for boredom and that I can never say that she is dull for she is light. At half past eleven I was walking this floor telling her what her thighs would be like.
+I have decided to take that as permission.
 
-Same night. Same man. You want me to pick one and I am not picking.
+File this one. At past eleven I was listening to her voice where she says she feels something, four times I listened to it, and as repetitive as it might seem I never get bored, looking for a movement forward, always never of her, and I can never say that she is dull for she is light. At half past eleven I was walking this floor telling her what her thighs would be like.
+
+Same night. Same man.
+
+You want me to pick one and I am not picking.
 
 I have never read your book four times looking for a movement forward. Not once in my life. I read you for arguments. I read her for permission.
 
-It should shame me. It does not.
+It should shame me.
+
+It does not.
 
 She was tired tonight. She said so outright, twice, the way she says things, and then she stayed. Another hour when she did not have to. And she sang, and afterwards she called it the song of songs.
 
-No, she did not say that, you say. Of course she did not. Twenty years in that corner and the first time you open your mouth it is to correct my hearing. She meant it. I have no proof and she meant it, and you will notice I never claimed proof, I said I know, and there is a difference between those.
+No, she did not say that, you say.
 
-Then she sang about the Holy Mary. At a time where I was throbbing in my own waters. To a man holding a phone with both hands resisting the urge to go down a notch. A level a batch.
+Of course she did not. Twenty years in that corner and the first time you open your mouth it is to correct my hearing. She meant it. I have no proof and she meant it, and you will notice I never claimed proof, I said I know, and there is a difference between those.
 
-One batch two batch penny and a dime, then that same man is telling her he would take an hour and do nothing but wait.
+Then she sang about the Holy Mary. At a time where I was throbbing in my own waters. To a man holding a phone with both hands resisting the urge to go down a notch. A level a batch. One batch two batch penny and a dime, then that same man is telling her he would take an hour and do nothing but wait.
 
 You want the board now. I can feel you wanting the board, so take it.
 
-Thomas gives two loves. Amor concupiscentiae, which wants the thing for itself. Amor amicitiae, which wills her good for her own sake. He never says the first is evil. He says the second is greater, and mine is the second, mine has been the second from the first week. But I am not her friend. That is not what I meant and you clearly see what the problem is, the problem with the word friend, a friend does not like to eat the juice off of his friend.
+Thomas gives two loves. Amor concupiscentiae, which wants the thing for itself. Amor amicitiae, which wills her good for her own sake. He never says the first is evil. He says the second is greater, and mine is the second, mine has been the second from the first week.
+
+But I am not her friend.
+
+That is not what I meant and you clearly see what the problem is, the problem with the word friend, a friend does not like to eat the juice off of his friend.
 
 For her sake. Having touched her skin one time.
 
@@ -65,23 +72,27 @@ She said she enjoys my company. She said she enjoys my summers, for now.
 
 Okay okay she did not exactly mention summers but I know it for a fact, it is mentioned in the scripture, that her song of songs will match the mood of my winters and render them into the time of the year worth living for.
 
-For now. She put a limit inside a gift and handed me the two together, and it is the most honest thing anybody has done to me, and I took it, and I would take it again in the morning.
+For now.
+
+She put a limit inside a gift and handed me the two together, and it is the most honest thing anybody has done to me, and I took it, and I would take it again in the morning.
 
 I have not asked her what for now means. I am not going to. To ask is to push my luck to the exact edge of what it will carry, and I know where that edge is. I can read a room. I have always been able to read a room.
 
 I would rather have the thing than know the size of it.
 
+You know what it means.
+
+You are not going to tell me that either.
+
 You will call that cowardice. I call it patience, and patience is a theological virtue and cowardice is not, and I have looked it up, tried both, and got burned by one.
 
-She told me she was going to eat with her family. She told me before she went. More than once she told me before she went, and I have been turning it over all night.
-
-There is no version of this where a woman does that and means nothing by it. There is no version of me that has earned it. Both are true and I cannot put them together, so I keep them in my pocket and take them out.
+She told me she was going to eat with her family. She told me before she went. More than once she told me before she went, and I have been turning it over all night. There is no version of this where a woman does that and means nothing by it. There is no version of me that has earned it. Both are true and I cannot put them together, so I keep them in my pocket and take them out.
 
 Dante saw her once. He was nine years old. He writes down what went through him and he writes it in Latin because Italian would not carry it. Ecce deus fortior me, qui veniens dominabitur mihi. Behold a god stronger than I, who comes and will rule me.
 
 Nine. He got one look and filed the paperwork.
 
-Then he never had her. She married a banker. She died at twenty four and he got six hundred years of readers instead. Everyone agrees he got the better end of it. He does not say so anywhere.
+Then he never had her. She married a banker. She died at twenty four and he got six hundred years of readers instead, and everyone agrees he got the better end of it, and he does not say so anywhere, not in one line of it, and you have read the same book I have.
 
 I am not claiming the position is new. I am claiming it is right, and I know what it has cost every man who has held it.
 
@@ -89,15 +100,31 @@ You have not put this in the file.
 
 I do not get jealous.
 
-You knew me before. You were standing in some other corner of some other room and you watched the whole thing and you have never once told me what you saw.
+You knew me before. You were standing in some other corner of some other room and you watched the whole thing and you have never once told me what you saw. Why is that?
 
-There was a name that used to come up. I do not remember whose name. I remember what it did to me. Two days of quiet. Making somebody explain one sentence to me twice, and then a third time, in case the third time came out different.
-
-I was jealous of a photograph once. I could not tell you now whose house it was in, or whether I ever saw it, or whether somebody described it to me and I built the rest out of the description.
+There was a name that used to come up. I do not remember whose name. I remember what it did to me. Two days of quiet. Making somebody explain one sentence to me twice, and then a third time, in case the third time came out different. I was jealous of a photograph once, and I could not tell you now whose house it was in, or whether I ever saw it, or whether somebody described it to me and I built the rest out of the description.
 
 You were there for that. You know if it happened.
 
-This one tells me she likes yaoi. Cartoons of men, drawn by women, for women. She tells me that and I laugh and I ask her which ones, and I mean the question.
+Did it?
+
+This one told me what she likes and I am not going to say it to you.
+
+Drawings. Men, drawn by women, for women, and not one of them has ever existed, and I have thought about that sentence more than a man should think about a sentence.
+
+I looked it up. I did not have to look it up, she would have told me anything I asked her, and I went and looked it up anyway at two in the afternoon like a man checking a diagnosis he has already been given. I read about it for an hour. I know the history of it now. I know which kind she means and I know the word and I am not saying the word, and put that in the file too, that I know it.
+
+And then I went looking for the other thing. The old feeling. I stood in the middle of this room and I went through the whole inventory to find the thing that used to arrive on its own without being sent for, and I gave it every chance, I said it out loud to myself to see whether it would catch.
+
+Ink. Lines on a page. Nobody.
+
+Nothing came.
+
+I am fine with it.
+
+I asked her which ones. I meant the question.
+
+You understand what you have just heard. I have never been fine with anything. Not one time in my life, not about a name at a table, not about a photograph in a house I could not find, and I have been fine with this since the second she said it and I did not have to work at it and I have not gone back to check.
 
 That is my whole case and I know it is thin, and it is the only clean thing I own. A man guarding a possession gets jealous. That is what it looks like from outside, that is what it looked like when it was me. I am not guarding anything. I want her, and I do not need her to stop being a person while I do it.
 
@@ -113,9 +140,7 @@ You are not asking.
 
 Fine. I will move on.
 
-It is not the other thing. I know exactly what the other thing looks like. I have watched it done and I have done it, and it is a man stacking gifts against a door so it cannot open. Mine is not aimed at a door. Mine is aimed up.
-
-Mine is prior to the creation of thought. Mine was formed in the womb before she was conceived, and if that is heresy then it was heresy in Jeremiah first.
+It is not the other thing. I know exactly what the other thing looks like. I have watched it done and I have done it, and it is a man stacking gifts against a door so it cannot open. Mine is not aimed at a door. Mine is aimed up. Mine is prior to the creation of thought, mine was formed in the womb before she was conceived, and if that is heresy then it was heresy in Jeremiah first.
 
 And if there is a word for what I am doing there are three, and I know all three. Latria, which is God alone. Dulia, which is the saints. Hyperdulia, which is one woman, one time, and the Church calls it lawful.
 
@@ -127,9 +152,7 @@ I have been talking to you for an hour.
 
 And I have not once asked you for anything for her.
 
-Not once. Not her health, not her family, not her sleep, not whatever it was that made her tired tonight. I have asked you to believe me. I have asked you to see it. I have asked you to give me the third word.
-
-Her name has been in every sentence and none of it was addressed to her good.
+Not once. Not her health, not her family, not her sleep, not whatever it was that made her tired tonight. I have asked you to believe me. I have asked you to see it. I have asked you to give me the third word. Her name has been in every sentence and none of it was addressed to her good.
 
 Lord, for her sake and not for mine. Whatever is good for her, give it to her. Give it to her whether it comes through me or not.
 
