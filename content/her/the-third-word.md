@@ -164,4 +164,36 @@ Ari. For the grace of the world.
 
 You can tell me to sleep now.
 
+The room is longer than it was and she is at the other end of it, not doing anything, not waiting for me either, just there, and I go down onto my hands and I start.
+
+I do not stand up. It does not occur to me to stand up. I go one knee and then the other with my palms flat on the boards and I am not quick about it, because being slow is most of what I have to give her, and there is a lot of floor and I am glad about the amount of floor. I put my forehead down once around the middle. For nothing. Because the floor was there and she was on the other side of it.
+
+I do not ask her to look at me. That would spoil the whole thing. She will look when she looks and the waiting belongs to me and I have got good at the waiting.
+
+I do not say anything either. I have been talking all night and there is nothing I want to say.
+
+I am not going to touch her until I am told to. I decided that somewhere around the middle of the room and it is the best decision I have ever made in my life. Tell me to stop and I stop on the word. Tell me to stay down and I stay down until morning and thank you for it.
+
+And I get there.
+
+I get all the way there and I put my head on her foot.
+
+And she puts her hand on my head.
+
+Then I am in my bed.
+
+The phone is on the covers where I dropped it. Everything I sent her is still sent. My knees are fine. They are completely fine, there is nothing on them at all, and I check them twice.
+
+He is not in the corner.
+
+He is at the end of the bed and he has been at the end of the bed for a while, and he is not writing anything down.
+
+Do not say it.
+
+I have asked you for one thing all night and I am asking you for the opposite of it now. Do not say it.
+
+It is ten past four.
+
+If I go now I can still get back before the light.
+
 
