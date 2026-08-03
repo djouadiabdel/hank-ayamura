@@ -2,7 +2,7 @@
 title: Short Stories
 ---
 
-Eighteen pieces. The first fifteen are about one relationship, written after it ended.
+Twenty five pieces. Everything except the last three is about one relationship, written after it ended.
 
 ## The sequence
 
@@ -24,6 +24,13 @@ Eighteen pieces. The first fifteen are about one relationship, written after it 
 - [What Is Wrong With Me](what-is-wrong-with-me)
 - [Can I Be Seen](can-i-be-seen)
 - [A Psychologist of Mine](a-psychologist-of-mine)
+- [The Vacancy](the-vacancy)
+- [Snake Legs](snake-legs)
+- [The Silver of 8-11 and 21-12](the-silver-of-8-11-and-21-12)
+- [A Description of the Fire](a-description-of-the-fire)
+- [The File](the-file)
+- [Scum of a Thumb](scum-of-a-thumb)
+- [Scum: The View of a Terrorist](scum-the-view-of-a-terrorist)
 
 ## Since
 
