@@ -180,20 +180,36 @@ I get all the way there and I put my head on her foot.
 
 And she puts her hand on my head.
 
-Then I am in my bed.
+Then she puts it on my face. Twice. Not hard.
 
-The phone is on the covers where I dropped it. Everything I sent her is still sent. My knees are fine. They are completely fine, there is nothing on them at all, and I check them twice.
+Hard enough.
+
+I am in my bed and I do not have the part where I got into it.
+
+My knees have the boards printed on them. Both, red, with the lines of the floor sitting in the skin, and the left one is worse because I favour that side and I have always favoured that side. There is a heat on the left side of my face that has not gone down yet. The phone is on the covers where I dropped it and everything I sent her is still sent.
+
+None of that happened.
+
+Write that one down properly, you have a way of writing things down. I imagined it. I have been awake since yesterday morning and I have been on that floor for most of the night, and a man who spends four hours on a floor is going to end up with the floor on him. That is not a mystery. That is carpentry.
+
+My eyes are going and it is the hours. It happens to anybody at four in the morning and it has been happening to me on and off since I was small and it is not what you think it is.
+
+Give me a minute.
 
 He is not in the corner.
 
 He is at the end of the bed and he has been at the end of the bed for a while, and he is not writing anything down.
 
+He is looking at my knees.
+
+He has not looked at anything else since I opened my eyes.
+
+Do not say it. I have asked you for one thing all night and I am asking you for the opposite of it now.
+
 Do not say it.
 
-I have asked you for one thing all night and I am asking you for the opposite of it now. Do not say it.
+It is ten past four. I am going to lie back down.
 
-It is ten past four.
-
-If I go now I can still get back before the light.
+And if it happens again I am not telling you.
 
 
