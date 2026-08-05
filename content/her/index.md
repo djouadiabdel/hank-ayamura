@@ -2,7 +2,7 @@
 title: Short Stories
 ---
 
-Eighteen pieces. The first fifteen are about one relationship, written after it ended.
+Nineteen pieces. The first fifteen are about one relationship, written after it ended.
 
 ## The sequence
 
@@ -30,3 +30,5 @@ Eighteen pieces. The first fifteen are about one relationship, written after it 
 - [The Third Word](the-third-word)
 - [The Eighth Chapter](the-eighth-chapter)
 - [As Tolerated](as-tolerated)
+- [I Hate This Car](i-hate-this-car)
+- [A Supply](a-supply)
