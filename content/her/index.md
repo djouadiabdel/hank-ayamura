@@ -32,3 +32,10 @@ Twenty pieces. The first fifteen are about one relationship, written after it en
 - [As Tolerated](as-tolerated)
 - [I Hate This Car](i-hate-this-car)
 - [A Supply](a-supply)
+
+## Apocrypha
+
+Not part of the twenty. Pieces written inside someone else's book.
+
+- [The Book of Elara](../apocrypha/the-book-of-elara)
+- [Nothing Is Wrong](../apocrypha/nothing-is-wrong)
