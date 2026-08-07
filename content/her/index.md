@@ -2,7 +2,7 @@
 title: Short Stories
 ---
 
-Twenty pieces. The first fifteen are about one relationship, written after it ended.
+Twenty-one pieces. The first fifteen are about one relationship, written after it ended.
 
 ## The sequence
 
@@ -32,3 +32,7 @@ Twenty pieces. The first fifteen are about one relationship, written after it en
 - [As Tolerated](as-tolerated)
 - [I Hate This Car](i-hate-this-car)
 - [A Supply](a-supply)
+
+## Apocrypha
+
+- [The Book of Elara](the-book-of-elara)
