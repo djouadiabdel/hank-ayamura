@@ -2,6 +2,7 @@
 title: "The School Where Nobody Stood"
 aliases:
   - /crowning/the-man-who-was-right
+  - /her/the-man-who-was-right
 ---
 
 *A man is descending through seven floors. This is the seventh.*
