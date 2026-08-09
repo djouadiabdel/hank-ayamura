@@ -1,5 +1,7 @@
 ---
-title: "The Man Who Was Right"
+title: "The School Where Nobody Stood"
+aliases:
+  - /crowning/the-man-who-was-right
 ---
 
 *A man is descending through seven floors. This is the seventh.*
@@ -85,6 +87,8 @@ The man beside me answered before I could.
 He does.
 
 The room laughed.
+
+My right hand went to my chest, hip, mouth, shoulder, throat, fingers, head. Then the left did the same.
 
 I raised my voice and gave the last premise again. When they were quiet, I completed the argument.
 
