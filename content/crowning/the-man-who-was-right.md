@@ -124,7 +124,7 @@ I knew what you were thinking. There would be a book of mine there one day, the 
 
 You were looking at the floor.
 
-There is no lock on the seventh. I want that written down because it is the only thing about this place that frightens me. A locked door can be worked at. There is nothing to work at here. It is a solitude that could be entered at any moment and will not be entered, because the thing that would let love in has been made into character, and a person does not surrender character merely to get warm.
+There is no lock on the seventh. It is the only thing about this place that frightens me. A locked door can be worked at. There is nothing to work at here. It is a solitude that could be entered at any moment and will not be entered, because the thing that would let love in has been made into character, and a person does not surrender character merely to get warm.
 
 The seventh gate stood at the bottom of the floor. I knew the number of steps before it came into view. I knew where the stone changed beneath the left foot. I knew there would be no handle.
 
