@@ -2,7 +2,7 @@
 title: Short Stories
 ---
 
-Twenty-one pieces. The first fifteen are about one relationship, written after it ended.
+Twenty-two pieces. The first fifteen are about one relationship, written after it ended.
 
 ## The sequence
 
@@ -33,6 +33,7 @@ Twenty-one pieces. The first fifteen are about one relationship, written after i
 - [I Hate This Car](i-hate-this-car)
 - [A Supply](a-supply)
 - [The School Where Nobody Stood](the-school-where-nobody-stood)
+- [De Dolore Eius Qui Multos Intellegit et cum Nemine Ambulat](the-stations)
 
 ## Apocrypha
 
