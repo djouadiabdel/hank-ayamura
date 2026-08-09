@@ -2,7 +2,7 @@
 title: Short Stories
 ---
 
-Twenty pieces, and one chapter from something longer. The first fifteen are about one relationship, written after it ended.
+Twenty pieces. The first fifteen are about one relationship, written after it ended.
 
 ## The sequence
 
@@ -32,12 +32,6 @@ Twenty pieces, and one chapter from something longer. The first fifteen are abou
 - [As Tolerated](as-tolerated)
 - [I Hate This Car](i-hate-this-car)
 - [A Supply](a-supply)
-
-## From a novella
-
-A chapter from *The Crowning*, in progress. A man descends through seven floors. It stands on its own.
-
-- [The Man Who Was Right](the-man-who-was-right)
 
 ## Apocrypha
 
