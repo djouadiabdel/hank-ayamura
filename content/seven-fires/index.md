@@ -32,8 +32,8 @@ There is a gate after every floor. Each one takes the thing he would have chosen
 11. [The Crowning](11-the-crowning)
 
 <div class="sf-dedication">
-<p class="sf-for">For Ari, whose divine nature lights my world. God threw her my way. I know what this book says about that.</p>
-<p class="sf-note">I asked once, and forgot, and gave it up. It came after that. It was not earned. Inside a second it was tissue. It is grey matter now, and it prays for me.</p>
+<p class="sf-for">For Ari, who lights my world.</p>
+<p class="sf-note">I asked God once, then forgot the prayer and let it go. She came into my life afterward—not as something I had earned, but as grace. In a moment she became part of the way I think, and now she prays for me.</p>
 <div class="sf-epigraph">
 <p class="sf-orig sf-heb" lang="he" dir="rtl">כִּי־עַזָּה כַמָּוֶת אַהֲבָה<br/>רְשָׁפֶיהָ רִשְׁפֵּי אֵשׁ שַׁלְהֶבֶתְיָה</p>
 <p class="sf-gloss">Love is strong as death. Its flashes are flashes of fire, a flame of Yah.<span>Song of Songs 8:6</span></p>
