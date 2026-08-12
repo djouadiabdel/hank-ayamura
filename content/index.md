@@ -14,9 +14,9 @@ Fifteen confessional pieces. A relationship, what it asked for, and what neither
 
 A web novel. Forty-five chapters, the first arc. Boxing as the place a man goes to find out whether he exists outside of someone else's looking.
 
-## [The Crowning](crowning/)
+## [Seven Fires, Never Seven Hells](seven-fires/)
 
-A novella in progress. A man descends through seven floors toward a fire, carrying seven things and an explanation for each of them.
+A novella. A man goes down seven floors toward a fire, carrying seven things and an explanation for each of them, and telling all of it to the woman walking beside him.
 
 ## [Apocrypha](apocrypha/)
 

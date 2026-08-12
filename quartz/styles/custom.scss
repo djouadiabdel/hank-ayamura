@@ -402,3 +402,845 @@ body[data-slug="index"] {
     font-size: 1.12rem;
   }
 }
+
+// ------------------------------------------------------------
+//  Seven Fires, Never Seven Hells — the novella
+//  Scoped to body[data-slug^="seven-fires"]. Nothing here can
+//  reach the rest of the site. Delete the whole block to revert.
+// ------------------------------------------------------------
+
+// The book runs on warmth, so this one section warms the accent.
+// Everything else on the site keeps the cool blue-grey.
+body[data-slug^="seven-fires"] {
+  --ember: #9a5a3c;
+  --ember-soft: #b8734f;
+
+  :root[saved-theme="dark"] & {
+    --ember: #c88a63;
+    --ember-soft: #d9a37f;
+  }
+
+  #{$doc} {
+    a:not(.internal):not(.external),
+    a.internal {
+      color: var(--ember);
+      background-color: transparent;
+    }
+
+    // The drop cap on every chapter opening becomes an ember
+    & > p:first-of-type::first-letter {
+      color: var(--ember);
+    }
+  }
+}
+
+// ------------------------------------------------------------
+//  The contents page
+// ------------------------------------------------------------
+
+body[data-slug="seven-fires/index"] {
+  #{$doc} {
+    // Standfirst, same treatment as the site landing page
+    & > p:first-of-type {
+      font-size: 1.2rem;
+      line-height: 1.62;
+      color: var(--gray);
+      font-style: italic;
+      max-width: 34em;
+      margin: 0.3rem 0 1.4rem;
+    }
+
+    // The chapter list, as a table of contents rather than a list
+    & > ol {
+      list-style: none;
+      counter-reset: chapter;
+      padding-left: 0;
+      margin: 1.2rem 0 2.4rem;
+      border-top: 1px solid var(--lightgray);
+
+      li {
+        counter-increment: chapter;
+        margin: 0;
+        border-bottom: 1px solid var(--lightgray);
+
+        a {
+          display: flex;
+          align-items: baseline;
+          gap: 1.1rem;
+          padding: 0.82rem 0.4rem 0.82rem 0.2rem;
+          font-family: var(--headerFont);
+          font-size: 1.12rem;
+          color: var(--darkgray);
+          text-decoration: none;
+          transition: color 0.18s ease, padding-left 0.18s ease,
+                      background-color 0.18s ease;
+
+          // The numeral, set small and quiet in the margin
+          &::before {
+            content: counter(chapter, upper-roman);
+            flex: 0 0 2.4em;
+            font-family: var(--bodyFont);
+            font-size: 0.74rem;
+            font-weight: 600;
+            letter-spacing: 0.14em;
+            color: var(--gray);
+            text-align: right;
+            transition: color 0.18s ease;
+          }
+
+          &:hover {
+            color: var(--ember);
+            padding-left: 0.65rem;
+            background-color: color-mix(in srgb, var(--ember) 5%, transparent);
+
+            &::before {
+              color: var(--ember-soft);
+            }
+          }
+        }
+      }
+    }
+
+    // The closing "still being written" line
+    & > p:last-of-type em,
+    & > p > em:only-child {
+      display: block;
+      font-size: 0.9rem;
+      color: var(--gray);
+    }
+  }
+}
+
+// (flat $doc animation block removed: comma-splice bug, re-declared nested below)
+
+@keyframes sf-settle {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+// ------------------------------------------------------------
+//  Chapter foot navigation
+// ------------------------------------------------------------
+
+.chapter-nav {
+  margin: 3.6rem 0 1rem;
+  padding-top: 1.3rem;
+  border-top: 1px solid var(--lightgray);
+
+  p {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 0.6rem 1.4rem;
+    font-family: var(--bodyFont);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--gray);
+  }
+
+  a {
+    color: var(--gray) !important;
+    text-decoration: none;
+    transition: color 0.18s ease;
+
+    &:hover {
+      color: var(--ember) !important;
+    }
+  }
+}
+
+@media all and ($mobile) {
+
+  .chapter-nav p {
+    justify-content: flex-start;
+    font-size: 0.72rem;
+  }
+}
+
+// The contents page gets a standfirst, so suppress the site-wide
+// drop cap the way the root landing page does.
+body[data-slug="seven-fires/index"] {
+  #{$doc} {
+    & > p:first-of-type::first-letter {
+      font-family: inherit;
+      font-weight: inherit;
+      color: inherit;
+      float: none;
+      font-size: inherit;
+      line-height: inherit;
+      padding: 0;
+    }
+  }
+}
+
+// ------------------------------------------------------------
+//  Seven Fires — per-chapter drifting backdrop
+//
+//  One fixed pseudo-element per page, a tiny repeating SVG tile,
+//  drifting upward one tile-height forever, because he is going
+//  down and the world goes up past him. Each chapter carries its
+//  own motif in the same hairline language.
+//
+//  Cost: a single GPU-composited transform and roughly 200 bytes
+//  of inline SVG per page. No images, no canvas, no JS.
+// ------------------------------------------------------------
+
+$sf-tile: 120px;
+
+body[data-slug^="seven-fires"] {
+  position: relative;
+
+  // Default motif: a descending staircase that continues across
+  // tile seams in both directions.
+  --sf-tile: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cpath d='M0 0H30V30H60V60H90V90H120V120' fill='none' stroke='%237a7a7a' stroke-width='1.2'/%3E%3C/svg%3E");
+  --sf-opacity: 0.055;
+  --sf-duration: 90s;
+
+  &::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: calc(100vh + #{$sf-tile});
+    z-index: 0;
+    pointer-events: none;
+    background-image: var(--sf-tile);
+    background-repeat: repeat;
+    opacity: var(--sf-opacity);
+    animation: sf-drift var(--sf-duration) linear infinite;
+    will-change: transform;
+  }
+
+  // Keep every real element above the backdrop
+  & > * {
+    position: relative;
+    z-index: 1;
+  }
+
+  :root[saved-theme="dark"] & {
+    --sf-opacity: 0.075;
+  }
+}
+
+@keyframes sf-drift {
+  from { transform: translate3d(0, 0, 0); }
+  to   { transform: translate3d(0, -#{$sf-tile}, 0); }
+}
+
+// ------------------------------------------------------------
+//  The motifs, one per chapter
+// ------------------------------------------------------------
+
+// II. What Cannot Be Returned — beds, and a shape held in each
+body[data-slug="seven-fires/02-what-cannot-be-returned"] {
+  --sf-tile: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cg fill='none' stroke='%237a7a7a' stroke-width='1.2'%3E%3Crect x='8' y='18' width='44' height='18' rx='9'/%3E%3Crect x='68' y='78' width='44' height='18' rx='9'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+// III. The Warm House — sheets, set down and never turned over
+body[data-slug="seven-fires/03-the-warm-house"] {
+  --sf-tile: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cg fill='none' stroke='%237a7a7a' stroke-width='1.2'%3E%3Crect x='16' y='12' width='28' height='38'/%3E%3Crect x='76' y='68' width='28' height='38'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+// IV. The Ledger — ruled columns
+body[data-slug="seven-fires/04-the-ledger"] {
+  --sf-tile: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cpath d='M0 30H120M0 90H120M60 0V120' fill='none' stroke='%237a7a7a' stroke-width='1.2'/%3E%3C/svg%3E");
+}
+
+// V. The Two Rooms — one name, two rooms, a line between them
+body[data-slug="seven-fires/05-the-two-rooms"] {
+  --sf-tile: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cg fill='none' stroke='%237a7a7a' stroke-width='1.2'%3E%3Crect x='10' y='30' width='38' height='60'/%3E%3Crect x='72' y='30' width='38' height='60'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+// VI. The Name — an address going out, twice and never a third
+body[data-slug="seven-fires/06-the-name"] {
+  --sf-tile: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cg fill='none' stroke='%237a7a7a' stroke-width='1.2'%3E%3Ccircle cx='60' cy='60' r='16'/%3E%3Ccircle cx='60' cy='60' r='34'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+// VII. Four Seconds — counted, in fours
+body[data-slug="seven-fires/07-four-seconds"] {
+  --sf-tile: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cpath d='M18 34V64M30 34V64M42 34V64M54 34V64M78 74V104M90 74V104M102 74V104M114 74V104' fill='none' stroke='%237a7a7a' stroke-width='1.2'/%3E%3C/svg%3E");
+}
+
+// Interlude — worn treads, nothing asked and nothing paid
+body[data-slug="seven-fires/08-interlude-the-stair"] {
+  --sf-tile: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cpath d='M0 24H86M0 60H120M0 96H58' fill='none' stroke='%237a7a7a' stroke-width='1.2'/%3E%3C/svg%3E");
+  --sf-duration: 130s;
+}
+
+// VIII. The Man Who Was Right — shelves, every book accurate
+body[data-slug="seven-fires/09-the-man-who-was-right"] {
+  --sf-tile: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cpath d='M0 92H120M12 92V38M24 92V50M36 92V32M48 92V56M60 92V40M72 92V52M84 92V34M96 92V48M108 92V44' fill='none' stroke='%237a7a7a' stroke-width='1.2'/%3E%3C/svg%3E");
+}
+
+// IX. The Fire — embers, and the only warm tile in the book
+body[data-slug="seven-fires/10-the-fire"] {
+  --sf-tile: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cg fill='%23a05a38'%3E%3Ccircle cx='18' cy='26' r='2'/%3E%3Ccircle cx='72' cy='14' r='1.4'/%3E%3Ccircle cx='44' cy='58' r='1.7'/%3E%3Ccircle cx='96' cy='48' r='1.3'/%3E%3Ccircle cx='24' cy='86' r='1.5'/%3E%3Ccircle cx='66' cy='100' r='2'/%3E%3Ccircle cx='106' cy='82' r='1.4'/%3E%3C/g%3E%3C/svg%3E");
+  --sf-opacity: 0.14;
+  --sf-duration: 46s;
+
+  :root[saved-theme="dark"] & {
+    --sf-opacity: 0.2;
+  }
+}
+
+// X. The Crowning — what is left of the paper
+body[data-slug="seven-fires/11-the-crowning"] {
+  --sf-tile: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cg fill='%237a7a7a'%3E%3Ccircle cx='14' cy='22' r='1'/%3E%3Ccircle cx='58' cy='10' r='.8'/%3E%3Ccircle cx='92' cy='34' r='1'/%3E%3Ccircle cx='34' cy='52' r='.8'/%3E%3Ccircle cx='76' cy='66' r='1'/%3E%3Ccircle cx='20' cy='88' r='.9'/%3E%3Ccircle cx='104' cy='96' r='.8'/%3E%3Ccircle cx='50' cy='106' r='1'/%3E%3C/g%3E%3C/svg%3E");
+  --sf-opacity: 0.12;
+  --sf-duration: 150s;
+}
+
+// The contents page keeps the staircase but holds still
+body[data-slug="seven-fires/index"] {
+  --sf-duration: 160s;
+  --sf-opacity: 0.045;
+}
+
+// ------------------------------------------------------------
+//  Phones and reduced motion
+// ------------------------------------------------------------
+
+@media all and ($mobile) {
+  body[data-slug^="seven-fires"] {
+    // Lighter on small screens, where the text column is the page
+    --sf-opacity: 0.04;
+    // Slower: fewer composited frames, and less to notice while reading
+    --sf-duration: 150s;
+
+    &::before {
+      // 60px divides the 120px drift exactly, so the loop stays
+      // seamless at the finer size a small screen wants.
+      background-size: 60px 60px;
+      // will-change: transform is inherited from the base rule on
+      // purpose. Without the promoted layer a phone repaints the
+      // whole backdrop on every scroll frame.
+    }
+
+    :root[saved-theme="dark"] & {
+      --sf-opacity: 0.06;
+    }
+  }
+
+  body[data-slug="seven-fires/10-the-fire"] {
+    --sf-opacity: 0.1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body[data-slug^="seven-fires"]::before {
+    animation: none;
+  }
+}
+
+// ------------------------------------------------------------
+//  Seven Fires — the Carceri plates
+//  Piranesi's Imaginary Prisons, 1761. Public domain, from the
+//  Art Institute of Chicago. Grayscale on disk, so the theme
+//  work here is tone rather than colour.
+// ------------------------------------------------------------
+
+.plate {
+  margin: 0 0 2.6rem;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 2px;
+    // Etchings are ink on warm paper. Light mode leaves that alone;
+    // dark mode would otherwise be a white slab in the page.
+    filter: contrast(1.04) saturate(0);
+    transition: filter 0.3s ease;
+  }
+
+  figcaption {
+    margin-top: 0.6rem;
+    font-family: var(--bodyFont);
+    font-size: 0.76rem;
+    line-height: 1.5;
+    color: var(--gray);
+    letter-spacing: 0.01em;
+  }
+}
+
+:root[saved-theme="dark"] .plate img {
+  // Invert the paper, not quite to pure white lines, and pull the
+  // brightness back so it sits in the page instead of glowing.
+  filter: invert(1) contrast(0.92) brightness(0.86) saturate(0);
+}
+
+// On wide screens the plate breaks the text measure slightly, so it
+// reads as an illustration rather than an inline picture.
+@media (min-width: 1100px) {
+  .plate {
+    width: calc(100% + 6rem);
+    margin-left: -3rem;
+  }
+}
+
+// The contents page plate is the frontispiece: give it more air
+.plate-title {
+  margin-bottom: 3rem;
+}
+
+@media all and ($mobile) {
+  .plate {
+    width: 100%;
+    margin-left: 0;
+    margin-bottom: 2rem;
+
+    figcaption {
+      font-size: 0.72rem;
+    }
+  }
+}
+
+// ------------------------------------------------------------
+//  Seven Fires — full-bleed chapter hero
+//  The plate fills the frame, the title stands on it, and the
+//  image dissolves into the page instead of ending at an edge.
+// ------------------------------------------------------------
+
+// The hero carries the title, so Quartz's own is redundant here.
+// The contents page keeps its normal header.
+body[data-slug^="seven-fires/"]:not([data-slug="seven-fires/index"]) {
+  .page-header .article-title,
+  .page-header .content-meta {
+    display: none;
+  }
+}
+
+.sf-hero {
+  position: relative;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-bottom: 3.2rem;
+}
+
+.sf-hero-img {
+  position: relative;
+  height: clamp(340px, 64vh, 640px);
+  overflow: hidden;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 42%;
+    filter: saturate(0) contrast(1.06);
+    // Creeping in: a very slow drift so the room is never quite still
+    animation: sf-creep 46s ease-in-out infinite alternate;
+    will-change: transform;
+  }
+
+  // Darken toward the bottom for legibility, then dissolve into the
+  // page colour so the plate has no bottom edge at all.
+  &::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.18) 0%,
+      rgba(0, 0, 0, 0.42) 45%,
+      rgba(0, 0, 0, 0.62) 72%,
+      var(--light) 100%
+    );
+  }
+}
+
+:root[saved-theme="dark"] .sf-hero-img img {
+  filter: invert(1) saturate(0) contrast(0.9) brightness(0.8);
+}
+
+@keyframes sf-creep {
+  from { transform: scale(1); }
+  to   { transform: scale(1.085); }
+}
+
+.sf-hero-text {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+  text-align: center;
+  padding: 0 1.5rem 3.4rem;
+
+  .sf-numeral {
+    display: block;
+    font-family: var(--bodyFont);
+    font-size: 0.76rem;
+    font-weight: 600;
+    letter-spacing: 0.34em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.72);
+    margin-bottom: 0.9rem;
+  }
+
+  h1 {
+    margin: 0;
+    font-family: var(--headerFont);
+    font-weight: 600;
+    font-size: clamp(2rem, 5.4vw, 3.4rem);
+    line-height: 1.08;
+    letter-spacing: -0.015em;
+    color: #fff;
+    text-shadow: 0 1px 24px rgba(0, 0, 0, 0.55);
+    text-wrap: balance;
+  }
+}
+
+.sf-plate-credit {
+  margin: 0.9rem auto 0;
+  max-width: 46em;
+  padding: 0 1.5rem;
+  text-align: center;
+  font-family: var(--bodyFont);
+  font-size: 0.73rem;
+  line-height: 1.5;
+  color: var(--gray);
+}
+
+// The first paragraph after a hero should not take a drop cap on
+// top of everything else the eye is doing.
+body[data-slug^="seven-fires/"]:not([data-slug="seven-fires/index"]) {
+  #{$doc} > p:first-of-type::first-letter {
+    font-family: inherit;
+    font-weight: inherit;
+    color: inherit;
+    float: none;
+    font-size: inherit;
+    line-height: inherit;
+    padding: 0;
+  }
+}
+
+// ------------------------------------------------------------
+//  The dedication on the contents page
+// ------------------------------------------------------------
+
+.sf-dedication {
+  margin: 3.4rem auto 2.6rem;
+  padding-top: 2.4rem;
+  max-width: 30em;
+  border-top: 1px solid var(--lightgray);
+  text-align: center;
+  font-family: var(--headerFont);
+  font-size: 1.16rem;
+  line-height: 1.72;
+  color: var(--darkgray);
+  font-style: italic;
+
+  p {
+    margin: 0.7rem 0;
+  }
+}
+
+@media all and ($mobile) {
+  .sf-hero-img {
+    height: clamp(260px, 46vh, 380px);
+  }
+
+  .sf-hero-text {
+    padding-bottom: 2.2rem;
+
+    .sf-numeral {
+      font-size: 0.68rem;
+      letter-spacing: 0.28em;
+    }
+  }
+
+  .sf-hero {
+    margin-bottom: 2.4rem;
+  }
+
+  .sf-dedication {
+    font-size: 1.06rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sf-hero-img img {
+    animation: none;
+  }
+}
+
+// ------------------------------------------------------------
+//  Hero fixes
+//  1. Quartz injects an anchor-link icon into every h1.
+//  2. `.center article h1` (0,1,2) outranks `.sf-hero-text h1`
+//     (0,1,1), so the hero size needs one more class to win.
+// ------------------------------------------------------------
+
+.sf-hero .sf-hero-text h1 {
+  margin: 0;
+  font-family: var(--headerFont);
+  font-weight: 600;
+  font-size: clamp(2rem, 5.4vw, 3.4rem);
+  line-height: 1.08;
+  letter-spacing: -0.015em;
+  color: #fff;
+  text-shadow: 0 1px 24px rgba(0, 0, 0, 0.55);
+  text-wrap: balance;
+  border-bottom: none;
+  padding-bottom: 0;
+
+  a[role="anchor"] {
+    display: none;
+  }
+}
+
+// The breakout needs no ancestor clipping it
+body[data-slug^="seven-fires/"] {
+  .center,
+  .center article,
+  .page > article {
+    overflow: visible;
+  }
+}
+
+// ------------------------------------------------------------
+//  Hero, second pass
+//  Previously: portrait plates cropped into a wide band (so every
+//  chapter showed the same strip of masonry) under a 62%-black
+//  scrim (so the "image" behind the title was just black).
+//  Now: landscape paintings, a light scrim, and the painting held
+//  fixed behind the whole chapter.
+// ------------------------------------------------------------
+
+// The painting stays in the viewport while the prose scrolls over it.
+.sf-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.1;
+  pointer-events: none;
+  filter: saturate(0.75);
+}
+
+:root[saved-theme="dark"] .sf-backdrop {
+  opacity: 0.16;
+}
+
+// A chapter with a painting behind it does not also need a
+// drifting line pattern.
+body[data-slug^="seven-fires/"]:not([data-slug="seven-fires/index"])::before {
+  content: none;
+}
+
+.sf-hero-img {
+  height: clamp(420px, 74vh, 780px);
+
+  img {
+    object-position: center 46%;
+    filter: none;
+  }
+
+  // Light touch. The top three-quarters of the painting is untouched;
+  // only the strip under the title darkens, then it dissolves into
+  // the page. The title carries its own shadow for legibility.
+  &::after {
+    background: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(0, 0, 0, 0) 46%,
+      rgba(0, 0, 0, 0.28) 68%,
+      rgba(0, 0, 0, 0.52) 86%,
+      var(--light) 100%
+    );
+  }
+}
+
+:root[saved-theme="dark"] .sf-hero-img img {
+  // These are paintings, not etchings. Do not invert them.
+  filter: brightness(0.88) saturate(0.92);
+}
+
+.sf-hero .sf-hero-text h1 {
+  text-shadow:
+    0 2px 10px rgba(0, 0, 0, 0.85),
+    0 1px 38px rgba(0, 0, 0, 0.6);
+}
+
+.sf-hero-text .sf-numeral {
+  color: rgba(255, 255, 255, 0.82);
+  text-shadow: 0 1px 10px rgba(0, 0, 0, 0.8);
+}
+
+@media all and ($mobile) {
+  .sf-hero-img {
+    height: clamp(300px, 52vh, 440px);
+  }
+  .sf-backdrop {
+    // background-attachment stays scroll on mobile; a fixed
+    // background is a known repaint cost on phones.
+    opacity: 0.08;
+  }
+}
+
+// The backdrop is position:fixed with z-index 0, which paints it above
+// static siblings. Lift the prose into its own layer so the painting
+// stays behind the words instead of tinting them.
+body[data-slug^="seven-fires/"] {
+  #{$doc} > * {
+    position: relative;
+    z-index: 1;
+  }
+
+  .sf-backdrop {
+    z-index: 0;
+  }
+}
+
+// ------------------------------------------------------------
+//  Fix: $doc is a two-part comma selector. Nested it distributes
+//  correctly; written flat as `body[X] #{$doc} > ol li` SCSS
+//  splices the comma mid-selector and the rule silently targets
+//  the wrong elements. The contents list styling below never
+//  matched anything because of that. Re-declared nested.
+// ------------------------------------------------------------
+
+@media (prefers-reduced-motion: no-preference) {
+  body[data-slug="seven-fires/index"] {
+    #{$doc} {
+      & > ol > li {
+        animation: sf-settle 0.5s cubic-bezier(0.22, 0.61, 0.36, 1) both;
+
+        @for $i from 1 through 12 {
+          &:nth-child(#{$i}) {
+            animation-delay: #{0.04 * $i}s;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media all and ($mobile) {
+  body[data-slug="seven-fires/index"] {
+    #{$doc} {
+      & > ol > li > a {
+        gap: 0.8rem;
+        font-size: 1.02rem;
+
+        &::before {
+          flex-basis: 2em;
+        }
+      }
+    }
+  }
+}
+
+
+// ------------------------------------------------------------
+//  Hebrew face for the dedication. EB Garamond has no Hebrew
+//  glyphs, so without this the Song of Songs line renders as
+//  tofu boxes. Self-hosted rather than CDN so it cannot silently
+//  fail. Greek needs nothing: EB Garamond covers it and Quartz's
+//  font link does not restrict subsets.
+// ------------------------------------------------------------
+
+@font-face {
+  font-family: "Frank Ruhl Libre";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./static/fonts/FrankRuhlLibre-400-hebrew.woff2") format("woff2");
+  unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+@font-face {
+  font-family: "Frank Ruhl Libre";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("./static/fonts/FrankRuhlLibre-500-hebrew.woff2") format("woff2");
+  unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+// ------------------------------------------------------------
+//  The dedication
+// ------------------------------------------------------------
+
+.sf-dedication {
+  .sf-for {
+    font-family: var(--headerFont);
+    font-style: normal;
+    font-size: 1.24rem;
+    line-height: 1.55;
+    color: var(--dark);
+    margin: 0 0 1.5rem;
+    text-wrap: balance;
+  }
+
+  .sf-note {
+    font-family: var(--bodyFont);
+    font-style: normal;
+    font-size: 1.04rem;
+    line-height: 1.78;
+    color: var(--darkgray);
+    margin: 0 auto 2.2rem;
+    max-width: 28em;
+  }
+}
+
+.sf-epigraph {
+  padding-top: 1.7rem;
+  border-top: 1px solid var(--lightgray);
+
+  .sf-orig {
+    font-family: var(--headerFont);
+    font-style: normal;
+    font-size: 1.14rem;
+    line-height: 1.75;
+    color: var(--darkgray);
+    margin: 1.5rem 0 0.35rem;
+  }
+
+  // Hebrew wants its own face, a little more size, and looser leading
+  .sf-heb {
+    font-family: "Frank Ruhl Libre", var(--headerFont), serif;
+    font-size: 1.34rem;
+    line-height: 2.05;
+    margin-top: 0;
+  }
+
+  .sf-gloss {
+    font-family: var(--bodyFont);
+    font-style: italic;
+    font-size: 0.86rem;
+    line-height: 1.55;
+    color: var(--gray);
+    margin: 0;
+
+    span {
+      display: block;
+      margin-top: 0.2rem;
+      font-style: normal;
+      font-size: 0.72rem;
+      letter-spacing: 0.13em;
+      text-transform: uppercase;
+      color: var(--gray);
+      opacity: 0.75;
+    }
+  }
+}
+
+@media all and ($mobile) {
+  .sf-dedication .sf-for { font-size: 1.12rem; }
+  .sf-dedication .sf-note { font-size: 0.99rem; }
+  .sf-epigraph .sf-heb { font-size: 1.2rem; }
+}
