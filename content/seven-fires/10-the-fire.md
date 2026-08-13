@@ -119,7 +119,7 @@ Then the jaw opened. Every explanation was in there. I had been holding all of t
 
 I pissed myself and only knew because it went cold under my hip.
 
-It went up the arms and into the chest and it found every place I had shut and it opened them in order, and each one screamed as it came back on, and the screaming was not the injury, I understood that at the time and I am not saying it now because it sounds well, I understood it while it was happening. The blood was the cure. The screaming was the cure working. I was not being punished. I was being reperfused.
+It went up the arms and into the chest and it found every place I had shut and it opened them in order, and each one screamed as it came back on, and I understood while it was happening. I was not being punished. I was being reperfused.
 
 The chest was worse because it had continued functioning while parts of it disappeared. The heart had learned a shortened route. It beat around certain rooms, sending only enough blood through them to keep their doors from being declared closed. When the full circulation returned, those rooms expanded against the ribs.
 
@@ -129,7 +129,7 @@ The ledger followed. I felt its absent weight along my hip and all the quantitie
 
 Then my name entered, the whole of it, not spoken from outside now but carried in the blood to every place that had refused it. The body answered before the mouth. The back arched. The hands opened.
 
-And the whole of it, the entire enormous thing, was longing.
+And the whole of it was longing.
 
 That is what it is made of. Not fire. Wanting. Every want I had put down and pretended out of existence returned with the circulation: the four seconds, the pages, the sentence rehearsed for a month, the hand at the back of the neck, every answer I had converted into a promise and every boundary I had renamed as delay, all of it alive at the same time, at full strength, in a body, and there was no position I could lie in.
 

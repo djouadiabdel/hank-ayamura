@@ -105,15 +105,7 @@ He read one line.
 
 Then he asked what payment would turn that line into a man who had not written it.
 
-I said payment was not meant to change the past.
-
-What is it meant to change?
-
-The balance.
-
-Where is the balance kept?
-
-I had answered this already. I began again, more carefully. The speech came with its examples in the correct order and the objection already answered at the end of every paragraph. The hand remained on the page. You watched the hand and not me.
+I said payment was not meant to change the past. The speech came with its examples in the correct order and the objection already answered at the end of every paragraph. The hand remained on the page. You watched the hand and not me.
 
 When I finished, the man behind the bars said that if a debt could be settled here, a person could leave unchanged with a receipt, and the receipt would be worth exactly what he was, which was nothing yet.
 
