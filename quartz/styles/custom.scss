@@ -1218,6 +1218,19 @@ body[data-slug^="seven-fires/"] {
     margin-top: 0;
   }
 
+  // Spoken line under the Hebrew, so it can be said out loud
+  .sf-translit {
+    font-family: var(--bodyFont);
+    font-style: normal;
+    font-size: 0.78rem;
+    line-height: 1.7;
+    letter-spacing: 0.07em;
+    text-transform: lowercase;
+    color: var(--gray);
+    opacity: 0.72;
+    margin: 0 0 0.5rem;
+  }
+
   .sf-gloss {
     font-family: var(--bodyFont);
     font-style: italic;
