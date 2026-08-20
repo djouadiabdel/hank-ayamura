@@ -1,6 +1,8 @@
 ---
 title: "Two Free People"
 created: 2026-08-20
+aliases:
+  - /two-free-people
 ---
 
 I was not waiting for anything.

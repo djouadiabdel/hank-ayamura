@@ -2,6 +2,8 @@
 title: "Useless"
 created: 2026-05-10
 revised: 2026-07-12
+aliases:
+  - /useless
 ---
 
 

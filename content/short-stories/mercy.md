@@ -2,6 +2,8 @@
 title: "Mercy"
 created: 2026-03-08
 revised: 2026-06-02
+aliases:
+  - /mercy
 ---
 
 

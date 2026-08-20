@@ -2,6 +2,8 @@
 title: "The Lantern of Dawn"
 created: 2026-06-07
 revised: 2026-07-12
+aliases:
+  - /the-lantern-of-dawn
 ---
 
 

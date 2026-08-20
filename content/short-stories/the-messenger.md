@@ -2,6 +2,8 @@
 title: "The Messenger"
 created: 2026-02-15
 revised: 2026-06-02
+aliases:
+  - /the-messenger
 ---
 
 

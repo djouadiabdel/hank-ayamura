@@ -1,8 +1,8 @@
 ---
 title: "The School Where Nobody Stood"
 aliases:
+  - /the-school-where-nobody-stood
   - /crowning/the-man-who-was-right
-  - /her/the-man-who-was-right
 created: 2026-08-09
 ---
 

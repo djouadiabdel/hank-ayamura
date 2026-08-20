@@ -2,6 +2,8 @@
 title: "Dragons"
 created: 2025-06-11
 revised: 2026-06-02
+aliases:
+  - /dragons
 ---
 
 

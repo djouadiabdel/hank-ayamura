@@ -2,6 +2,8 @@
 title: "What Is Wrong With Me"
 created: 2026-06-28
 revised: 2026-07-17
+aliases:
+  - /what-is-wrong-with-me
 ---
 
 

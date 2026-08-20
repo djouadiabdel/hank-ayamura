@@ -2,6 +2,8 @@
 title: "Magnesium"
 created: 2025-03-16
 revised: 2026-07-22
+aliases:
+  - /magnesium
 ---
 
 

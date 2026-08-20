@@ -1,6 +1,8 @@
 ---
 title: "De Dolore Eius Qui Multos Intellegit et cum Nemine Ambulat"
 created: 2026-08-09
+aliases:
+  - /the-stations
 ---
 
 *On the sorrow of one who understands many and walks with no one.*

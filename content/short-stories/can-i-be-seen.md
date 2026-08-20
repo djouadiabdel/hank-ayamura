@@ -2,6 +2,8 @@
 title: "Can I Be Seen"
 created: 2024-11-23
 revised: 2026-07-17
+aliases:
+  - /can-i-be-seen
 ---
 
 

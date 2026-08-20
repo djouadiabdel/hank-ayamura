@@ -2,6 +2,8 @@
 title: "A Psychologist of Mine"
 created: 2026-07-19
 revised: 2026-07-17
+aliases:
+  - /a-psychologist-of-mine
 ---
 
 

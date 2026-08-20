@@ -2,6 +2,8 @@
 title: "Familiar"
 created: 2025-09-29
 revised: 2026-05-20
+aliases:
+  - /familiar
 ---
 
 

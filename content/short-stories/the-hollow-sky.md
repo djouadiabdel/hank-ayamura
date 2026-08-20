@@ -2,6 +2,8 @@
 title: "The Hollow Sky"
 created: 2026-01-24
 revised: 2026-07-12
+aliases:
+  - /the-hollow-sky
 ---
 
 

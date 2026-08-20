@@ -1,6 +1,8 @@
 ---
 title: "The Third Word"
 created: 2026-08-03
+aliases:
+  - /the-third-word
 ---
 
 I have been walking this room for an hour. Bed, door, window, bed. I do not sit down when I talk to her.

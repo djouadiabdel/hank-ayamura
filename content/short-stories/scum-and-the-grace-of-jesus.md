@@ -2,6 +2,8 @@
 title: "Scum and the Grace of Jesus"
 created: 2024-12-27
 revised: 2026-06-16
+aliases:
+  - /scum-and-the-grace-of-jesus
 ---
 
 

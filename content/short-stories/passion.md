@@ -2,6 +2,8 @@
 title: "Passion"
 created: 2026-04-19
 revised: 2026-06-02
+aliases:
+  - /passion
 ---
 
 

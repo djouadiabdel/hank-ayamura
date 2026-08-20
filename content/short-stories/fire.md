@@ -2,6 +2,8 @@
 title: "Fire"
 created: 2024-12-08
 revised: 2026-06-16
+aliases:
+  - /fire
 ---
 
 

@@ -2,6 +2,8 @@
 title: "The Fall of Us"
 created: 2025-12-19
 revised: 2026-06-16
+aliases:
+  - /the-fall-of-us
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 title: "A Supply"
 created: 2026-08-05
+aliases:
+  - /a-supply
 ---
 
 You have a way with words. People say it kindly and they say it the same way every time, as if they were describing my height. Something I came with. Something nobody gave me, that was here before any of them and will still be here in the morning.
