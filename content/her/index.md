@@ -2,7 +2,7 @@
 title: Short Stories
 ---
 
-Twenty-two pieces. The first fifteen are about one relationship, written after it ended.
+Twenty-three pieces. The first fifteen are about one relationship, written after it ended.
 
 ## The sequence
 
