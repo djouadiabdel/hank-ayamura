@@ -1,5 +1,6 @@
 ---
 title: "Chapter 11"
+created: 2026-03-24
 ---
 
 "Yes," I said. "It's about Ippo."

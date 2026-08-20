@@ -1,5 +1,6 @@
 ---
 title: "The Eighth Chapter"
+created: 2026-08-03
 ---
 
 I got here at ten past six and there were four people ahead of me and I nearly left twice.

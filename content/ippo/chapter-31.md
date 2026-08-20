@@ -1,5 +1,6 @@
 ---
 title: "Chapter 31"
+created: 2026-04-07
 ---
 
 The gym door shut behind him and the sound of it shutting was the last warm thing he would hear for a while.

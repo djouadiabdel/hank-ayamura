@@ -1,5 +1,6 @@
 ---
 title: "Chapter 22"
+created: 2026-04-02
 ---
 
 ---

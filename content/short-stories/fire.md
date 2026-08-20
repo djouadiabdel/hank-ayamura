@@ -1,6 +1,10 @@
 ---
 title: "Fire"
+created: 2024-12-08
+revised: 2026-06-16
 ---
+
+
 
 There's a fire in me
 and I didn't light it.
@@ -63,3 +67,8 @@ and something is making me
 into a thing that can carry
 a face
 that was never mine.
+
+---
+
+<!-- colophon -->
+*December 2024. The only one that came out in lines instead of paragraphs, and the only one I have never been able to edit.*

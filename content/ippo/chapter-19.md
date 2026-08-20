@@ -1,5 +1,6 @@
 ---
 title: "Chapter 19"
+created: 2026-03-31
 ---
 
 Walking into the gym I can feel my heart racing. The closer I get, the flashier the surroundings feel, the higher the silk-smooth contact of feet on the ground, athletes who always try to be one of two things: a snake, pure fighter planted and coiled, or a bee gently tipping the ground to dance from side to side.

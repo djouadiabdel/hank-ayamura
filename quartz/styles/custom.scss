@@ -1257,3 +1257,12 @@ body[data-slug^="seven-fires/"] {
   .sf-dedication .sf-note { font-size: 0.99rem; }
   .sf-epigraph .sf-heb { font-size: 1.2rem; }
 }
+
+// Story index: the date beside each title
+.ss-date {
+  color: var(--gray);
+  font-size: 0.78em;
+  font-variant-numeric: tabular-nums;
+  margin-left: 0.45rem;
+  white-space: nowrap;
+}

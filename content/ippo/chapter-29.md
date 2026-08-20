@@ -1,5 +1,6 @@
 ---
 title: "Chapter 29"
+created: 2026-04-06
 ---
 
 Light burned Ippo's eyes.

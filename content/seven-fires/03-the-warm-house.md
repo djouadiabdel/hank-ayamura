@@ -1,6 +1,7 @@
 ---
 title: "III. Anything Freely Given"
 hideTitle: true
+created: 2026-08-09
 ---
 
 <div class="sf-backdrop" style="background-image:url(../static/seven-fires/03-the-warm-house-900.webp)"></div>

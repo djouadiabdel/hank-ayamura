@@ -1,6 +1,10 @@
 ---
 title: "Dragons"
+created: 2025-06-11
+revised: 2026-06-02
 ---
+
+
 
 We were doves before we were dragons. I have to begin there or none of the rest of it is true. Two small soft things that wanted only to be safe, that came together not to conquer anything but to fold a wing over the other and hide the trembling part where no one could get at it. That is what we were in the beginning and that is what we were even at the end, underneath, though by then you could not see it for the smoke.
 
@@ -25,3 +29,8 @@ Here is the only thing I understand now that I did not understand then, and I wi
 Under my scale there was still a dove. Folded, half-smothered, frightened, the soft thing that had only ever wanted a warm corner in a cold building, it was still in there the whole time, behind the fire, behind the broken arm and the wall and the council and the cruel quiet sentence. The dragon was never the truth of me. It was the armor the dove built when the door opened, and the armor got so good at protecting the dove that it nearly killed it, the way a fist clenched long enough forgets it was ever a hand.
 
 And I think, I cannot know, because dragons cannot see through each other's smoke, I think under her scale there was a dove too. Just as frightened. Just as folded. Just as smothered by the very armor it grew to stay safe. Two doves, each sealed inside a dragon, breathing fire at the other's scale and never once seeing the small soft trembling thing it was built to hide. That is the whole messed-up story. Not a monster and a victim. Two birds who armored themselves against the cold and then could not find each other through the heat of their own protection, and burned, each inside the shell that was only ever trying to keep the soft part alive.
+
+---
+
+<!-- colophon -->
+*June 2025. I had been avoiding this one for a year, because writing it down meant agreeing that the arm was mine.*

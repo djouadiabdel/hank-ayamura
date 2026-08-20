@@ -1,5 +1,6 @@
 ---
 title: "Chapter 24"
+created: 2026-04-03
 ---
 
 His hands were firm on the bench, feeling the rectangular shape of it, his shoulders screaming because he was using them to push the bench backward, and there was only a wall to be pushed into. His fingers started to shake as the force increased until his right arm gave up and slipped, his body tilting sideways, his left hand gripping the left edge of the bench while his left torso lifted to compensate for the weight shift.

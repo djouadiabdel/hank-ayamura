@@ -1,5 +1,6 @@
 ---
 title: "I Hate This Car"
+created: 2026-08-05
 ---
 
 show me a man who washes one side of his car and I will show you a man who has worked out exactly how much he is willing to finish.

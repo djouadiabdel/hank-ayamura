@@ -1,5 +1,6 @@
 ---
 title: "Chapter 34"
+created: 2026-04-10
 ---
 
 Miyata slid into the car, the old leather seat hitting his back and spreading him across the whole seat, shoulder blades dropping. His head found the headrest and the pressure that had been holding it up cooled the way it always cooled after he made weight, slow, leaking out from the base of the skull. The leather smell turned the tip of his nose slightly red, the kind of red you see on a sick man. He pressed his nose left and right in a snap motion, but it was dry. No mucus. Just the smell.

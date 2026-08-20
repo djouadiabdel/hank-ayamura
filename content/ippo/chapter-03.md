@@ -1,5 +1,6 @@
 ---
 title: "Chapter 3"
+created: 2026-03-20
 ---
 
 The birds sing. They always do, and they always wake me up.

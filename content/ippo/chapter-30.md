@@ -1,5 +1,6 @@
 ---
 title: "Chapter 30"
+created: 2026-04-06
 ---
 
 The gym moved around him like a body healing around a wound, slowly, from the edges inward, the furthest people resuming first.

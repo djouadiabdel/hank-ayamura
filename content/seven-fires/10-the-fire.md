@@ -1,6 +1,7 @@
 ---
 title: "IX. Seven Eyes"
 hideTitle: true
+created: 2026-08-09
 ---
 
 <div class="sf-backdrop" style="background-image:url(../static/seven-fires/10-the-fire-900.webp)"></div>

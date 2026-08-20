@@ -1,6 +1,7 @@
 ---
 title: "VII. Four Seconds"
 hideTitle: true
+created: 2026-08-08
 ---
 
 <div class="sf-backdrop" style="background-image:url(../static/seven-fires/07-four-seconds-900.webp)"></div>

@@ -1,6 +1,10 @@
 ---
 title: "Scum and the Grace of Jesus"
+created: 2024-12-27
+revised: 2026-06-16
 ---
+
+
 
 The thumb keeps going up. There's always more.
 
@@ -23,3 +27,8 @@ That's the skim that floats up when I melt this down. Not her flowers. My pride 
 What sinks. What holds. The metal under both our scoreboards:
 
 I wanted her. I couldn't ask. I called the not-asking a virtue and let us both go thirsty for it.
+
+---
+
+<!-- colophon -->
+*December 2024. It started as an actual list of what she had done. The list is still in the vault and it is longer than this.*

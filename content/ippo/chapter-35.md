@@ -1,5 +1,6 @@
 ---
 title: "Chapter 35"
+created: 2026-04-11
 ---
 
 The gym corners stare at me and I can't do anything about it. I can only sit with the feeling inside me. The pressure that isn't hugging me but making me experience my own existence in the same fashion I always do when I am on a cut, trying to make weight.

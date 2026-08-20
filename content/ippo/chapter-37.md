@@ -1,5 +1,6 @@
 ---
 title: "Chapter 37"
+created: 2026-04-13
 ---
 
 The light finds my eyes before I'm ready for it.

@@ -6,9 +6,9 @@ Hank Ayamura
 
 Four bodies of work, all circling the same question.
 
-## [Short Stories](her/)
+## [Short Stories](short-stories/)
 
-Fifteen confessional pieces. A relationship, what it asked for, and what neither person had to give.
+Twenty-three confessional pieces, newest first. A relationship, what it asked for, and what neither person had to give, and then everything after it.
 
 ## [What These Hands Are For](ippo/)
 

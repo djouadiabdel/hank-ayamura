@@ -1,5 +1,6 @@
 ---
 title: "Chapter 12"
+created: 2026-03-25
 ---
 
 **Ippo.**

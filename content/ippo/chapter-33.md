@@ -1,5 +1,6 @@
 ---
 title: "Chapter 33"
+created: 2026-04-09
 ---
 
 Miyata's figure across the street made Itagaki stare at him from far, and the late-night sky dimness made focusing on a moving object burn in the back of his eyes. The streetlight on the sides ate the edges of his vision into a silhouette.

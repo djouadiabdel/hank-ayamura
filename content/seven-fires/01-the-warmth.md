@@ -1,6 +1,7 @@
 ---
 title: "I. Three Correct Things"
 hideTitle: true
+created: 2026-08-09
 ---
 
 <div class="sf-backdrop" style="background-image:url(../static/seven-fires/01-the-warmth-900.webp)"></div>

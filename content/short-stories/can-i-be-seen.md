@@ -1,6 +1,10 @@
 ---
 title: "Can I Be Seen"
+created: 2024-11-23
+revised: 2026-07-17
 ---
+
+
 
 I can't let you see me this way. There is no one I would allow to see me, or hear my voice in this state.
 
@@ -39,3 +43,8 @@ But here you are, good. You will comfort me. You will help me, the one who mourn
 Please, Lord, care about me.
 
 See me.
+
+---
+
+<!-- colophon -->
+*November 2024, the first time it ended. Nothing in it was meant to be read, which is why it stayed exactly as it came out.*

@@ -4,6 +4,8 @@ title: What These Hands Are For
 
 Arc One. Hajime no Ippo read through a life that was asking the same question the manga was.
 
+Forty-five chapters drafted between 14 March and 22 April 2026, most of them one a day. The dates on each chapter are the day it was written, not the day it went up here.
+
 ## Chapters
 
 1. [Chapter 1](chapter-01)

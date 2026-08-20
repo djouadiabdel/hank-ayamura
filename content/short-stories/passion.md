@@ -1,6 +1,10 @@
 ---
 title: "Passion"
+created: 2026-04-19
+revised: 2026-06-02
 ---
+
+
 
 For years I thought love was a thing you were strong enough to do. I worked at it the way a man works at a wall he is building around a house, stone by stone, certain that if the wall got high enough and good enough no one inside it would ever be cold again. I wrote her poems at two in the morning. I read them to her down the phone and listened to her breathe. I turned away every other girl, would not even sit near them, kept myself clean for a thing I thought I was protecting. And under all of it I carried a single sentence like a stone in the chest: _to deserve her I have to be rich, I have to give her the world, and until I can, I am nothing._ I thought that stone was love. I thought the weight of it proved how much I cared. I did not know it was the heaviest part of the wall, and that the wall was not around her. It was around me.
 
@@ -33,3 +37,8 @@ I had not understood, until I saw her face break and his face smile, that I was 
 That is what it feels like to be loved by someone.
 
 I am only now learning to stop refusing it.
+
+---
+
+<!-- colophon -->
+*April 2026. I had been carrying the sentence about giving her nothing since the first ending, which is to say a year and a half, and this is where I finally put it down.*

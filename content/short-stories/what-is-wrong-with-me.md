@@ -1,6 +1,10 @@
 ---
 title: "What Is Wrong With Me"
+created: 2026-06-28
+revised: 2026-07-17
 ---
+
+
 
 I would like to say that I loved her and it went wrong. That sentence is available to me, it costs nothing, and everyone accepts it. But it is not what happened. What happened is that we misread each other completely, and neither of us wanted the misreading corrected, because the misreading was the part that felt like being known. That is a worse thing to have to say. There is no villain in it. There is no moment I can point to and say, here, this is where I should have chosen differently.
 
@@ -19,3 +23,8 @@ I wrote the whole thing down without knowing it. There is a café scene somethin
 And there is one more. In the Meg story there is a moment where Alberto meets a woman whose real name was hidden from him, who surprised him, who did not fit the test he was running. For one moment he was not conquering and not with her, because she interested him. That is the only unmediated encounter in anything I have ever written, the one moment where the triangle collapses and there are just two people.
 
 I did not finish the story.
+
+---
+
+<!-- colophon -->
+*June 2026. This is the one that needed the French critic. Everything before it is description, and this is the first time I had a name for the mechanism.*

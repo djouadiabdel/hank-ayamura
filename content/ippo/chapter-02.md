@@ -1,5 +1,6 @@
 ---
 title: "Chapter 2"
+created: 2026-03-14
 ---
 
 I didn't have the answer yet.

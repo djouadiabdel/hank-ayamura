@@ -1,6 +1,7 @@
 ---
 title: "V. Eleven Years"
 hideTitle: true
+created: 2026-08-09
 ---
 
 <div class="sf-backdrop" style="background-image:url(../static/seven-fires/05-the-two-rooms-900.webp)"></div>

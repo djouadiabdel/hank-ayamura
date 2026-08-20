@@ -1,6 +1,7 @@
 ---
 title: "VI. Being Located"
 hideTitle: true
+created: 2026-08-09
 ---
 
 <div class="sf-backdrop" style="background-image:url(../static/seven-fires/06-the-name-900.webp)"></div>

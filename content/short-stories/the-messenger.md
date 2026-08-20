@@ -1,6 +1,10 @@
 ---
 title: "The Messenger"
+created: 2026-02-15
+revised: 2026-06-02
 ---
+
+
 
 The village inside me was sacked while I was asleep, and when I woke there was nothing left standing. I do not know the night it happened. I only know I woke into the after, the smoke still hanging, the wells fouled, the small good things of a life pulled down and burned, and the dead lying where they fell, and me sitting in the middle of the ash with my arms fallen straight down at my sides. Whatever army it was had not even bothered to take me. It had left me alive in the ruins, which is the crueler thing, because a man left alive in his own burned village has to keep being the one who remembers what it looked like before. At night I dreamed it sacked again, and woke in sweat and tears, and the sweat and the tears were the only water left in the place.
 
@@ -27,3 +31,8 @@ You do not fight a lie with your fists. You cannot stab smoke. The only sword th
 The messenger flew beside me the whole way. He did not carry me anymore. He did not have to. A man with the cross on his shoulder and the true word in his mouth rises on his own, which is the only kind of rising that lasts. Below us the village still smoked. I do not think it ever fully stops. But I was above it now, climbing, the gold-haired messenger at my side and the heavy wood pointing me up and the lie growing smaller, and for the first time since the night I cannot remember, the water on my face was not from the smoke.
 
 I learned what the whole ascent was for, up there, and I will say it once and then shut my mouth, because it is the only thing worth carrying down: emotions do not move up to the skies on their own. You have to refuse the ash, and take the bright hand even when it shames you, and pick up the heavier thing, and fight the lie with the true word out loud, and then the grief itself, the whole sacked village of it, turns into the very weight that lifts you, the way a kite needs the wind that fights it to climb.
+
+---
+
+<!-- colophon -->
+*February 2026. Abdou came the way he is described here, and I really did not take his hand.*

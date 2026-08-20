@@ -1,5 +1,6 @@
 ---
 title: "Chapter 28"
+created: 2026-04-05
 ---
 
 His coach's voice reached him from across the ring. The corner. Sit down. Something about water.

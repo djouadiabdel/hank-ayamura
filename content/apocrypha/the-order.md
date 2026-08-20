@@ -1,5 +1,6 @@
 ---
 title: "The Order"
+created: 2026-08-07
 ---
 
 Nothing is wrong.

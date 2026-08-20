@@ -1,5 +1,6 @@
 ---
 title: "Chapter 39"
+created: 2026-04-16
 ---
 
 I am in the room with the tapes. They fall on my arms, stretched out after I have helped Ippo remove them. The whiteness mixes with the dirty grey of the wraps and hangs there over my clothes. I can't move away from here. The memory of the fight is still engraved in my mind.

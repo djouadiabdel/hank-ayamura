@@ -1,5 +1,6 @@
 ---
 title: "The Book of Elara"
+created: 2026-08-07
 ---
 
 ## I

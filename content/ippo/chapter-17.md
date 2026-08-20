@@ -1,5 +1,6 @@
 ---
 title: "Chapter 17"
+created: 2026-03-29
 ---
 
 In this chapter, the reader learns that Kamogawa saw the warning and chose to look past it.

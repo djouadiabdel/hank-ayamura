@@ -1,6 +1,7 @@
 ---
 title: "IV. Mine Went Down"
 hideTitle: true
+created: 2026-08-08
 ---
 
 <div class="sf-backdrop" style="background-image:url(../static/seven-fires/04-the-ledger-900.webp)"></div>

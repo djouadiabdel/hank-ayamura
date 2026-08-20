@@ -1,5 +1,6 @@
 ---
 title: "As Tolerated"
+created: 2026-08-03
 ---
 
 The order at the bottom of the chart is four words. Weight bearing as tolerated. Nobody sits down and explains them, so the man reads them himself sometime in the first week and privately decides what they mean, and what he decides is usually not yet.

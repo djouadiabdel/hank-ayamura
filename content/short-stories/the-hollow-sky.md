@@ -1,6 +1,10 @@
 ---
 title: "The Hollow Sky"
+created: 2026-01-24
+revised: 2026-07-12
 ---
+
+
 
 The room is always the same. It is mine, which means it is empty. There is the bed and there is me on it and there is the ceiling, and at night the ceiling goes far away, up and up, until the room is not a room but a hollow sky with one body lying at the bottom of it. I cry most nights. I do it without sound, because sound would mean someone might come, and no one comes, so the sound has nowhere to go and I have learned not to make it. The tears run sideways into my ears and I lie there and let them, and there is no voice anywhere in the hollow saying _you are alright, you are loved, you can stop now._ I wait for the voice every night the way you wait for a bus you know is not coming, out of habit, out of a refusal to admit the route was cancelled.
 
@@ -23,3 +27,8 @@ I would give anything now to be called that word. I would lie down in that arm a
 The room is always the same. I lie at the bottom of it and the tears go sideways into my ears, and I listen, out of habit, for the voice that is not coming. And the worst part, because I am too tired tonight to keep my face arranged even for myself, is that it came. The voice came, in a woman's arm, low, just for me, more times than I deserved.
 
 I am the one who would not answer it.
+
+---
+
+<!-- colophon -->
+*January 2026. Written on the floor of the room it describes, in the hour it describes. The title came later and then took over the whole site.*

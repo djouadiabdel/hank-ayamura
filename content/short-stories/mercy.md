@@ -1,6 +1,10 @@
 ---
 title: "Mercy"
+created: 2026-03-08
+revised: 2026-06-02
 ---
+
+
 
 For a long time the tears were for her. I would lie on the floor of the hollow room, the floor, not the bed, because the bed felt like it was pretending to be a place where a person sleeps, and I would cry for her until the crying ran out of her name to say. And then one night the tears kept coming after her name was used up, and I understood that they had been going somewhere else for a while without telling me. They had turned. They were going up.
 
@@ -21,3 +25,8 @@ I had it backwards the whole time. I kept thinking I had to become worthy enough
 So now, on the nights the tears turn upward, I let them. I lift my face to the small lit cross in the dark and the shame rises and I let it rise and I do not drop my eyes anymore, or not for as long. I come to Him exactly as the unworthy one, because I have finally understood that the unworthy one is the only kind of person who was ever invited. I stopped trying to be good enough to receive mercy. You cannot be. That is what the word means.
 
 The tears are different now. They still come on the floor, still undignified, still mine. But they are no longer the tears of a man crying for a thing he lost. They are the tears of a thief who got over the wall and found, instead of a guard, a door that had been left open for him the whole time, by someone who knew exactly which direction he would be coming from, and had counted on it.
+
+---
+
+<!-- colophon -->
+*March 2026. The turn in the middle of this one is the reason the rest of the site exists.*

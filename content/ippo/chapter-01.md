@@ -1,5 +1,6 @@
 ---
 title: "Chapter 1"
+created: 2026-03-14
 ---
 
 In the middle of it all, I feel happy. I feel like I have a place I belong to, with all of them, on the boat, the sea wide and indifferent around us. Look at them. They are doing the silliest things. Someone watching from shore might think they are children, competing over something that means nothing.

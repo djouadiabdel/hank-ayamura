@@ -1,6 +1,10 @@
 ---
 title: "Magnesium"
+created: 2025-03-16
+revised: 2026-07-22
 ---
+
+
 
 I take 400 at ten and I am down by eleven. Not in my bed. At my desk.
 
@@ -25,3 +29,8 @@ I started taking saffron last month. For mood, they say. I did not tell anyone I
 It makes the dreams vivid. That is in the literature too. I read the literature.
 
 She is in most of them. I have not stopped taking it.
+
+---
+
+<!-- colophon -->
+*March 2025, after she came back. The dose was real and so was the arithmetic at two thirty. I wrote it as a supplement review because that was the only way I could get near the subject.*

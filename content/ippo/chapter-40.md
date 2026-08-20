@@ -1,5 +1,6 @@
 ---
 title: "Chapter 40"
+created: 2026-04-16
 ---
 
 I push off the wall and walk. The ER is louder than the waiting room but the loudness is different, it's movement, not stillness. People being wheeled, curtains scraping on their rails, a monitor beeping somewhere I can't see. The headache is still behind my eyes but now it has somewhere to go. I let the noise pull me in. I need a patient. I need a chart. I need my hands on something that isn't my own hair.

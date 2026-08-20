@@ -1,6 +1,7 @@
 ---
 title: "VIII. The Man Who Was Right"
 hideTitle: true
+created: 2026-08-09
 ---
 
 <div class="sf-backdrop" style="background-image:url(../static/seven-fires/09-the-man-who-was-right-900.webp)"></div>

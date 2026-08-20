@@ -1,6 +1,10 @@
 ---
 title: "The Fall of Us"
+created: 2025-12-19
+revised: 2026-06-16
 ---
+
+
 
 I wanted to be welded to her, no seam, one thing. And I did ask, plainly, more than once, love me back like this, I am asking. It didn't come the way I asked for it. I will not pretend to know what it cost her to not be able to give it, or what she was never taught she was allowed to give.
 
@@ -11,3 +15,8 @@ Two misers in the dark. Each of us certain the other had spent everything on gar
 That's the skim that floats up when I melt this down. Not her flowers. My retreat. My pride in not needing what I had already begged for. The dross was never only hers, it was mine, dressed as the thing above all dross, and that costume is the finest dross there is.
 
 What sinks. What holds. The metal under both our scoreboards: I wanted her. I asked. And when the answer was slow, I left the asking-place and called my leaving virtue, and let us both go thirsty rather than stand in the open and ask again.
+
+---
+
+<!-- colophon -->
+*December 2025, the week it ended for the second time. I did not look at it again for four months.*

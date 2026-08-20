@@ -1,6 +1,10 @@
 ---
 title: "A Psychologist of Mine"
+created: 2026-07-19
+revised: 2026-07-17
 ---
+
+
 
 I have an appetite for something complete.
 
@@ -86,3 +90,8 @@ Then the last clause, which I did not see the first four times I read it.
 Even as I am fully known.
 
 I ended a prayer with two words. See me. I wasn't quoting anything. I didn't know it was in there. But there is a sentence in Paul that answers it before I said it, and what it says is that the knowing has already been happening from the other side the whole time, that I am already fully known, and that the only thing still outstanding is for me to look up from the mirror and see back.
+
+---
+
+<!-- colophon -->
+*July 2026. The last of the fifteen and the coldest. By this point I could look at the appetite without flinching, which is either progress or a new kind of distance.*

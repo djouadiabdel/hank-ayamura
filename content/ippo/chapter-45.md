@@ -1,5 +1,6 @@
 ---
 title: "Chapter 45"
+created: 2026-04-22
 ---
 
 My eyes speak back to me. They are filled with a pressure I have felt multiple times across the years, a pressure that wants to be released and dropped, and it arrives now as I look at this picture of the Featherweight division champion with his face smashed to pieces.

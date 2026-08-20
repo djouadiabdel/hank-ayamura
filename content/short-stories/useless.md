@@ -1,6 +1,10 @@
 ---
 title: "Useless"
+created: 2026-05-10
+revised: 2026-07-12
 ---
+
+
 
 The first time I kissed her I waited. I held her face and I waited, because I did not want to be the kind of man who takes. Her breath came small and fast against my mouth, and when she finally moved the last half-inch herself I felt something in my chest unlock that I had kept locked since I was a boy. Her lips were soft and a little chapped at the corner. She tasted like the orange she'd eaten on the way. I remember thinking: _now I am real._ Not _she is mine._ I am real. Her looking at me had made a person where before there had only been a boy waiting in a room to be told he was worth something.
 
@@ -31,3 +35,8 @@ I see her now sometimes. Once it was in a pharmacy, fluorescent and ordinary, bo
 I turned and paid for my box of nothing and walked out into the cold I love, the kind that makes the skin shiver under thick clothes, and I did not look back, not because I was strong but because there was finally no thread pulling my head around. She had been the reason I started writing. I had wanted, at first, only to put it on a page so that someone would see it and tell me there was something good in me after all, the same green word, the same hand held out for it. That is still in me. I do not pretend it is gone. But I know now what I was reaching for and where it does not live. It does not live in her eyes, or yours, or in the page.
 
 It was never useless, what we were. It was just two people asking each other for the one thing neither of us had to give. I forgive her for leaving. I forgive myself for the plan I made in the dark and did not carry out. The body would not let me. I think the body knew before I did who had already paid for the thing I kept trying to extract by force.
+
+---
+
+<!-- colophon -->
+*Written May 2026, last of the eight, and put first. It turned out the beginning could only be described from the far end.*

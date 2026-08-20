@@ -1,5 +1,6 @@
 ---
 title: "Chapter 18"
+created: 2026-03-30
 ---
 
 The cold morning sun hits the back of Kamogawa as he walks toward the gym door, his legs moving steadily. Unlike his usual self, the sun this time touches his back and makes him remember what he experienced last night as he was closing the gym.

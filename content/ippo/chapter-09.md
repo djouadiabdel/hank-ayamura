@@ -1,5 +1,6 @@
 ---
 title: "Chapter 9"
+created: 2026-03-24
 ---
 
 _What would I even say to her?_

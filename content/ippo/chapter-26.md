@@ -1,5 +1,6 @@
 ---
 title: "Chapter 26"
+created: 2026-04-04
 ---
 
 A fabric is felt slowly moving down from his forehead, ruining his hair. His nose-breathing makes him self-conscious of its existence. The fabric itches. His ears are blocked, or at least his slow, calm sigh says otherwise. On his eyes it rests, and he leaves it there for a moment, even though it is uncomfortable to breathe.

@@ -1,5 +1,6 @@
 ---
 title: "Chapter 36"
+created: 2026-04-13
 ---
 
 My body shakes like wobbling pudding. The gym's darkness pushes in from outside, but artificial light cuts it back, harsh fluorescence that makes everyone's stares feel sharper. Their eyes try to burrow under my skin. My skin is thick, I tell myself. Over and over. But my attention divides the way it always does near a cut I've taken too far, except this time I'm not even bleeding yet.

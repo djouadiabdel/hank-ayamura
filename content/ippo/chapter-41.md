@@ -1,5 +1,6 @@
 ---
 title: "Chapter 41"
+created: 2026-04-17
 ---
 
 As I enter the gym the same air that hit me yesterday when I punched Takamura rushes onto my chest. The air gathers in that same spot where I had been standing, where Takamura's side stayed unreactive after my punch landed.

@@ -1,5 +1,6 @@
 ---
 title: "Chapter 14"
+created: 2026-03-27
 ---
 
 She visits Yamaguchi's clinic.

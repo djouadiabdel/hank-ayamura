@@ -1,5 +1,6 @@
 ---
 title: "Chapter 16"
+created: 2026-03-28
 ---
 
 - **K - Kinesthetic:** Feelings of movement, touch, or physical sensation.

@@ -1,6 +1,7 @@
 ---
 title: "X. The Crowning"
 hideTitle: true
+created: 2026-08-09
 ---
 
 <div class="sf-backdrop" style="background-image:url(../static/seven-fires/11-the-crowning-900.webp)"></div>

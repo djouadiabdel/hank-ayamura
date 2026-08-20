@@ -1,6 +1,10 @@
 ---
 title: "The Lantern of Dawn"
+created: 2026-06-07
+revised: 2026-07-12
 ---
+
+
 
 _Karan. Koron._
 
@@ -41,3 +45,8 @@ So it was a dream. I have decided. I will keep deciding it every time it comes b
 _Karan_, I said to the empty room, very quietly, to see if it would answer.
 
 _Koron_, said no one at all.
+
+---
+
+<!-- colophon -->
+*June 2026. Told out loud first, drunk, badly, to somebody who was kind about it. Written down the next week to find out what I had actually said.*

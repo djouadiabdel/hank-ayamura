@@ -1,5 +1,6 @@
 ---
 title: "Chapter 32"
+created: 2026-04-08
 ---
 
 Light heel sound clicks on the side of the street. The sound waves hit Itagaki's body and pass through him into the gym. His heart drops to the ground, and as he tries to hold onto his breath with his raging chest, it gets locked in place by the darkness he is living inside of. His hands try to hold onto his chest but the moment his fingertips touch it he aches harder, and the waves passing into the gym make it all mundane, the same way it was for him in high school, searching for a goal to hunt and never reaching it.

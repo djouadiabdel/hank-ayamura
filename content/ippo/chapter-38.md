@@ -1,5 +1,6 @@
 ---
 title: "Chapter 38"
+created: 2026-04-14
 ---
 
 Another day in the hospital, and a headache keeps striking the moment I look at anything related to X-ray images of bones. The kind of headache that captures every bit of your brain without you knowing exactly what happened. I ruled out the flu. I ruled out low glucose, just in case. The headache is still here.

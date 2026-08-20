@@ -1,5 +1,6 @@
 ---
 title: "Chapter 25"
+created: 2026-04-03
 ---
 
 Ippo stepped forward and Itagaki's chest unlocked.

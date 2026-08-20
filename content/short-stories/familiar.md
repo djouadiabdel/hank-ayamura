@@ -1,6 +1,10 @@
 ---
 title: "Familiar"
+created: 2025-09-29
+revised: 2026-05-20
 ---
+
+
 
 I ruined the exam, and when it was over my arms fell with all their weight straight down at my sides. I walked out into people who would not meet my eyes. I passed close to them and no one greeted me. Whatever had been rushing in my head all morning faded the second I crossed the exam door, faded the way a fever does, leaving the body cold and emptied and standing in a hallway it does not recognize.
 
@@ -144,3 +148,8 @@ My heart is troubled, but victorious for that i survived the portal.
 It was all real.
 
 I am not a crazy person. I am not.
+
+---
+
+<!-- colophon -->
+*September 2025, the afternoon it happened. Written on the road home, before the feeling could organise itself into something with a point. We were still together when I wrote it.*

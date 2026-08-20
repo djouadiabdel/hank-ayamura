@@ -1,5 +1,6 @@
 ---
 title: "Chapter 27"
+created: 2026-04-05
 ---
 
 Imai's fist was still in the air.
