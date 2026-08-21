@@ -4,11 +4,15 @@ title: The Hollow Sky
 
 Hank Ayamura
 
-Four bodies of work, all circling the same question.
+Five bodies of work, all circling the same question.
 
 ## [Short Stories](short-stories/)
 
 Twenty-three confessional pieces, newest first. A relationship, what it asked for, and what neither person had to give, and then everything after it.
+
+## [The Lives of the Saints](lives/)
+
+Seven pieces in numbered fragments, assembled out of ninety days of messages. Each takes a sentence he would defend and lets the record answer it.
 
 ## [What These Hands Are For](ippo/)
 
