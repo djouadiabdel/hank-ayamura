@@ -81,7 +81,11 @@ Then she asked it. So if you had the choice between me being your mother and you
 
 Tho I remember once in middle school. I put that in brackets, before anything else. My mother didn't really raise me. It was more like she taught me math and that was mostly it, and other than that she bought me books.
 
-She just dragged me into getting hmm smashed by her. I was standing in the yard with a girl. And she was a teacher in there. So after that it was 10.
+She just dragged me into getting hmm smashed by her.
+
+I was standing in the yard with a girl. And she was a teacher in there.
+
+So after that it was 10.
 
 Ten.
 
@@ -169,19 +173,19 @@ Dude, I am dying looking at myself in the mirror, realizing how useless I am. I 
 
 I'll pull my voice out, she said, because you don't let a person get depressed inside his own head.
 
-Fourth of July. I don't like how I look at all. I need to lose more weight, like I was.
+I don't like how I look at all. I need to lose more weight, like I was.
 
 Like I was is 105.99.
 
-I can't stand myself dude. I can't even be confident next to a woman.
+I can't stand myself dude. I can't even be confident next to a woman. My face is a bit fat. In the last months I started eating less and lost lots of fat, so sometimes I am leaner. And in a way I carry most of my fat in my face. Never really was compliement for my face or something. I guess? Idk. I am not lol.
 
-Second of August, one in the morning. I had been telling somebody about a party years ago where they all had one and I got none, and how I acted gay in order to get a girl in there. Never really was compliement for my face or something. I guess? Idk. I am not lol. Then, thoughts?
+Fourth of July, second of August, sixteenth of August.
+
+The second of August I had been telling somebody about a party years ago where they all had one and I got none, and how I acted gay in order to get a girl in there. Then, thoughts?
 
 She wrote back a question mark.
 
-Sixteenth of August. My face is a bit fat, and in the last months I started eating less and lost lots of fat, so sometimes I am leaner. And in a way I carry most of my fat in my face.
-
-Fourteenth of August, ten to one in the morning. Should I even post one tomorrow, I asked her. A nigga is too insecure bcz he took random pics earlier after shower and wasn't really focused.
+Ten to one in the morning, the fourteenth. Should I even post one tomorrow, I asked her. A nigga is too insecure bcz he took random pics earlier after shower and wasn't really focused.
 
 Thought it looks good, she said. That's a perfect timing to take pic ngl. You don't have to be insecure. The important, you know that you're sexy no matter what other ppl think.
 
@@ -195,9 +199,9 @@ Eleventh of August, twenty past midnight, hi mama, and a minute later, cola girl
 
 Ten different people. One of them a man.
 
-I called a professor mama once, at the hospital, a doctor. I said it was probably because they are used to us.
-
 Nineteenth of August. Don't love any other man beside my mother, I told one of them. Fourteenth of August, to another. Iam 23 mama.
+
+I called a professor mama once, at the hospital, a doctor. I said it was probably because they are used to us.
 
 Eighteenth of August, twenty five to twelve in the morning. She sent me two voice notes. She had sent photos of herself and wanted to know. I mean that's not bad. Try to take videos not picture, and from videos you find good pictures.
 
@@ -217,6 +221,8 @@ She sent a face. Never mind, she said. I accept ass with muscles.
 
 Of me when I was 106kg.
 
+106.
+
 Not 105.99.
 
 Let me see if in my other phone I can find a pic. Okey xD, she said.
@@ -227,7 +233,9 @@ Aaaaw, she said. Cute.
 
 Well, one thing I know is that I was neeeever hungry. Now am just buying watermelon. Because I always eat regardless. For food.
 
-Hungry for what, she said. Is that a good thing or bad.
+Hungry for what, she said.
+
+Is that a good thing or bad.
 
 Being hungry means one is in a deficit, I told her, or he has insulin problems.
 
