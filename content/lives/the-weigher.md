@@ -7,124 +7,174 @@ aliases:
 
 Things got better.
 
-My mother taught maths. She hated it in the end.
-
-She stopped cooking for us years ago. She still cooks sometimes, rarely, for me and my brother. She draws a lot. Random draws, random shapes. She yells at me because I do not know how to cook.
+My mother taught maths. She hated it in the end. She stopped cooking for us years ago, and now she cooks sometimes, rarely, for me and my brother. She draws. Random draws, random shapes. She yells at me because I do not know how to cook.
 
 ---
 
-Twenty ninth of July, half two in the afternoon. She asked me what I ate. I typed, idk, just food.
+Twenty ninth of July, half two in the afternoon. What did you eat, she wanted to know. Idk. Just food.
 
-She said somebody had told her they eat twenty four eggs a day. I typed, what were you expecting me to say. Today I ate plutonium with some nuclear weapons.
+Someone said they ate twenty four eggs a day, she said. Cuz like it's normal. I was like, what's the thing, or am I retarded. What were ya expecting me to say. Today I ate plotonium with some nuclear weapons.
 
-I typed, when I was 105.99, never 106, I used to eat a lot. Triple what I eat now. I typed, but hey, I got less roared at.
+When I was 105.99, never 106, I used to eat a lot of food. Triple what I eat now. But hey, I got less ROARed.
 
-I typed, balance balance.
+Balance balance.
 
-Two minutes later I typed, oh, did not tell you, found out I lost 1.2 kilos too. I typed that I want to get back to eighty three, since that is where I usually was when I take pictures.
+Lesss roareddddd, she wrote back. Then, goo outttt. Then she told me I had cracked her up.
 
-The next day, a different person. I typed, but I want to eat. I typed, literally food is in front of me and I do not want to eat for some reason. I typed, well, took me almost a year to lower my appetite kinda.
+Oh, didn't tell you. Found out I lost 1.2 kilos too. Usually I wanna get back to 83ish, since that's where I was when I take pics.
 
-Then I typed, in brackets, she does not want me to be fat. Then I typed, last year I used to wegh 105.99, not 106, damn.
+The next day, a different person, eleven in the morning. But I wanna eat. Literally food is in front of me and I don't wanna eat for some reason.
 
-She typed, damn, 106? Man I would cry. She typed, how much do you weigh now. I typed, 85. I typed, I count my calories.
+Man, give me your appetite, she said. I have been eating like we have a famine coming. Well, took me almost a year to lower my appetite kinda.
+
+Then, in brackets, so it would sit off to the side. She doesn't want me to be fat.
+
+Just imagine you are on a date, she told me, and she said she will leave the minute you stop eating. So don't stop. Be stressed about it. Last year I used to wegh 105.99, not 106, damn.
+
+Dame, 106? Man I would cry. How much u weight now. Then, before I answered, she came back again. Just eat your food. Imagine you are five years old with your mom in front of you with her ladle.
+
+85. I count my calories.
 
 Two people. Two days. The same correction both times.
 
 Nobody had asked.
 
-Eighteenth of August, twenty past eight at night. I typed, I do not have a biceps. I typed, mine is a long biceps, so I do not have one.
+Eighteenth of August, twenty past eight at night. I'm not here for your biceps though, she said. Same biceps, but mine cry when I show them. Literally cry. Thank you, now I need someone to milk them, I don't know about the details.
 
-Eleventh of August. I typed that I do not even show it much, because it depends on lighting, on pump, on whatever factors happen and whatever. Then I typed, AND IT AINT EVEN THAT BIG.
+Poor mouse. You have good tits though. I don't have a biceps. Mine is a long biceps, so I don't have one.
 
-In capitals.
+A week before that she had asked whether we are that insecure or just that ugly. She had tried makeup and thought she came out uglier. At least you have muscles to show, she said.
+
+Can a human just live, she said.
+
+Well, I don't even show it much, because it depends on lighting, on pump, on whatever factors that happen and whatever, and IT AINT EVEN THAT BIG. Ain't? Bruh, she wrote.
 
 ---
 
-First of August, quarter past two in the morning. A woman had been calling herself my mother for about an hour.
+First of August, quarter past two in the morning. A woman I have never met had been calling herself my mother for about an hour.
 
-She typed, so if you had the choice between me being your mother and your own mother who raised you, who would you choose.
+Force meeee, I had told her. Don't let me be the guy who knows English and is mediocre in French, Hebrew, Greek. I'm going to make you speak French only, she said.
 
-I typed, though I remember once in middle school. I put it in brackets. I typed that she did not really raise me, it was more like she taught me maths and that was mostly it, and other than that she bought me books.
+Kids worship their parents, no? This is ur mom btw, she said. Damn damn, what did u just make me say.
 
-I typed, she just dragged me into getting smashed by her. I typed, I was standing in the yard with a girl. I typed, and she was a teacher in there. I typed, so after that it was ten.
+Then she asked it. So if you had the choice between me being your mother and your own mother who raised you, who would you choose.
+
+Tho I remember once in middle school. I put that in brackets, before anything else. My mother didn't really raise me. It was more like she taught me math and that was mostly it, and other than that she bought me books.
+
+She just dragged me into getting hmm smashed by her. I was standing in the yard with a girl. And she was a teacher in there. So after that it was 10.
 
 Ten.
 
-I typed, and yep, I was tearing up, in real life, in real life, in real life. I typed, I mean I usually burst into tears easily.
+And yep, nigga was tearing irl irl irl. Hmm, I mean I usually burst into tears easily. Another time I got 19.5 in math. The second year of middle school. And she hit me lol tho.
 
-She typed, do not worry. I am your mom. I am your real mom. You are my son.
+Don't worry, she said. I'm your mom. I'm your real mom. You're my son.
 
-I typed, that is fine, I am thankful for you mommy, after all that is what I need.
+And then I said it.
 
----
+But then as she got older and I got older, things got better.
 
-Ten hours later, twenty four minutes past twelve. A different woman.
-
-We had been joking about teachers. She typed, beware of teachers. I typed, my mother was a maths teacher, she just hated it in the end. Then I did her voice.
-
-WHY DID YOU MISS THAT 0.5 WHYYYY.
-
-Then, bam, got thrown with a gentle slap. Then I typed the laugh. I got nineteen and a half in some test. Nineteen and a half out of twenty. Second year, she was my teacher, middle school. And she hit me lol though.
-
-Two women. Ten hours. The same day.
-
-Neither of them knows the other exists.
+Btw, she said, ur real mom is really bad at math. She is good at French writing, boxing, psychology, and almost the medical side. Good learner. Yep yep, I am adopting the terminology real fast.
 
 ---
 
-I typed, but as I grew, around second year of high school, she stopped doing all these things and started being better?
+Ten hours later, twenty four minutes past twelve. A different woman, one who knows me. We had been joking about teachers, because she is going to be one.
+
+She told me beware of teachers, I said. I see I see. Well, my mother was a math teacher, she just hated it in the end. Mee meee, don't be aware, she said. Bcz they complain a lot ig ig ig. She rightttt.
+
+Then I did my mother's voice for her.
+
+WHY DID YOU MISS THAT 0.5 WHYYYY. Then bam, got thrown with a gentle slap.
+
+I got 19.5 in some test. I remember in second year, she was my teacher in math, middle school. Nineteen and a half out of twenty. And she hit me lol tho.
+
+The same story I had told the other one at quarter past two that morning. Ten hours between them. Neither of them knows the other exists.
+
+She sent me two voice notes. Then she sent three arms hugging.
+
+---
+
+But as I grew, around second year of high school, she stopped doing all these things and started being better?
 
 I put a question mark on it.
 
-I typed, that is the tip of the iceberg for her lol. She typed, awwwh, in the end she knew that being severe in tiny details would not get her everything, but it was her kid's motivation and passion. I typed, alrighty, take care, and enjoy your day.
+That's the tip of the iceberg for her lol. Alrighty, take care, and enjoy your day. Anyways, have a great day, talk to u later, she said.
+
+And then, after the goodbye, she said it. Awwwh. In the end she knew that being severe in tiny details won't get her everything, but it was her kid's motivation and passion.
 
 Two hours later I sent her a link to something I had written.
 
 ---
 
-Fourteenth of June. I typed to a friend, after all I got no personality without my mom.
+Fourteenth of June. A friend was telling me she would be dead by tomorrow, that she would be dissociating, that she was done with studying.
 
-Seventeenth of August, ten past ten at night. Somebody asked about my brothers. I typed, was gonna have another but he dided in my mother's stomach when I was 6 or something 7?
+After all I got no personality without my mom.
+
+Then, alright, I will stay with u tonight. Can I kill myself, she said. Nigga I wanna die. Five days and u can get 16, I told her. One more week and u can die.
+
+Seventeenth of August, ten past ten at night. We were talking about the password on my laptop, and that my brother knows it. Was gonna have another but he dided in my mother's stomach when i was 6 or something 7?
 
 I put a question mark on that one too.
 
-Ninth of August, ten past eleven at night. I typed, dude, I am dying looking at myself in the mirror.
+U have one brother, she said. Ohhh cute. Close to your brother. This is better. Three ppl would of been hell.
 
-Realizing how useless I am.
+Never mind, she told me, you have your brother. Then, ah, so he would have been your third. Then she decided he would have been the sensible one. Or the one the whole neighbourhood calls mad.
 
-Fourth of July. I typed, I do not like how I look at all. I typed, I need to lose more weight, like I was.
+Ninth of August, ten past eleven at night. She had asked why. Dude, I am dying looking at myself in the mirror, realizing how useless I am. I always make the same mistakes over and over again. I am such a retarded person.
+
+I'll pull my voice out, she said, because you don't let a person get depressed inside his own head.
+
+Fourth of July. I don't like how I look at all. I need to lose more weight, like I was.
 
 Like I was is 105.99.
 
-Then I typed, I cannot stand myself dude. I typed, I cannot even be confident next to a woman.
+I can't stand myself dude. I can't even be confident next to a woman.
 
-Second of August, one in the morning. I typed, never really was complimented for my face or something. Twenty two minutes earlier I had typed, it is ugly.
+Second of August, one in the morning. I had been telling somebody about a party years ago where they all had one and I got none, and how I acted gay in order to get a girl in there. Never really was compliement for my face or something. I guess? Idk. I am not lol. Then, thoughts?
 
-Sixteenth of August. I typed that my face is a bit fat, and that in the last months I started eating less and lost lots of fat, so sometimes I am leaner. I typed, and in a way I carry most of my fat in my face.
+She wrote back a question mark.
 
-Fourteenth of August, ten to one in the morning. I typed, damn, if pics were just like how I look in the mirror.
+Sixteenth of August. My face is a bit fat, and in the last months I started eating less and lost lots of fat, so sometimes I am leaner. And in a way I carry most of my fat in my face.
 
-Seventh of August. Somebody asked me for a picture and I typed that she wants to see my body, whom which I feel scared to share, asking me for what I consider the impossible.
+Fourteenth of August, ten to one in the morning. Should I even post one tomorrow, I asked her. A nigga is too insecure bcz he took random pics earlier after shower and wasn't really focused.
 
----
+Thought it looks good, she said. That's a perfect timing to take pic ngl. You don't have to be insecure. The important, you know that you're sexy no matter what other ppl think.
 
-Eleventh of August, twenty past midnight, I typed hi mama, and a minute later, cola girl just buy coca light mama, and on the eleventh at nine at night, delight mama delight, and then, I am here child, I am just bi-genderally here for you as mama or dada, and on the twelfth, yeh mama, and on the fifteenth, ruin me mama, and later that day, you white mama stop the black diavolo, and on the nineteenth, I am loving this dictatorship mama, and, that is abuse mama, and, mama likes being called daddy, and at a quarter to eleven that night, mama raised a bitch.
-
-Six women.
-
-Nineteenth of August. I typed to one of them, do not love any other man beside my mother. Fourteenth of August. Somebody typed something and I answered, I am 23 mama.
-
-Eighteenth of August, twenty five to twelve in the morning. She had sent me photos of herself and asked. I typed, that is not bad, try to take videos not pictures, and from the videos you find good pictures. Then I gave her my own case.
-
-Then I typed, you do not have to be serious all the time.
+Damn, if pics were just like how i look in the mirro. You didn't care about looking before the break up, she asked.
 
 ---
 
-Nineteenth of August, five to one in the afternoon. I typed, I was gonna say wait, I am going to turn into a fat fuck, but then I remembered that it makes my face look like a loaf of bread.
+Sixteenth of June, half eleven at night. I was telling a friend what I wanted, instead of the thing I was going to get. Instead of getting one who will break my heart, not let me call her mama, and she would tell me a man's job is to give, not receive.
 
-Three minutes later I sent a picture. I typed, of me when I was 106kg.
+Eleventh of August, twenty past midnight, hi mama, and a minute later, cola girl just buy coca light mama, and that night at nine, delight mama delight, and then, I am here child, I am just bi-genderally here for you as mama or dada, and on the fifteenth, ruin me mama, and later that day, u white mama stop the black diavolo, and on the nineteenth, I am loving this dictatorship mama, and, that's abuse mama, and at a quarter to eleven that night, mama raised a bitch.
+
+Ten different people. One of them a man.
+
+I called a professor mama once, at the hospital, a doctor. I said it was probably because they are used to us.
+
+Nineteenth of August. Don't love any other man beside my mother, I told one of them. Fourteenth of August, to another. Iam 23 mama.
+
+Eighteenth of August, twenty five to twelve in the morning. She sent me two voice notes. She had sent photos of herself and wanted to know. I mean that's not bad. Try to take videos not picture, and from videos you find good pictures.
+
+Then I gave her my own case. Or you will get fucked up in da head.
+
+You don't have to be serious all the time. Just be silly, it's good. She sent another voice note.
+
+---
+
+Nineteenth of August, five to one in the afternoon. She was saying it made her miss a lot of opportunities, an opportunity of pegging a fat otaku guy who could have been the love of her life. I was gonna say wait, imma turn into a fat fuck, but then I remembered that it makes my face look like a loaf of bread.
+
+She sent a face. Then, never mind, she said. I accept ass with muscles.
+
+Of me when I was 106kg.
 
 Not 105.99.
+
+Then, let me see if in my other phone I can find a pic. Okey xD, she said.
+
+It took me seven minutes. I had to dig to find.
+
+Aaaaw, she said. Cute.
+
+Well, one thing I know is that I was neeeever hungry.
 
 Things got better.
