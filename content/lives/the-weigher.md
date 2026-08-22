@@ -7,13 +7,33 @@ aliases:
 
 Things got better.
 
-The room is the same one. The bed is behind me. It is dark and no one comes, and I have learned not to make the sound, because sound would mean someone might come.
+It is the small hours and the room is the same one. The bed is behind me. It is dark and no one comes, and I have learned not to make the sound, because sound would mean someone might come.
 
-I am reading back the first of August.
+i just hate myself, i always look at myself as the kind of person who will just end up alone like that
+
+Three minutes past three in the morning, the first of August. She says I am going to have the best sleep ever, because for a moment I discovered that she is my mom.
+
+U are righttt. Literally am getting sleeping thinking about it and weirdly feeling safe.
+
+Come here sleep on my chest, she says.
+
+And I want to hug u always and always and always as I feel ur heart beats.
+
+I have never met her. I do not know what her face looks like.
 
 ---
 
-It starts at midnight and I am the doctor.
+WHY DID YOU MISS THAT 0.5 WHYYYY. Then bam, got thrown with a gentle slap.
+
+Nineteen and a half out of twenty. She was my teacher. Second year of middle school.
+
+She stopped cooking for us years ago. She draws. Random draws, random shapes. She yells at me because I do not know how to cook.
+
+She keeps talking about the saints and the priests, the lying thieves, the cross. She does not like extremes, she said to me, staring, staring. I kept my distance away. The door was open, the clothes were thrown on the ground, the books were around me and I was standing.
+
+---
+
+That same night starts at midnight and I am the doctor.
 
 She has pain. I explain her own body to her for an hour. Prostaglandin, because it makes the uterus contract. The second half of the cycle. If it is not hormonal you need an ortho, maybe an SI joint. Ovulation can feel like a high. Estrogen and testosterone running in your body with the LH, all going to have a feast day.
 
@@ -23,15 +43,13 @@ I ask her when she feels ugly.
 
 I ask her what would help, beside doing cocaine. Then I say I am worried it might really be cocaine, because Algerian cocaine is not pure.
 
-I tell her I am now thinking about her ovulating while trying to solve a Rubik's cube. I tell her to think of the side effects as a Rubik's cube she can push to the side for fun. I tell her maybe she should have high thoughts about what it would be like to be a red colour, since the cube has red in it.
+I tell her I am now thinking about her ovulating while trying to solve a Rubik's cube. I tell her to have high thoughts about what it would be like to be a red colour, since the cube has red in it.
 
 She says she is dying. I say don't please.
 
 She says she wants to be pregnant one day. She says she is one of the girls who loves the idea of motherhood the most.
 
-You would make a good mother, I tell her. You are smart and empathetic.
-
-If someone is going to create a baby it is a good idea for the kid to have you as a mother.
+You would make a good mother. You are smart and empathetic. If someone is going to create a baby it is a good idea for the kid to have you as a mother.
 
 At twenty eight minutes past one she says, thank you so much Mommy, I really appreciate your support.
 
@@ -43,29 +61,25 @@ I tell her I have experience at having male periods.
 
 At two minutes past one I had already told her, that's why you need ur mommy tho.
 
----
-
-She was my teacher. Second year of middle school. I got nineteen and a half out of twenty.
-
-WHY DID YOU MISS THAT 0.5 WHYYYY. Then bam, got thrown with a gentle slap.
-
-She stopped cooking for us years ago. She draws. Random draws, random shapes. She yells at me because I do not know how to cook.
-
-She keeps talking about the saints and the priests, the lying thieves, the cross. She does not like extremes, she said to me, staring, staring. I kept my distance away. The door was open, the clothes were thrown on the ground, the books were around me and I was standing.
+i can't accept being looked at as a useless person, i fucking hate it, and i can't tolerate it
 
 ---
 
-Quarter past two in the morning. A different woman. I have never met her.
+Noon. I love everything about you sweetheart. LOOOOVE YAAAA cutie. You don't need anything, you already got what it takes. Even the gods heard your long lived cries and they were like hmmm okay okay take it. Well u are just too lovely. For me you are everything that is good.
 
-Force meeee. Don't let me be the guy who knows English and is mediocre in French, Hebrew, Greek.
+At four minutes past twelve, to somebody else, in the middle of that. Well she rejected me hohohoha.
 
-I'm going to make you speak French only, she says.
+Then back. Damn, a hundred? Well, we learn to pass patients fast.
 
-Kids worship their parents, no?
+Teacher of Eng, or wait wait let me guess, a teacher of Math.
 
-This is ur mom btw, she says.
+I say I cannot stand kids.
 
-Damn damn, what did u just make me say.
+---
+
+Quarter past two in the morning, ten hours before that. Force meeee. Don't let me be the guy who knows English and is mediocre in French, Hebrew, Greek.
+
+I'm going to make you speak French only, she says. Kids worship their parents, no? This is ur mom btw, she says. Damn damn, what did u just make me say.
 
 Then she asks it. So if you had the choice between me being your mother and your own mother who raised you, who would you choose.
 
@@ -79,7 +93,7 @@ So after that it was 10.
 
 Ten.
 
-And yep, nigga was tearing irl irl irl. Hmm, I mean I usually burst into tears easily. Another time I got 19.5 in math. The second year of middle school. And she hit me lol tho.
+And yep, nigga was tearing irl irl irl. Hmm, I mean I usually burst into tears easily.
 
 Don't worry, she says. I'm your mom. I'm your real mom. You're my son.
 
@@ -89,20 +103,6 @@ And then I say it.
 
 But then as she got older and I got older, things got better.
 
-Btw, she says, ur real mom is really bad at math. She is good at French writing, boxing, psychology, and almost the medical side.
-
-Good learner. Yep yep, I am adopting the terminology real fast.
-
-Let us rejoice and hope in thee for she is great. You are the greatest ever.
-
-At three minutes past three she says I am going to have the best sleep ever, because for a moment I discovered that she is my mom.
-
-U are righttt. Literally am getting sleeping thinking about it and weirdly feeling safe.
-
-Come here sleep on my chest, she says.
-
-And I want to hug u always and always and always as I feel ur heart beats.
-
 ---
 
 In January I wrote that the body wanted to be a child held by someone bigger than the trouble. To be a son. To be told you are good, you did nothing wrong, you can put it down now. I wrote that I was ashamed to write it.
@@ -111,23 +111,19 @@ I wrote that every time the arm came around me I made a joke and sat up.
 
 It took seven months and a stranger with no face and a keyboard.
 
----
-
-Noon.
-
-I love everything about you sweetheart. LOOOOVE YAAAA cutie. You don't need anything, you already got what it takes. Even the gods heard your long lived cries and they were like hmmm okay okay take it. Well u are just too lovely. For me you are everything that is good.
-
-At four minutes past twelve, to somebody else, in the middle of that. Well she rejected me hohohoha.
-
-Then back. Damn, a hundred? Well, we learn to pass patients fast. Going to the hospital is like going to a gringo in a bringo.
-
-Teacher of Eng, or wait wait let me guess, a teacher of Math.
-
-I say I cannot stand kids.
+am I just a bad person
 
 ---
 
-Quarter past twelve. She told me beware of teachers.
+I told a friend he should try crying in front of a woman, because I wanted to see his feedback on it.
+
+He said it is usually another guy taking over if he ever cries. He said he does not even cry in front of himself.
+
+I told another one not to watch that film alone. I said you need someone to vomit on. I said it is scary, dude.
+
+---
+
+Quarter past twelve, the same day I was turned down. She told me beware of teachers.
 
 I see I see. Well, my mother was a math teacher, she just hated it in the end.
 
@@ -139,25 +135,21 @@ WHY DID YOU MISS THAT 0.5 WHYYYY. Then bam, got thrown with a gentle slap.
 
 I got 19.5 in some test. I remember in second year, she was my teacher in math, middle school.
 
-Nineteen and a half out of twenty.
-
 The same story I told the other one ten hours ago. Neither of them knows the other exists.
 
 She sends me two voice notes. Then she sends three arms hugging.
-
----
 
 But as I grew, around second year of high school, she stopped doing all these things and started being better?
 
 I put a question mark on it.
 
-That's the tip of the iceberg for her lol. Alrighty, take care, and enjoy your day.
-
-Anyways, have a great day, talk to u later, she says.
+That's the tip of the iceberg for her lol. Alrighty, take care, and enjoy your day. Anyways, have a great day, talk to u later, she says.
 
 Then, after the goodbye, she says it. Awwwh. In the end she knew that being severe in tiny details won't get her everything, but it was her kid's motivation and passion.
 
 Two hours later I send her a link to something I had written.
+
+i literally can't handle the notion of spending time with her and then she would just be talking to another person
 
 ---
 
@@ -173,9 +165,7 @@ Walking in a way that just hurts u first. That's what walking in aura means.
 
 ---
 
-i can't accept being looked at as a useless person, i fucking hate it, and i can't tolerate it, i am literally fed up from this
-
-am I just a bad person
+i am too exhausted for this
 
 i am not tired to sleep please talk to me
 
