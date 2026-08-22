@@ -173,7 +173,7 @@ Cry on my shoulder?
 
 ---
 
-Ninth of August, ten past eleven at night. She had asked why.
+Ninth of August, ten past eleven at night. The friend who had wanted to die in June. She had asked why.
 
 Dude, I am dying looking at myself in the mirror, realizing how useless I am. I always make the same mistakes over and over again. I am such a retarded person.
 
@@ -217,7 +217,7 @@ Then I gave her my own case. Or you will get fucked up in da head. You don't hav
 
 ---
 
-Nineteenth of August, twenty to one in the afternoon. She wanted a laughing sticker as soon as possible. She sent a cat.
+Nineteenth of August, twenty to one in the afternoon, the one who had told me to eat steamed vegetables. She wanted a laughing sticker as soon as possible. She sent a cat.
 
 I'm not laughing, she said. I'm just autistic. Then, that shit is ruining my real life.
 
