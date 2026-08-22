@@ -7,47 +7,67 @@ aliases:
 
 Things got better.
 
-My mother taught maths. She hated it in the end. She stopped cooking for us years ago, and now she cooks sometimes, rarely, for me and my brother. She draws. Random draws, random shapes. She yells at me because I do not know how to cook.
+My mother taught maths. She hated it in the end.
+
+Second year of middle school, she was my teacher. I got nineteen and a half out of twenty in a test.
+
+WHY DID YOU MISS THAT 0.5 WHYYYY. Then bam, got thrown with a gentle slap.
+
+She stopped cooking for us years ago. She cooks sometimes now, rarely, for me and my brother. She draws. Random draws, random shapes. She yells at me because I do not know how to cook.
 
 ---
 
 Twenty ninth of July, half two in the afternoon. What did you eat, she wanted to know. Idk. Just food.
 
-Someone said they ate twenty four eggs a day, she said. Cuz like it's normal. I was like, what's the thing, or am I retarded. What were ya expecting me to say. Today I ate plotonium with some nuclear weapons.
+Someone said they ate twenty four eggs a day, she said. Cuz like it's normal. I was like, what's the thing, or am I retarded.
+
+What were ya expecting me to say. Today I ate plotonium with some nuclear weapons.
 
 When I was 105.99, never 106, I used to eat a lot of food. Triple what I eat now. But hey, I got less ROARed.
 
 Balance balance.
 
-Lesss roareddddd, she wrote back. Then, goo outttt. Then she told me I had cracked her up.
+Lesss roareddddd, she wrote back. Then, goo outttt. Oh, didn't tell you. Found out I lost 1.2 kilos too. Usually I wanna get back to 83ish, since that's where I was when I take pics.
 
-Oh, didn't tell you. Found out I lost 1.2 kilos too. Usually I wanna get back to 83ish, since that's where I was when I take pics.
+Nineteen minutes later I told somebody else I would answer when I got home. I was outside driving the car with my mother.
 
-The next day, a different person, eleven in the morning. But I wanna eat. Literally food is in front of me and I don't wanna eat for some reason.
+The next day, eleven in the morning, a different person. But I wanna eat. Literally food is in front of me and I don't wanna eat for some reason.
 
-Man, give me your appetite, she said. I have been eating like we have a famine coming. Well, took me almost a year to lower my appetite kinda.
+Man, give me your appetite, she said. I have been eating like we have a famine coming.
+
+Well, took me almost a year to lower my appetite kinda.
 
 Then, in brackets, so it would sit off to the side. She doesn't want me to be fat.
 
 Just imagine you are on a date, she told me, and she said she will leave the minute you stop eating. So don't stop. Be stressed about it. Last year I used to wegh 105.99, not 106, damn.
 
-Dame, 106? Man I would cry. How much u weight now. Then, before I answered, she came back again. Just eat your food. Imagine you are five years old with your mom in front of you with her ladle.
+Dame, 106? Man I would cry. How much u weight now.
+
+Then, before I answered, she came back. Just eat your food. Imagine you are five years old with your mom in front of you with her ladle.
 
 85. I count my calories.
+
+Twenty eight minutes after that I typed, i ate yay.
 
 Two people. Two days. The same correction both times.
 
 Nobody had asked.
 
-Eighteenth of August, twenty past eight at night. I'm not here for your biceps though, she said. Same biceps, but mine cry when I show them. Literally cry. Thank you, now I need someone to milk them, I don't know about the details.
+---
 
-Poor mouse. You have good tits though. I don't have a biceps. Mine is a long biceps, so I don't have one.
+Eleventh of August, twenty past eight at night. I worked out for her that to reach two thousand calories you would have to eat sixty six point seven kilograms of watermelon.
 
-A week before that she had asked whether we are that insecure or just that ugly. She had tried makeup and thought she came out uglier. At least you have muscles to show, she said.
+Ten minutes later. Now imagine me looking at you while you are looking at yourself in the mirror. At quarter to nine she asked whether we are that insecure or just that ugly.
 
 Can a human just live, she said.
 
-Well, I don't even show it much, because it depends on lighting, on pump, on whatever factors that happen and whatever, and IT AINT EVEN THAT BIG. Ain't? Bruh, she wrote.
+She had tried makeup and thought she came out uglier. At least you have muscles to show, she said. Well, I don't even show it much, because it depends on lighting, on pump, on whatever factors that happen and whatever, and IT AINT EVEN THAT BIG.
+
+Ain't? Bruh, she said.
+
+A week later, twenty past eight at night again. I'm not here for your biceps though, she said. Same biceps, but mine cry when I show them. Literally cry. Thank you, now I need someone to milk them, I don't know about the details.
+
+Poor mouse. You have good tits though. I don't have a biceps. Mine is a long biceps, so I don't have one.
 
 ---
 
@@ -73,21 +93,27 @@ And then I said it.
 
 But then as she got older and I got older, things got better.
 
-Btw, she said, ur real mom is really bad at math. She is good at French writing, boxing, psychology, and almost the medical side. Good learner. Yep yep, I am adopting the terminology real fast.
+Btw, she said, ur real mom is really bad at math. She is good at French writing, boxing, psychology, and almost the medical side.
+
+Good learner. Yep yep, I am adopting the terminology real fast.
 
 ---
 
-Ten hours later, twenty four minutes past twelve. A different woman, one who knows me. We had been joking about teachers, because she is going to be one.
+Four minutes past twelve the same day. I told a friend she had rejected me. I wrote hohohoha after it.
 
-She told me beware of teachers, I said. I see I see. Well, my mother was a math teacher, she just hated it in the end. Mee meee, don't be aware, she said. Bcz they complain a lot ig ig ig. She rightttt.
+Fourteen minutes later I was talking to her about teachers, because she is going to be one.
 
-Then I did my mother's voice for her.
+She told me beware of teachers. I see I see. Well, my mother was a math teacher, she just hated it in the end.
+
+Mee meee, don't be aware, she said. Bcz they complain a lot ig ig ig. She rightttt. Then I did my mother's voice for her.
 
 WHY DID YOU MISS THAT 0.5 WHYYYY. Then bam, got thrown with a gentle slap.
 
-I got 19.5 in some test. I remember in second year, she was my teacher in math, middle school. Nineteen and a half out of twenty. And she hit me lol tho.
+I got 19.5 in some test. I remember in second year, she was my teacher in math, middle school.
 
-The same story I had told the other one at quarter past two that morning. Ten hours between them. Neither of them knows the other exists.
+Nineteen and a half out of twenty.
+
+Ten hours after I told it to the other one. Neither of them knows the other exists.
 
 She sent me two voice notes. Then she sent three arms hugging.
 
@@ -99,9 +125,11 @@ I put a question mark on it.
 
 That's the tip of the iceberg for her lol. Alrighty, take care, and enjoy your day. Anyways, have a great day, talk to u later, she said.
 
-And then, after the goodbye, she said it. Awwwh. In the end she knew that being severe in tiny details won't get her everything, but it was her kid's motivation and passion.
+Then, after the goodbye, she said it. Awwwh. In the end she knew that being severe in tiny details won't get her everything, but it was her kid's motivation and passion.
 
 Two hours later I sent her a link to something I had written.
+
+At twenty to nine that evening I went to eat. I had not eaten anything the whole day.
 
 ---
 
@@ -119,7 +147,25 @@ U have one brother, she said. Ohhh cute. Close to your brother. This is better. 
 
 Never mind, she told me, you have your brother. Then, ah, so he would have been your third. Then she decided he would have been the sensible one. Or the one the whole neighbourhood calls mad.
 
-Ninth of August, ten past eleven at night. She had asked why. Dude, I am dying looking at myself in the mirror, realizing how useless I am. I always make the same mistakes over and over again. I am such a retarded person.
+Six in the evening that same day. I felt like I ate a lot of shit these two days and got lots of water retention. But but but cool. At a quarter to eight we were talking about pegging. But you would get pegged by a girl, she said. Think about it.
+
+And then I kill myself.
+
+It would not be interesting anyway, because the girl might not be into it either, and then when she does it she looks at me, the one who was not even into it, as disgusting.
+
+Two minutes later I sent her a reel. A cartoon devil throwing a double biceps pose, the moon behind him, fire underneath. It said, me, I hate my physique, also me at 2am in front of the mirror. It said lights off, phone flashlight on. It said peak body dysmorphia hypocrisy. It said tag your gym bro.
+
+Nvm. Wait. Idk.
+
+It's not like i was not gonna send my ass or something. (I am easy easy.) She sent a gif. He's hard to seduce, she said.
+
+Cry on my shoulder?
+
+---
+
+Ninth of August, ten past eleven at night. She had asked why.
+
+Dude, I am dying looking at myself in the mirror, realizing how useless I am. I always make the same mistakes over and over again. I am such a retarded person.
 
 I'll pull my voice out, she said, because you don't let a person get depressed inside his own head.
 
@@ -155,26 +201,36 @@ Nineteenth of August. Don't love any other man beside my mother, I told one of t
 
 Eighteenth of August, twenty five to twelve in the morning. She sent me two voice notes. She had sent photos of herself and wanted to know. I mean that's not bad. Try to take videos not picture, and from videos you find good pictures.
 
-Then I gave her my own case. Or you will get fucked up in da head.
-
-You don't have to be serious all the time. Just be silly, it's good. She sent another voice note.
+Then I gave her my own case. Or you will get fucked up in da head. You don't have to be serious all the time. Just be silly, it's good. She sent another voice note.
 
 ---
 
-Nineteenth of August, five to one in the afternoon. She was saying it made her miss a lot of opportunities, an opportunity of pegging a fat otaku guy who could have been the love of her life. I was gonna say wait, imma turn into a fat fuck, but then I remembered that it makes my face look like a loaf of bread.
+Nineteenth of August, twenty to one in the afternoon. She wanted a laughing sticker as soon as possible. She sent a cat.
 
-She sent a face. Then, never mind, she said. I accept ass with muscles.
+I'm not laughing, she said. I'm just autistic. Then, that shit is ruining my real life.
+
+I asked her what the situation was that made autism ruin it. It makes me miss a lot of opportunities, she said. The opportunity of pegging a fat otaku guy who could have been the love of my life.
+
+I was gonna say wait, imma turn into a fat fuck, but then I remembered that it makes my face look like a loaf of bread.
+
+She sent a face. Never mind, she said. I accept ass with muscles.
 
 Of me when I was 106kg.
 
 Not 105.99.
 
-Then, let me see if in my other phone I can find a pic. Okey xD, she said.
+Let me see if in my other phone I can find a pic. Okey xD, she said.
 
-It took me seven minutes. I had to dig to find.
+It took seven minutes. I had to dig to find. Ayayay.
 
 Aaaaw, she said. Cute.
 
-Well, one thing I know is that I was neeeever hungry.
+Well, one thing I know is that I was neeeever hungry. Now am just buying watermelon. Because I always eat regardless. For food.
+
+Hungry for what, she said. Is that a good thing or bad.
+
+Being hungry means one is in a deficit, I told her, or he has insulin problems.
+
+Nope nope, we can't talk about this momma badly.
 
 Things got better.
