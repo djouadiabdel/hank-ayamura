@@ -17,6 +17,12 @@ She stopped cooking for us years ago. She cooks sometimes now, rarely, for me an
 
 ---
 
+Twenty fifth of July, ten past seven in the evening. I was tired and about to finish a gym session. Suggest to me what should I eat, I asked her. Something I can cook.
+
+Steamed veggies with chicken, she said.
+
+U probably want me to suffer while eating.
+
 Twenty ninth of July, half two in the afternoon. What did you eat, she wanted to know. Idk. Just food.
 
 Someone said they ate twenty four eggs a day, she said. Cuz like it's normal. I was like, what's the thing, or am I retarded.
@@ -198,6 +204,8 @@ Sixteenth of June, half eleven at night. I was telling a friend what I wanted, i
 Eleventh of August, twenty past midnight, hi mama, and a minute later, cola girl just buy coca light mama, and that night at nine, delight mama delight, and then, I am here child, I am just bi-genderally here for you as mama or dada, and on the fifteenth, ruin me mama, and later that day, u white mama stop the black diavolo, and on the nineteenth, I am loving this dictatorship mama, and, that's abuse mama, and at a quarter to eleven that night, mama raised a bitch.
 
 Ten different people. One of them a man.
+
+Tenth of July, three minutes past nine at night. My mom always yell at me bcz i dont know how to cook but my gf kept having sex with me after every meal i make for her.
 
 Nineteenth of August. Don't love any other man beside my mother, I told one of them. Fourteenth of August, to another. Iam 23 mama.
 
