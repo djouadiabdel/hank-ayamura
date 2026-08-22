@@ -15,9 +15,11 @@ WHY DID YOU MISS THAT 0.5 WHYYYY. Then bam, got thrown with a gentle slap.
 
 She stopped cooking for us years ago. She cooks sometimes now, rarely, for me and my brother. She draws. Random draws, random shapes. She yells at me because I do not know how to cook.
 
+She keeps talking about the saints and the priests, the lying thieves, the cross. She does not like extremes, she said to me, staring, staring. I kept my distance away. The door was open, the clothes were thrown on the ground, the books were around me and I was standing.
+
 ---
 
-Twenty fifth of July, ten past seven in the evening. I was tired and about to finish a gym session. Suggest to me what should I eat, I asked her. Something I can cook.
+I was tired and about to finish a gym session. Suggest to me what should I eat, I asked her. Something I can cook.
 
 Steamed veggies with chicken, she said.
 
@@ -37,7 +39,7 @@ Lesss roareddddd, she wrote back. Then, goo outttt. Oh, didn't tell you. Found o
 
 Nineteen minutes later I told somebody else I would answer when I got home. I was outside driving the car with my mother.
 
-The next day, eleven in the morning, a different person. But I wanna eat. Literally food is in front of me and I don't wanna eat for some reason.
+The next day. But I wanna eat. Literally food is in front of me and I don't wanna eat for some reason.
 
 Man, give me your appetite, she said. I have been eating like we have a famine coming.
 
@@ -61,9 +63,13 @@ Nobody had asked.
 
 ---
 
-Eleventh of August, twenty past eight at night. I worked out for her that to reach two thousand calories you would have to eat sixty six point seven kilograms of watermelon.
+I am staring at my screen eating a bowl of three hundred and fifty calories and I cannot finish it. On the screen a man is telling me to do burpees. Burpees, burpees, he keeps murmuring. I have to do as he says.
 
-Ten minutes later. Now imagine me looking at you while you are looking at yourself in the mirror. At quarter to nine she asked whether we are that insecure or just that ugly.
+One night I worked out for her that to reach two thousand calories you would have to eat sixty six point seven kilograms of watermelon.
+
+Ten minutes later. Now imagine me looking at you while you are looking at yourself in the mirror.
+
+Then she asked whether we are that insecure or just that ugly.
 
 Can a human just live, she said.
 
@@ -71,7 +77,7 @@ She had tried makeup and thought she came out uglier. At least you have muscles 
 
 Ain't? Bruh, she said.
 
-A week later, twenty past eight at night again. I'm not here for your biceps though, she said. Same biceps, but mine cry when I show them. Literally cry. Thank you, now I need someone to milk them, I don't know about the details.
+A week later. I'm not here for your biceps though, she said. Same biceps, but mine cry when I show them. Literally cry. Thank you, now I need someone to milk them, I don't know about the details.
 
 Poor mouse. You have good tits though. I don't have a biceps. Mine is a long biceps, so I don't have one.
 
@@ -139,17 +145,17 @@ Then, after the goodbye, she said it. Awwwh. In the end she knew that being seve
 
 Two hours later I sent her a link to something I had written.
 
-At twenty to nine that evening I went to eat. I had not eaten anything the whole day.
+That evening I went to eat. I had not eaten anything the whole day.
 
 ---
 
-Fourteenth of June. A friend was telling me she would be dead by tomorrow, that she would be dissociating, that she was done with studying.
+A friend was telling me she would be dead by tomorrow, that she would be dissociating, that she was done with studying.
 
 After all I got no personality without my mom.
 
 Then, alright, I will stay with u tonight. Can I kill myself, she said. Nigga I wanna die. Five days and u can get 16, I told her. One more week and u can die.
 
-Seventeenth of August, ten past ten at night. We were talking about the password on my laptop, and that my brother knows it. Was gonna have another but he dided in my mother's stomach when i was 6 or something 7?
+We were talking about the password on my laptop, and that my brother knows it. Was gonna have another but he dided in my mother's stomach when i was 6 or something 7?
 
 I put a question mark on that one too.
 
@@ -157,7 +163,7 @@ U have one brother, she said. Ohhh cute. Close to your brother. This is better. 
 
 Never mind, she told me, you have your brother. Then, ah, so he would have been your third. Then she decided he would have been the sensible one. Or the one the whole neighbourhood calls mad.
 
-Six in the evening that same day. I felt like I ate a lot of shit these two days and got lots of water retention. But but but cool. At a quarter to eight we were talking about pegging. But you would get pegged by a girl, she said. Think about it.
+Earlier that evening I felt like I ate a lot of shit these two days and got lots of water retention. But but but cool. By a quarter to eight we were talking about pegging. But you would get pegged by a girl, she said. Think about it.
 
 And then I kill myself.
 
@@ -173,7 +179,7 @@ Cry on my shoulder?
 
 ---
 
-Ninth of August, ten past eleven at night. The friend who had wanted to die in June. She had asked why.
+The friend who had wanted to die in June. She had asked why.
 
 Dude, I am dying looking at myself in the mirror, realizing how useless I am. I always make the same mistakes over and over again. I am such a retarded person.
 
@@ -191,7 +197,7 @@ The second of August I had been telling somebody about a party years ago where t
 
 She wrote back a question mark.
 
-Ten to one in the morning, the fourteenth. Should I even post one tomorrow, I asked her. A nigga is too insecure bcz he took random pics earlier after shower and wasn't really focused.
+Should I even post one tomorrow, I asked her. A nigga is too insecure bcz he took random pics earlier after shower and wasn't really focused.
 
 Thought it looks good, she said. That's a perfect timing to take pic ngl. You don't have to be insecure. The important, you know that you're sexy no matter what other ppl think.
 
@@ -199,25 +205,23 @@ Damn, if pics were just like how i look in the mirro. You didn't care about look
 
 ---
 
-Sixteenth of June, half eleven at night. I was telling a friend what I wanted, instead of the thing I was going to get. Instead of getting one who will break my heart, not let me call her mama, and she would tell me a man's job is to give, not receive.
+I was telling a friend what I wanted, instead of the thing I was going to get. Instead of getting one who will break my heart, not let me call her mama, and she would tell me a man's job is to give, not receive.
 
-Eleventh of August, twenty past midnight, hi mama, and a minute later, cola girl just buy coca light mama, and that night at nine, delight mama delight, and then, I am here child, I am just bi-genderally here for you as mama or dada, and on the fifteenth, ruin me mama, and later that day, u white mama stop the black diavolo, and on the nineteenth, I am loving this dictatorship mama, and, that's abuse mama, and at a quarter to eleven that night, mama raised a bitch.
+Twenty past midnight, hi mama, and a minute later, cola girl just buy coca light mama, and that night at nine, delight mama delight, and then, I am here child, I am just bi-genderally here for you as mama or dada, and on the fifteenth, ruin me mama, and later that day, u white mama stop the black diavolo, and on the nineteenth, I am loving this dictatorship mama, and, that's abuse mama, and at a quarter to eleven that night, mama raised a bitch.
 
 Ten different people. One of them a man.
 
-Tenth of July, three minutes past nine at night. My mom always yell at me bcz i dont know how to cook but my gf kept having sex with me after every meal i make for her.
-
-Nineteenth of August. Don't love any other man beside my mother, I told one of them. Fourteenth of August, to another. Iam 23 mama.
+Don't love any other man beside my mother, I told one of them. To another, Iam 23 mama.
 
 I called a professor mama once, at the hospital, a doctor. I said it was probably because they are used to us.
 
-Eighteenth of August, twenty five to twelve in the morning. She sent me two voice notes. She had sent photos of herself and wanted to know. I mean that's not bad. Try to take videos not picture, and from videos you find good pictures.
+She sent me two voice notes. She had sent photos of herself and wanted to know. I mean that's not bad. Try to take videos not picture, and from videos you find good pictures.
 
 Then I gave her my own case. Or you will get fucked up in da head. You don't have to be serious all the time. Just be silly, it's good. She sent another voice note.
 
 ---
 
-Nineteenth of August, twenty to one in the afternoon, the one who had told me to eat steamed vegetables. She wanted a laughing sticker as soon as possible. She sent a cat.
+The one who had told me to eat steamed vegetables. She wanted a laughing sticker as soon as possible. She sent a cat.
 
 I'm not laughing, she said. I'm just autistic. Then, that shit is ruining my real life.
 
@@ -248,5 +252,13 @@ Is that a good thing or bad.
 Being hungry means one is in a deficit, I told her, or he has insulin problems.
 
 Nope nope, we can't talk about this momma badly.
+
+---
+
+i can't accept being looked at as a useless person, i fucking hate it, and i can't tolerate it, i am literally fed up from this
+
+am I just a bad person
+
+i am not tired to sleep please talk to me
 
 Things got better.
