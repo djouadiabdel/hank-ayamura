@@ -27,7 +27,7 @@ WHY DID YOU MISS THAT 0.5 WHYYYY. Then bam, got thrown with a gentle slap.
 
 Nineteen and a half out of twenty. She was my teacher. Second year of middle school.
 
-She stopped cooking for us years ago. She draws. Random draws, random shapes. She yells at me because I do not know how to cook.
+She stopped cooking for us years ago. She draws. Random drawings, random shapes. She yells at me because I do not know how to cook.
 
 She keeps talking about the saints and the priests, the lying thieves, the cross. She does not like extremes, she said to me, staring, staring. I kept my distance away. The door was open, the clothes were thrown on the ground, the books were around me and I was standing.
 
@@ -57,7 +57,7 @@ Good good Daddy, keep the right energy going on. In brackets, I really like bein
 
 That's better than whatever I am dealing with.
 
-I tell her I have experience at having male periods.
+I tell her I have experience with having male periods.
 
 At two minutes past one I had already told her, that's why you need ur mommy tho.
 
@@ -123,7 +123,7 @@ I told another one not to watch that film alone. I said you need someone to vomi
 
 ---
 
-Quarter past twelve, the same day I was turned down. She told me beware of teachers.
+Quarter past twelve, the same day I was turned down. She told me to beware of teachers.
 
 I see I see. Well, my mother was a math teacher, she just hated it in the end.
 
@@ -137,7 +137,7 @@ I got 19.5 in some test. I remember in second year, she was my teacher in math, 
 
 The same story I told the other one ten hours earlier. Neither of them knows the other exists.
 
-She sends me two voice notes. Then she sends three arms hugging.
+She sends me two voice notes. Then she sends three hugging arms.
 
 But as I grew, around second year of high school, she stopped doing all these things and started being better?
 
