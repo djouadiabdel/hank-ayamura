@@ -13,7 +13,7 @@ i just hate myself, i always look at myself as the kind of person who will just 
 
 Three minutes past three in the morning, the first of December. She says I am going to have the best sleep ever, because for a moment I discovered that she is my mom.
 
-U are righttt. Literally am getting sleeping thinking about it and weirdly feeling safe.
+U are righttt. Literally am getting sleepy thinking about it and weirdly feeling safe.
 
 Come here sleep on my chest, she says.
 
@@ -53,7 +53,7 @@ You would make a good mother. You are smart and empathetic. If someone is going 
 
 At twenty eight minutes past one she says, thank you so much Mommy, I really appreciate your support.
 
-Good good Daddy, keep the right energy going on. In brackets, I am really like being called that.
+Good good Daddy, keep the right energy going on. In brackets, I really like being called that.
 
 That's better than whatever I am dealing with.
 
