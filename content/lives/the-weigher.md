@@ -11,7 +11,7 @@ It is the small hours and the room is the same one. The bed is behind me. It is 
 
 i just hate myself, i always look at myself as the kind of person who will just end up alone like that
 
-Three minutes past three in the morning, the first of August. She says I am going to have the best sleep ever, because for a moment I discovered that she is my mom.
+Three minutes past three in the morning, the first of December. She says I am going to have the best sleep ever, because for a moment I discovered that she is my mom.
 
 U are righttt. Literally am getting sleeping thinking about it and weirdly feeling safe.
 
@@ -33,19 +33,19 @@ She keeps talking about the saints and the priests, the lying thieves, the cross
 
 ---
 
-That same night starts at midnight and I am the doctor.
+The same night, three hours before that. Midnight, and I am the doctor.
 
 She has pain. I explain her own body to her for an hour. Prostaglandin, because it makes the uterus contract. The second half of the cycle. If it is not hormonal you need an ortho, maybe an SI joint. Ovulation can feel like a high. Estrogen and testosterone running in your body with the LH, all going to have a feast day.
 
-Somebody sends me a man in a good coat at a fashion show in Hollywood. I send it to somebody else eleven minutes later.
+Somebody sends me a picture of a man in a good coat at a fashion show in Hollywood. I send it to somebody else eleven minutes later.
 
 I ask her when she feels ugly.
 
-I ask her what would help, beside doing cocaine. Then I say I am worried it might really be cocaine, because Algerian cocaine is not pure.
+I ask her what would help, besides doing cocaine. Then I say I am worried it might really be cocaine, because Algerian cocaine is not pure.
 
 I tell her I am now thinking about her ovulating while trying to solve a Rubik's cube. I tell her to have high thoughts about what it would be like to be a red colour, since the cube has red in it.
 
-She says she is dying. I say don't please.
+She says she is dying. I say don't, please.
 
 She says she wants to be pregnant one day. She says she is one of the girls who loves the idea of motherhood the most.
 
@@ -69,7 +69,7 @@ Noon. I love everything about you sweetheart. LOOOOVE YAAAA cutie. You don't nee
 
 At four minutes past twelve, to somebody else, in the middle of that. Well she rejected me hohohoha.
 
-Then back. Damn, a hundred? Well, we learn to pass patients fast.
+Then back to her. Damn, a hundred? Well, we learn to pass patients fast.
 
 Teacher of Eng, or wait wait let me guess, a teacher of Math.
 
@@ -77,7 +77,7 @@ I say I cannot stand kids.
 
 ---
 
-Quarter past two in the morning, ten hours before that. Force meeee. Don't let me be the guy who knows English and is mediocre in French, Hebrew, Greek.
+Quarter past two in the morning, ten hours earlier. Force meeee. Don't let me be the guy who knows English and is mediocre in French, Hebrew, Greek.
 
 I'm going to make you speak French only, she says. Kids worship their parents, no? This is ur mom btw, she says. Damn damn, what did u just make me say.
 
@@ -109,15 +109,15 @@ In January I wrote that the body wanted to be a child held by someone bigger tha
 
 I wrote that every time the arm came around me I made a joke and sat up.
 
-It took seven months and a stranger with no face and a keyboard.
+It took eleven months and a stranger with no face and a keyboard.
 
 am I just a bad person
 
 ---
 
-I told a friend he should try crying in front of a woman, because I wanted to see his feedback on it.
+In April I told a friend he should try crying in front of a woman, because I wanted to see his feedback on it.
 
-He said it is usually another guy taking over if he ever cries. He said he does not even cry in front of himself.
+He said it is usually another guy taking over if he cries. He said he does not even cry in front of himself.
 
 I told another one not to watch that film alone. I said you need someone to vomit on. I said it is scary, dude.
 
@@ -135,7 +135,7 @@ WHY DID YOU MISS THAT 0.5 WHYYYY. Then bam, got thrown with a gentle slap.
 
 I got 19.5 in some test. I remember in second year, she was my teacher in math, middle school.
 
-The same story I told the other one ten hours ago. Neither of them knows the other exists.
+The same story I told the other one ten hours earlier. Neither of them knows the other exists.
 
 She sends me two voice notes. Then she sends three arms hugging.
 
