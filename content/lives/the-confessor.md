@@ -21,11 +21,11 @@ I picked up the rosary. Tuesday. The Sorrowful. You are supposed to meditate on 
 
 I lit a cigarette. Or I wanted to. In Khenchela I could go out into the dark right now and get whatever I wanted, except a drink. They know my father there. They wouldn't sell me a drop. In Algiers it's cheaper than water.
 
-*Twenty-first of July, one in the morning. Pitch black.*
+*Twenty first of July, one in the morning. Pitch black.*
 
 He had looked at me that night. You've been reading many books in French, he said. Try making up a sentence. I told him I sucked at French. I tried translating some shit from the Bible. I looked at him, looked at the sky. He just said enough, enough, and walked off to the bathroom.
 
-Four fifty. I had written half a page about Monday the tenth of August and I read it back and deleted it to the last character. It had the words I just wanted her in it. I went and stood by the window with nothing outside it.
+Four fifty. I had written half a page about Monday the tenth of August and I read it back and deleted it to the last character. It had the words *I just wanted her* in it. I went and stood by the window with nothing outside it.
 
 That same night in July he was selling me at the pharmacy. Oh, a doctor here, he told some girl with literal psychosis. At one in the morning his friends send me their blood work and their scans. How fucked am I, sergeant. I make them wait ten minutes. I sit there and let the dread build. Then I tell them the truth. They like me for it. Honesty. A man came to the house once. I looked at his file, wrote the script. My father told me later the guy was so scared he shat himself.
 

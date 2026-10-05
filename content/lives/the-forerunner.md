@@ -5,9 +5,9 @@ aliases:
   - /the-forerunner
 ---
 
-The parcel was due Saturday or the day after. A rosary, a necklace of the mother of God, and an icon of John the Baptist, from the head of the church in Carthage, who has my email and writes back.
+The parcel was due Saturday or the day after. A rosary, a necklace of the Mother of God, and an icon of John the Baptist, from the head of the church in Carthage, who has my email and writes back.
 
-I had the script open since nine and I had the first move and nothing after it. The address, then the text, then the difficulty. I had the address. I have had the address for three days.
+The script had been open since nine and I had the first move and nothing after it. The address, then the text, then the difficulty. I had the address. I have had the address for three days.
 
 A girl asked me on the sixteenth when I converted, and I gave her the whole thing.
 
@@ -33,7 +33,7 @@ Half eleven. I wrote the difficulty and read it back and it was the answer with 
 
 Same day, twenty past ten at night, a different one. She had just typed that her family is religious as fuck. I said, around the start of this year, I made my brother leave islam lol. Now my nigga is an athiest. For fun. It's rare to find a non religious household.
 
-Two minutes after that I gave her the argument from John of Damascus, that their own book calls him the word.
+Two minutes after that I gave her the argument from John of Damascus, that their own book calls him the Word.
 
 In the last two years I have done the following. Memorised half of a book I no longer hold. Written four books in a language I do not write in any more and kept them at eye level behind my head. Learned the names of four churches I have been inside and one I have not. Got the emails. Kept the emails. Told the story of my life to four people this month and to nine people before them. Not been baptised.
 
@@ -57,7 +57,7 @@ Sixteenth of August, half past midnight. She said the book in my video looked ni
 
 She typed, arabic book yayyy, you normal human.
 
-Three minutes later I typed that I think I stole an arabic book before. Then, wait, let me find a book.
+Three minutes later I typed that I think I stole an Arabic book before. Then, wait, let me find a book.
 
 Thirteenth of August, twenty five to eleven at night. We were talking about the night we first spoke. My friend had told me, nigga, stop acting like a puppy, don't mess it up as you usually do.
 
