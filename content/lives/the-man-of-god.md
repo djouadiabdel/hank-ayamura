@@ -27,7 +27,7 @@ When I was fourteen I qualified for the North African memory competition. I did 
 
 She said fuck your fear. She said I would have been a great man, famous. I said I would have been crushed by men with more experience than me.
 
-I had a dream where I was reading a book and somebody had their head on my shoulders. It made me happy.
+I had a dream where I was reading a book and somebody had their head on my shoulder. It made me happy.
 
 ---
 
@@ -133,7 +133,7 @@ I have friends at the gym whose names I do not know. That is the gym rule. Every
 
 ---
 
-In May I woke at midnight with a pain in my chest that came every time my heart pushed the blood through, and I lay there and told myself to wait, that it would pass in a minute, that these things pass, and it did not pass, and it kept coming with every beat, and I got up and went down the hall to my parents crying.
+In May I woke at midnight with a pain in my chest that came every time my heart pushed the blood through, and I lay there and told myself to wait, that it would pass in a minute, that these things pass, and it did not pass, and it kept coming with every beat, and I got up and went down the hall to my parents, crying.
 
 I do not remember what happened next.
 
